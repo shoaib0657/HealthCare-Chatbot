@@ -1,0 +1,1001 @@
+Patient ID,Name,Date of Birth,Gender,Medical Condition,Treatments,Doctor's Notes,Admit Date,Discharge Date,Bill Amount
+921d93d1-17b8-426f-abae-5b16c7e5cd93,Debra Griffith,01-04-1971,Female,Chronic Obstructive Pulmonary Disease,Medication,Patient requires home oxygen therapy.,12-07-2021,13-07-2021,14651.34
+c3e70ecd-b794-4e9e-8136-ccf4ff363fe0,Robert Ross,20-02-1957,Female,Migraine,Pain Relief Medication,Follow-up to assess effectiveness of treatment.,13-07-2021,09-08-2021,718.94
+ef85177f-f933-4f60-aefe-6979e35c709a,Rachel Perez,27-11-1987,Female,Urinary Tract Infection,Hydration,Monitor for any signs of worsening symptoms.,14-07-2021,06-08-2021,1765.14
+8e36ba50-ebde-4b68-81b9-3cdca0b7eade,Michael Williams,06-12-2021,Male,Stroke,Physical Therapy,Referred to physical therapy for mobility improvement.,15-07-2021,05-08-2021,21413.36
+422bd94a-41e1-4bdc-96a3-f7570a868df1,Christopher Rodriguez,19-12-1990,Male,Hypertension,Lifestyle Changes,Patient started on antihypertensive medication.,16-07-2021,20-07-2021,4879.91
+06a7cef8-73c4-4530-a93a-61e147f13aa0,Carrie White,09-07-1980,Female,Asthma,Inhalers,Advised to avoid known asthma triggers.,16-07-2021,20-07-2021,2691.17
+7f425133-f186-41a8-952e-84ed9f6b84cc,Emily Velasquez,22-09-2020,Female,Stroke,Speech Therapy,Speech therapy initiated to address language difficulties.,17-07-2021,08-08-2021,13922.34
+0ee3999e-d77f-4985-abae-71c1a4f0a003,David Jackson,11-11-1976,Female,Fracture,Physical Therapy,Referred to physical therapy for rehabilitation.,17-07-2021,09-08-2021,5717.08
+95f8f10d-b073-4c1a-9626-11a4944f486c,John Stephens,15-12-1935,Female,Arthritis,Medication,Advised on lifestyle modifications to reduce joint pain.,21-07-2021,04-08-2021,2652.33
+b689b4b7-04a2-4620-9940-5010dbd52aac,Paul Berg,15-06-1996,Female,Anxiety,Cognitive Behavioral Therapy,Prescribed anxiolytic medication for symptom control.,23-07-2021,25-07-2021,3799.87
+88462a18-95ea-4b67-837b-aa171ecead75,Cassandra Miller,27-04-1983,Female,Cancer,Chemotherapy,Scheduled for radiation therapy next week.,24-07-2021,09-08-2021,73896.19
+0df01bb8-b9b8-4d91-a5ac-e3e744286d7d,Kelly Roberts,11-02-1938,Male,Common Cold,Hydration,Symptoms should improve within a week.,29-07-2021,28-08-2021,333.02
+2b48635a-eda9-4cdd-9f47-2481a075fa38,Robert Johnson,21-05-2003,Female,Chronic Obstructive Pulmonary Disease,Medication,Prescribed long-term bronchodilators.,29-07-2021,13-08-2021,18390.09
+faccc8d5-1f7c-4310-9fc5-cd22d38ad475,Travis Castillo,08-05-2010,Female,Diabetes,Insulin Therapy,Insulin therapy initiated; patient instructed on usage.,30-07-2021,02-08-2021,3337.91
+c5e18e48-1ff1-4209-9d65-42c81674b669,Christopher Garcia,16-09-1934,Female,Asthma,Medication,Patient instructed on proper inhaler technique.,31-07-2021,15-08-2021,1892.46
+84f49173-37b2-473f-9486-2115203bcbf2,Deanna Gordon,13-10-1998,Female,Parkinson's Disease,Physical Therapy,Referred to physical therapy to improve mobility and balance.,01-08-2021,05-08-2021,7391.17
+07360377-b987-41e6-bb63-e24e5e3d8359,Karen Osborne,01-10-1987,Female,Depression,Antidepressants,Follow-up to assess effectiveness of treatment.,04-08-2021,14-08-2021,2960.11
+8d7b3cd7-1ca4-44c8-9970-7fd605dafb07,Taylor Myers,06-05-1978,Female,Cancer,Radiation Therapy,Discussed surgical options and potential outcomes.,04-08-2021,10-08-2021,73517.15
+8a31887c-08fe-41d9-8a7d-3f5ac3594335,Matthew Bowen,31-07-1934,Female,Gastroenteritis,Rehydration Therapy,Prescribed rehydration solution and advised rest.,06-08-2021,31-08-2021,1070.39
+65fe8ce2-b452-45b8-8d95-b8047d12c26a,Mark Mendez,18-10-1946,Female,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,07-08-2021,23-08-2021,330.81
+b1e3fe8e-d947-4dc0-ad4c-8bcc34cd0169,Kathleen Cohen,09-01-1962,Male,COVID-19,Antiviral Drugs,Monitor for any signs of respiratory failure.,08-08-2021,27-08-2021,15423.02
+b86853e7-b4b0-44f7-a5e4-b735be42da28,Stephanie Brown,05-10-1986,Male,Urinary Tract Infection,Hydration,Started on antibiotics to treat infection.,11-08-2021,04-09-2021,2517.74
+f476d1eb-b041-46fc-9ef5-bc91cbf5e60d,Pamela Mcintosh,05-09-1985,Male,Urinary Tract Infection,Antibiotics,Advised increased fluid intake.,11-08-2021,25-08-2021,1072.44
+a243a3e3-b6e4-480d-94be-d387d70287f4,Eric Spencer,05-11-1981,Female,Common Cold,Rest,Symptoms should improve within a week.,12-08-2021,02-09-2021,190.58
+fb27f30f-c615-4d7d-bdc3-5aa4d92f756b,Alicia Hobbs,15-12-1928,Female,Asthma,Inhalers,Prescribed bronchodilator for immediate relief.,12-08-2021,27-08-2021,4505.97
+5d4cd120-9b7e-4b1e-b303-7a128aefd9fe,Tammy Cook,24-01-1977,Male,Influenza,Hydration,Advised rest and maintain hydration.,15-08-2021,24-08-2021,2186.57
+5b05cf46-21b7-4143-bd56-358c231ccdc7,Warren Ball,02-12-1929,Female,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,15-08-2021,01-09-2021,19838.39
+c5f11786-656f-4a2f-938b-64f7b88c4dc1,Thomas Perez,11-09-2003,Female,Sprain,Rest,Monitor for any signs of worsening symptoms.,16-08-2021,15-09-2021,2543.44
+6a97e365-b3bb-40e1-aea0-0ceb5a091c56,Krystal Hayes,31-10-2016,Female,Urinary Tract Infection,Antibiotics,Advised increased fluid intake.,18-08-2021,15-09-2021,2820.66
+f268348a-e7fb-4985-b53e-47018215a80d,George Martinez,17-04-1945,Male,Skin Infection,Topical Antibiotics,Prescribed topical antibiotics for local infection.,20-08-2021,30-08-2021,556.93
+f8addd8b-fd12-4c53-a652-6732496395c4,Stacy Williams,12-02-1995,Female,Migraine,Pain Relief Medication,Prescribed medication for immediate pain relief.,21-08-2021,15-09-2021,1719.63
+d03ee15d-4b2a-4d92-9f99-75df12227db8,David Smith,20-08-2023,Male,Sinusitis,Antibiotics,Prescribed decongestants to relieve sinus pressure.,21-08-2021,17-09-2021,1370.5
+6db0cb06-f633-4b7c-95df-21b3d3dde459,Keith Cox,11-09-1972,Female,Bronchitis,Rest,Started on antibiotics for bacterial infection.,24-08-2021,18-09-2021,2353.47
+87937b87-764c-4fe8-9f84-b710e5c4aa6b,Fernando Brown,27-07-1961,Female,Sinusitis,Antibiotics,Advised on steam inhalation for symptom relief.,27-08-2021,31-08-2021,2822.24
+031ac3d0-9f41-4ed1-90be-939ac368dd6c,Kenneth Smith,03-10-1943,Male,Cancer,Radiation Therapy,Chemotherapy regimen started; patient informed of side effects.,27-08-2021,16-09-2021,37508
+9b3a6e21-8838-49f4-b952-fcaf01428c62,Brian Ortega,02-11-1984,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Referred to cognitive behavioral therapy to improve memory and thinking skills.,27-08-2021,13-09-2021,18941.35
+93ca6215-3c58-47e2-9647-7e0fa744a135,Robert Francis,12-01-1980,Female,Sprain,Elevation,Prescribed pain relief medication.,29-08-2021,30-08-2021,2524.95
+40063c47-1a5f-4a60-97e7-e15152015830,Julie Russell,13-07-1948,Male,COVID-19,Antiviral Drugs,Oxygen therapy administered for low blood oxygen levels.,29-08-2021,11-09-2021,40700.44
+14d662e1-a9c5-49e7-8b6f-e701d7de0b0b,Mary Moore,20-11-1943,Male,Chronic Kidney Disease,Dialysis,Advised on dietary restrictions to support kidney function.,30-08-2021,09-09-2021,47724.71
+6eef2241-96f6-43c7-af89-c0a1cf9dbe8b,Jennifer Wolfe,23-02-1940,Male,Asthma,Medication,Advised to avoid known asthma triggers.,30-08-2021,31-08-2021,1924.29
+f21605b3-7d6d-43d3-b6a3-66c897e609e7,Katherine Davis,19-10-1937,Male,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,01-09-2021,09-09-2021,29750.22
+ed4c4b82-0e82-49f2-8940-73f270c641c9,Michael Mcdonald,28-06-2005,Male,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Referred to pulmonary rehabilitation program.,01-09-2021,01-10-2021,7748.74
+d00ed138-4b26-4364-8259-4c9f9ac14db5,Donna Gardner,28-08-2021,Male,Asthma,Inhalers,Advised to avoid known asthma triggers.,02-09-2021,04-09-2021,1601.55
+92928a2c-4c39-4120-ade1-25a01c37500b,Daniel Mora,22-07-1994,Male,Burns,Bandaging,Prescribed pain relief medication.,02-09-2021,06-09-2021,2345.96
+f483b84c-b5d2-48dc-85fc-b51826ec2273,John Thomas,28-05-1961,Male,Burns,Pain Relief,Prescribed pain relief medication.,02-09-2021,18-09-2021,2284.65
+a2ad7e73-8c55-4065-ad39-8dd0a57c0dc0,Lauren Anderson,19-02-1938,Male,Gastroenteritis,Medication,Prescribed rehydration solution and advised rest.,06-09-2021,15-09-2021,2502.58
+25e1ba57-5a7c-4ab7-9a92-96896685b2b0,Brandon White,11-02-1957,Female,Epilepsy,Surgery,Discussed surgical options for refractory epilepsy.,06-09-2021,26-09-2021,4424.62
+f3648e1b-c262-4c3e-a45d-0ac6c7a81acb,Tonya Garza,15-08-1949,Female,Epilepsy,Medication,Advised to maintain a seizure diary.,08-09-2021,11-09-2021,9175.58
+e8561512-6dcb-4ce1-9ee5-756174f40065,Henry Smith,10-02-2024,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Started on medication to slow progression of symptoms.,08-09-2021,28-09-2021,6290.08
+8e11e344-c5e2-4779-afb2-8383f29abbde,Cynthia Miller,03-08-1978,Male,Chronic Kidney Disease,Dialysis,Advised on dietary restrictions to support kidney function.,11-09-2021,20-09-2021,23513.88
+d6e40b36-779b-48ae-9371-1a1a08f00cb9,Karen Daniel,23-04-1940,Male,Bronchitis,Cough Medicine,Started on antibiotics for bacterial infection.,12-09-2021,29-09-2021,2440.95
+13b6714e-6e47-4d5b-bf5b-de6024c9e08f,James Case,04-06-1935,Male,Cancer,Radiation Therapy,Scheduled for radiation therapy next week.,14-09-2021,18-09-2021,77649.09
+7157906c-80c7-4f91-8516-4d00d6825061,Andrew Taylor,08-10-2005,Male,Asthma,Inhalers,Prescribed bronchodilator for immediate relief.,14-09-2021,02-10-2021,1362.26
+272ebfdc-ee1c-4d5a-859f-9d505128eceb,Jonathan Schroeder,19-06-2023,Female,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,14-09-2021,03-10-2021,28489.14
+f13315d1-249b-4050-9711-d0bbd28eee4e,Matthew Zimmerman,01-02-1950,Female,Sinusitis,Decongestants,Started on antibiotics for bacterial infection.,15-09-2021,17-09-2021,1178.87
+9a935c38-fa81-4bc9-95c8-2d64731e176f,Joe Bryant,27-12-2009,Male,Sprain,Elevation,Prescribed pain relief medication.,15-09-2021,06-10-2021,1034.05
+01b86b7d-86d4-4560-b24e-35045279297f,George Brown,14-12-1999,Male,Alzheimer's Disease,Cognitive Behavioral Therapy,Discussed with family about disease progression and care options.,16-09-2021,30-09-2021,11888.72
+3e50e91c-2843-428b-aa98-65a957d551b7,Kimberly Gay,09-08-1957,Male,Anxiety,Anxiolytics,Referred to cognitive behavioral therapy.,19-09-2021,16-10-2021,2471.69
+e9f2bb28-424a-42c4-8fd5-d644f1a1790a,Heather Johnson,22-04-1951,Male,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,19-09-2021,30-09-2021,402.9
+ef4dd264-52cd-4acf-978e-e06d1d8aea3a,Laura Solis,17-08-1946,Male,Alzheimer's Disease,Cognitive Behavioral Therapy,Started on medication to slow progression of symptoms.,19-09-2021,02-10-2021,11078.84
+08e578b1-376d-47f9-a803-088e0a2bb62a,Julia Wells,14-02-1992,Female,Migraine,Pain Relief Medication,Prescribed medication for immediate pain relief.,20-09-2021,01-10-2021,649.54
+126f582a-9cef-45bf-9f94-bf08f6c760ce,Janet Reed,18-06-2009,Female,Anxiety,Cognitive Behavioral Therapy,Discussed stress management techniques.,20-09-2021,30-09-2021,4039.92
+f798a354-56ce-4178-a4cd-b77249e64824,Carla Mckenzie,28-11-1958,Male,Gastroenteritis,Medication,Prescribed rehydration solution and advised rest.,21-09-2021,26-09-2021,2723.7
+f9842e4a-88eb-452b-8968-167315010ba5,Miss Patricia Butler DVM,29-05-2020,Female,Chronic Kidney Disease,Medication,Patient started on dialysis; discussed procedure and schedule.,22-09-2021,09-10-2021,48452.66
+f06abaf6-5ac5-4ce1-84cb-fa0a6f0c74d6,John Campbell,16-06-2001,Female,Epilepsy,Medication,Advised to maintain a seizure diary.,23-09-2021,06-10-2021,3010.52
+75cb982a-a739-431e-8e22-ba2e4f9aba96,Christopher Palmer,27-01-1966,Male,Depression,Antidepressants,Prescribed antidepressant medication.,23-09-2021,28-09-2021,2802.46
+75cdc78e-03fa-4296-9b3e-ddbe7f482f1c,Renee Lamb,15-11-1936,Male,Chronic Obstructive Pulmonary Disease,Medication,Patient requires home oxygen therapy.,24-09-2021,08-10-2021,12696.72
+55eada07-ee97-4c50-a4c5-7aec5c385428,Charles Warren,25-11-1982,Male,Fracture,Physical Therapy,Discussed surgical options for complex fracture.,24-09-2021,24-10-2021,6671.07
+32683077-4d19-43bb-abb7-93ef84cc7f98,Pamela Wallace,04-07-2016,Male,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,24-09-2021,09-10-2021,658.07
+020e69db-e796-43d3-bf35-9ffa4a996889,Cheryl Skinner,11-08-1998,Female,Urinary Tract Infection,Antibiotics,Monitor for any signs of worsening symptoms.,25-09-2021,24-10-2021,1989.13
+386993a4-7292-4185-b7c3-ea354c1f76c7,Jacqueline Diaz,19-06-1962,Male,Alzheimer's Disease,Cognitive Behavioral Therapy,Referred to cognitive behavioral therapy to improve memory and thinking skills.,25-09-2021,17-10-2021,5897.98
+79503efc-99e6-4b95-a036-f8d5c0fc263e,Ryan Tanner,24-12-2013,Female,Chronic Kidney Disease,Medication,Patient started on dialysis; discussed procedure and schedule.,26-09-2021,13-10-2021,14011.74
+7e299f04-1cae-4ed0-bbf5-82fb3ea4801a,William Estrada,13-07-1977,Male,Depression,Antidepressants,Referred to therapy for additional support.,27-09-2021,09-10-2021,2394.11
+8fbd396c-963b-4098-b5fb-2e07b892fa3d,Erik Stewart,01-07-2024,Female,Cancer,Radiation Therapy,Discussed surgical options and potential outcomes.,28-09-2021,13-10-2021,27284.75
+6e9ae84f-997f-46b3-88d9-1c2b5aa627b7,Julie Taylor,23-05-1978,Male,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,29-09-2021,03-10-2021,23553.22
+0a609565-8cbc-4e36-ab34-430f5183069c,Joseph Miller,19-07-2000,Female,Diabetes,Insulin Therapy,Insulin therapy initiated; patient instructed on usage.,29-09-2021,20-10-2021,5905.59
+4edd2267-856a-470a-900a-fb58cf374e98,Russell Anderson,29-06-2018,Male,Alzheimer's Disease,Medication,Discussed with family about disease progression and care options.,29-09-2021,07-10-2021,8059.6
+30fe1263-93f3-41a8-9744-4f0d3e04321e,Albert Jones,12-07-1985,Male,Bronchitis,Cough Medicine,Started on antibiotics for bacterial infection.,30-09-2021,01-10-2021,747.72
+5e5c8d0c-1b25-4004-95d8-0454e1d818e9,Felicia Greene,10-02-1942,Male,Cancer,Radiation Therapy,Scheduled for radiation therapy next week.,30-09-2021,08-10-2021,56380.86
+734a6dec-374e-404a-a032-8dec73d5f1b7,Lisa Roberts,01-07-1962,Female,Chronic Kidney Disease,Dialysis,Advised on dietary restrictions to support kidney function.,01-10-2021,07-10-2021,49858.44
+c0fb3fbf-3f77-40e2-aa7b-5c66e20a0ebf,Pamela Marks MD,08-03-1981,Male,Allergies,Avoidance of Allergens,Advised to avoid known allergens.,01-10-2021,03-10-2021,806.64
+e18e3ae9-b727-47d0-b84f-b62fc8d37adf,Marie Johnson,15-04-2002,Male,Arthritis,Medication,Advised on lifestyle modifications to reduce joint pain.,02-10-2021,17-10-2021,6554.54
+5051bdfd-ae9e-4c16-9dae-31fdc03c71dc,Emily Edwards,18-01-1932,Female,Diabetes,Insulin Therapy,Discussed dietary changes to manage blood sugar levels.,04-10-2021,09-10-2021,2194.42
+18fd7f63-5dd0-40a4-8c38-db0d1c8e62e8,Kelly Skinner,02-11-2008,Female,Heart Disease,Medication,Prescribed beta-blockers and statins.,04-10-2021,09-10-2021,47848.06
+e0aabdd4-930e-4f52-bfaf-bc8b79049286,Melissa Powell,15-11-1948,Male,Bronchitis,Antibiotics,Prescribed cough medicine and advised rest.,06-10-2021,03-11-2021,1050.25
+e60a4e1e-4806-4073-a704-73539a2159b8,Robert Taylor,19-06-1946,Female,Urinary Tract Infection,Antibiotics,Started on antibiotics to treat infection.,07-10-2021,16-10-2021,890.12
+f77b95bb-6778-41c8-9661-19ab0465e954,Gregory Fisher,04-03-2000,Female,Heart Disease,Medication,Prescribed beta-blockers and statins.,08-10-2021,30-10-2021,14544.14
+c4b76553-dc52-4283-9ca5-8ba98e98492b,Allen Thompson,20-05-1982,Male,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,09-10-2021,16-10-2021,2783.14
+65355403-d1c8-44ce-a611-dea646da69ef,Timothy Pineda,15-02-1982,Female,Asthma,Medication,Patient instructed on proper inhaler technique.,12-10-2021,21-10-2021,4392.35
+1f4e37df-307d-4f61-81bc-1d83998ccf1d,Christine Hale,27-04-1984,Female,Gastroenteritis,Rehydration Therapy,Symptomatic treatment for nausea and vomiting.,13-10-2021,03-11-2021,1229.01
+71998e1e-9fca-4aad-bd44-a67b22cc9758,Peter Ward,23-09-1987,Female,Allergies,Antihistamines,Advised to avoid known allergens.,15-10-2021,04-11-2021,683.73
+6d78aaa8-8763-4a15-b142-082c51945e49,Jessica Smith,26-03-1983,Male,Multiple Sclerosis,Physical Therapy,Referred to physical therapy to maintain muscle strength.,16-10-2021,25-10-2021,10027.87
+b8849c31-1273-4b66-ae81-a5c4947af117,Rita Hunt,07-08-1943,Female,Influenza,Hydration,Prescribed antiviral medication; start immediately.,17-10-2021,10-11-2021,672.29
+4fc5683e-d3d3-4a73-83f3-b801e5cdae97,Amber Bailey,01-12-2006,Female,Sinusitis,Decongestants,Advised on steam inhalation for symptom relief.,19-10-2021,07-11-2021,2398.32
+04a814bc-4ab0-4c2b-a1c9-47193efa6617,Samuel Schneider,02-12-1991,Female,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,21-10-2021,23-10-2021,1273.1
+9aca7978-eda0-47c6-ab25-df6e23f1dd88,Jason Phillips,22-03-2003,Female,Allergies,Avoidance of Allergens,Discussed potential for allergy testing.,21-10-2021,08-11-2021,647.43
+4f1cefe6-4ba5-4646-8c3d-8c285232a12e,Stephen West,19-08-1981,Male,Urinary Tract Infection,Antibiotics,Advised increased fluid intake.,22-10-2021,07-11-2021,1109.3
+96678228-1329-494f-b18e-204d8bb1571f,Karen Wilson,28-04-1983,Female,Migraine,Pain Relief Medication,Advised on lifestyle changes to reduce migraine triggers.,22-10-2021,30-10-2021,1348.57
+5bb8f4f5-e7b2-49ac-9fe7-34beda8edec9,Richard Terry,23-02-1931,Male,COVID-19,Antiviral Drugs,Oxygen therapy administered for low blood oxygen levels.,23-10-2021,17-11-2021,5963.88
+b85bd9c6-5ce1-46b5-8f6f-c00f3a7c5e28,Michael Smith,02-01-2017,Female,Bronchitis,Rest,Prescribed cough medicine and advised rest.,23-10-2021,06-11-2021,1875.02
+a06be831-a709-4ab9-a9d6-55a626cb8cee,Marcus Padilla,17-08-1938,Female,COVID-19,Antiviral Drugs,Oxygen therapy administered for low blood oxygen levels.,24-10-2021,16-11-2021,23956.28
+b727268a-6515-42a7-864d-ec8813b81c84,Gabrielle Kelly,07-02-1997,Male,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,27-10-2021,31-10-2021,383.38
+a0edfd81-490a-4c7e-a119-d3453049ea80,Julie Moore,15-12-1938,Male,Bronchitis,Cough Medicine,Started on antibiotics for bacterial infection.,28-10-2021,05-11-2021,2309.31
+77ab152e-407c-4ae2-88e9-c34587bc6561,Andrea Wood,26-11-1973,Male,Diabetes,Insulin Therapy,Patient advised to monitor blood sugar levels regularly.,29-10-2021,21-11-2021,5017.34
+f880237d-83c7-46a0-9ea3-b4f4a20679ff,David Anderson,08-07-2019,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Discussed with family about disease progression and care options.,29-10-2021,03-11-2021,19018.33
+8ec34d2d-6ac1-46e7-a4b5-f8adff308686,Zachary Foster,24-04-2009,Male,Common Cold,Rest,Symptoms should improve within a week.,29-10-2021,14-11-2021,367.55
+4707fb20-7093-4344-a934-05123dbc8ffb,Zachary Fritz,01-09-1948,Male,Multiple Sclerosis,Medication,Referred to physical therapy to maintain muscle strength.,30-10-2021,19-11-2021,14195.56
+79e84b96-a262-48d6-9bb3-fa907b320716,Denise Cervantes,14-01-2006,Male,Fracture,Casting,Fracture immobilized with casting.,30-10-2021,12-11-2021,6823.1
+08adda26-c2ee-42d9-9ef9-8014ff0e0b04,Brandon James,23-06-1947,Female,Hypertension,Medication,Patient started on antihypertensive medication.,31-10-2021,30-11-2021,2300.8
+185c3f01-4982-42a4-b931-18b6e2b8a787,Hannah Carter,20-02-1964,Male,Common Cold,Rest,Advised rest and increased fluid intake.,03-11-2021,27-11-2021,345.64
+d8866069-e3b1-40fd-99d4-41ed8c922ee4,Melody Robertson,30-08-2006,Male,Chronic Kidney Disease,Medication,Patient started on dialysis; discussed procedure and schedule.,04-11-2021,05-11-2021,14070.18
+a89596c2-917a-4e07-9477-90a81fde5345,Elijah Morrow,26-11-1969,Female,Common Cold,Rest,Advised rest and increased fluid intake.,04-11-2021,14-11-2021,482.23
+ee9d9919-78c3-431b-ab8e-28dec3292c7e,Dr. William Greene Jr.,06-03-2003,Male,Epilepsy,Surgery,Antiepileptic medication prescribed; monitor for side effects.,05-11-2021,10-11-2021,9149.93
+b8daad85-64a2-495a-98a8-33977b3cde50,William Richardson,29-09-1976,Male,Chronic Obstructive Pulmonary Disease,Medication,Referred to pulmonary rehabilitation program.,09-11-2021,03-12-2021,18646.04
+f7985985-78bb-4d9d-b6b7-6b7d0b6eb6bf,David Gray,18-04-1961,Female,Cancer,Radiation Therapy,Discussed surgical options and potential outcomes.,09-11-2021,30-11-2021,31172.92
+f6009fbb-0820-4d51-be18-4dcf36afa113,Amy Wolfe,10-12-1975,Female,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,09-11-2021,22-11-2021,944.15
+dc12b127-960a-46b0-80c9-ac2836e8c0a4,Brian Sanders,25-08-2023,Male,Pneumonia,Oxygen Therapy,Monitor for any signs of respiratory distress.,10-11-2021,30-11-2021,19103.6
+dacab2f9-c27b-4911-9e6b-a6d64bf0728c,Antonio Ferguson,29-05-1940,Male,Migraine,Lifestyle Changes,Advised on lifestyle changes to reduce migraine triggers.,10-11-2021,29-11-2021,1835.77
+a3841300-08a9-4337-892a-7d021e7a900e,Brooke Moore,10-09-1944,Female,Gastroenteritis,Rehydration Therapy,Prescribed rehydration solution and advised rest.,14-11-2021,18-11-2021,1182.35
+04b124d5-b7ad-449f-8ac3-2796eb889f6b,Leah James,18-06-1984,Male,Diabetes,Lifestyle Changes,Insulin therapy initiated; patient instructed on usage.,16-11-2021,29-11-2021,5212.73
+b48b0e44-f908-44fd-ba12-3ad1a2304e0b,Brandy Oconnor,05-10-1968,Female,Asthma,Medication,Prescribed bronchodilator for immediate relief.,17-11-2021,13-12-2021,3591.87
+1480d4d6-85f2-4609-8dd3-b66e442496ed,Jared Smith,18-11-2005,Male,Bronchitis,Cough Medicine,Prescribed cough medicine and advised rest.,21-11-2021,01-12-2021,777.41
+993cf382-683a-4543-b48a-9720fea0d2d0,Jose Day,06-10-1928,Female,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,21-11-2021,29-11-2021,25720.59
+13cd3337-57ea-425b-8ff1-0ff7faf1d73b,Briana Lucas,17-01-1980,Female,Hypertension,Medication,Follow-up in two weeks to monitor blood pressure.,22-11-2021,25-11-2021,3519.02
+94194987-ba5c-45b5-99cc-1f33a36791bd,Cameron Parker,13-10-1940,Female,Diabetes,Medication,Discussed dietary changes to manage blood sugar levels.,25-11-2021,27-11-2021,4517.27
+15f45b7c-1fbe-4bf5-85a3-36accea7f825,Brett Buckley,15-10-2019,Female,Sinusitis,Antibiotics,Prescribed decongestants to relieve sinus pressure.,26-11-2021,03-12-2021,1624.42
+886b9151-b62a-4494-a51b-6e6cb31a2420,Dawn Anderson,01-02-1975,Male,Allergies,Antihistamines,Prescribed antihistamines for allergy relief.,26-11-2021,29-11-2021,340.6
+ab183790-957e-44b7-b637-fda2756474ea,Joseph Melton,26-11-2002,Male,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,27-11-2021,05-12-2021,281.82
+2754c99a-e956-406e-b924-2c7e889bbd49,Corey Davies,13-02-1986,Male,Epilepsy,Medication,Discussed surgical options for refractory epilepsy.,29-11-2021,27-12-2021,13924.19
+0525af66-74e9-45a5-b1e4-e86cf85e549d,Christopher Sanchez,25-10-2003,Male,Asthma,Medication,Prescribed bronchodilator for immediate relief.,29-11-2021,25-12-2021,3563.84
+acf26c03-bdbe-4a2f-a73b-05ce0907bd4b,Michelle Riley,28-01-2022,Female,Bronchitis,Rest,Monitor for any signs of worsening respiratory symptoms.,01-12-2021,11-12-2021,2919.32
+a6dffaa0-ec2f-4bdd-883a-822a44f7109a,Gregg Garcia,28-12-1962,Male,Depression,Antidepressants,Referred to therapy for additional support.,01-12-2021,30-12-2021,3292.87
+680aba02-33a2-471c-923d-f9a2ff44f0eb,Brett Hernandez,11-07-1970,Male,Multiple Sclerosis,Physical Therapy,Disease-modifying therapy initiated.,02-12-2021,17-12-2021,17369.82
+12d1e486-3cc5-4b71-b501-c2209f83dbc0,Calvin Alexander,03-11-1990,Female,Influenza,Antiviral Drugs,Advised rest and maintain hydration.,02-12-2021,28-12-2021,1725.45
+63842f30-e865-4de4-86f4-2538020e0321,Jessica Wood,22-07-2012,Male,Influenza,Antiviral Drugs,Prescribed antiviral medication; start immediately.,06-12-2021,01-01-2022,973.68
+1f608dac-a1dc-4543-a9a4-c477d2ca96dc,Xavier Schneider,10-12-1967,Female,Sinusitis,Antibiotics,Advised on steam inhalation for symptom relief.,07-12-2021,05-01-2022,2648.45
+11b630a2-d1d8-4c8b-83ea-09fcd60be880,James Smith,31-08-1953,Male,Multiple Sclerosis,Medication,Discussed strategies to manage fatigue and other symptoms.,09-12-2021,23-12-2021,6707.59
+d8e4f865-171b-460f-81c7-8746a4de0568,Stephen Martin,23-07-1947,Female,Sprain,Rest,Monitor for any signs of worsening symptoms.,11-12-2021,23-12-2021,1080.87
+6a572387-3c92-4eb6-b1b8-f5eb4ac6806b,Carol Silva,30-01-2020,Female,Fracture,Physical Therapy,Discussed surgical options for complex fracture.,14-12-2021,23-12-2021,8441.21
+74f1e2d1-0bfe-47d6-b5d6-2ab4c0fd1d48,Barbara Gibson,19-03-2007,Female,Urinary Tract Infection,Hydration,Started on antibiotics to treat infection.,15-12-2021,29-12-2021,1450.62
+125f2ce1-a22d-4f1c-b4c5-8e9db3a9d10d,Susan Williams,16-07-1948,Female,Common Cold,Hydration,Advised rest and increased fluid intake.,15-12-2021,06-01-2022,259.89
+fe6aa127-3fb7-4428-8f19-23fa96ac2a9f,Crystal Berry,01-04-1930,Male,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,16-12-2021,08-01-2022,855.3
+f9126224-0fd4-4265-a3bd-04b99ab6ede2,Cynthia Ramirez,12-04-1949,Male,Gastroenteritis,Medication,Monitor for any signs of dehydration.,17-12-2021,07-01-2022,1259.94
+674f5f47-1196-4e3b-98ed-bf8f1eb5726a,Michelle Martin,20-06-1973,Male,Fracture,Physical Therapy,Discussed surgical options for complex fracture.,18-12-2021,16-01-2022,4090.35
+1872c7d1-407f-4428-ac81-1e54739a1608,Mary Fritz,26-02-2022,Female,Depression,Therapy,Prescribed antidepressant medication.,20-12-2021,12-01-2022,2473.17
+98fa0568-a316-4369-862a-defb0b24423c,Sarah Adams,30-03-1948,Female,Hypertension,Lifestyle Changes,Follow-up in two weeks to monitor blood pressure.,21-12-2021,18-01-2022,4908.09
+a3532f14-7b87-475d-a05c-7d7ba8046201,Sandra Green,14-06-1998,Male,Cancer,Surgery,Chemotherapy regimen started; patient informed of side effects.,22-12-2021,19-01-2022,60079.35
+df6984cf-6b08-4fdf-882e-eac79d2468e5,John Day,07-10-1945,Female,Burns,Topical Creams,Bandaged affected area to protect from further injury.,24-12-2021,31-12-2021,2415.35
+d94f8b03-d1c4-49f5-8480-e71ce85b33ce,Roy Cook,29-05-1992,Male,Heart Disease,Medication,Discussed surgical options for coronary artery disease.,25-12-2021,20-01-2022,40665.66
+cda0f0c5-9027-4100-9f8e-1e1d685ba656,Scott Pena,29-12-1930,Female,Stroke,Speech Therapy,Referred to physical therapy for mobility improvement.,27-12-2021,11-01-2022,10847.14
+5b7aba80-dd70-4c0c-ba05-174e5e1f212a,Steven Castillo,26-06-1947,Male,Migraine,Lifestyle Changes,Follow-up to assess effectiveness of treatment.,28-12-2021,21-01-2022,2371.32
+8c3052c8-a268-4a19-94a8-d3f2d3e19018,Megan Coffey,25-10-2008,Male,Parkinson's Disease,Medication,Discussed potential for deep brain stimulation surgery.,28-12-2021,04-01-2022,12614.47
+e6c144f0-d4a1-4cb1-8ef0-7ecd3789195a,Tonya Bradley,22-09-1927,Female,Sinusitis,Antibiotics,Started on antibiotics for bacterial infection.,28-12-2021,30-12-2021,1334.9
+e4a9d5f0-f31d-4b3e-a270-308b73a771ff,Gary Nicholson,03-02-1950,Male,Hypertension,Medication,Patient started on antihypertensive medication.,30-12-2021,16-01-2022,4925.04
+d6e13c61-77a0-480b-a66f-54b753d05e4f,Gregory Moore,06-08-1971,Female,Gastroenteritis,Medication,Symptomatic treatment for nausea and vomiting.,31-12-2021,14-01-2022,769.7
+f08409ff-4f09-4700-8459-214b77d639f6,Alexander Kelly,20-10-1985,Male,Burns,Topical Creams,Bandaged affected area to protect from further injury.,01-01-2022,06-01-2022,1624.05
+8de4c238-3c60-43a2-86f9-d25683c484c7,Duane Rodriguez,22-06-2013,Female,Depression,Antidepressants,Referred to therapy for additional support.,02-01-2022,20-01-2022,2125.51
+fb713076-bf22-420f-a4b3-6d8897c3efe6,Manuel May,25-03-2015,Male,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,02-01-2022,04-01-2022,363.31
+e13ba45c-c8b9-4159-b3dc-8381b2a7c8f2,Toni Ross,28-12-1935,Female,Depression,Antidepressants,Follow-up to assess effectiveness of treatment.,04-01-2022,21-01-2022,1604.15
+b7f28f03-bcf6-4fe2-8826-8f63c18bc1d9,Martin Rhodes,03-01-1942,Male,Cancer,Radiation Therapy,Scheduled for radiation therapy next week.,05-01-2022,24-01-2022,42818.23
+f19e9aac-015b-4bf3-a484-6cb957a919d9,Mia Roberts,21-08-2018,Male,COVID-19,Antiviral Drugs,Monitor for any signs of respiratory failure.,09-01-2022,05-02-2022,48070.1
+e711f177-0fa0-4ded-a05a-f66ccf8c4edf,Bethany Martin,12-03-1934,Female,Epilepsy,Surgery,Discussed surgical options for refractory epilepsy.,10-01-2022,01-02-2022,11314.16
+86d559d4-d455-4ec9-b3f5-f7f1bfbbd3c0,Victoria Reid,22-06-1958,Male,Multiple Sclerosis,Medication,Referred to physical therapy to maintain muscle strength.,11-01-2022,17-01-2022,7656.3
+90b0a72c-ca26-4872-a6c2-afa1c3a63a34,Sheila Gonzales,15-01-1957,Female,Sinusitis,Antibiotics,Advised on steam inhalation for symptom relief.,11-01-2022,17-01-2022,2979.37
+afdd65d4-1d1e-4030-a272-263dfa537338,Denise House,26-07-1985,Female,Migraine,Pain Relief Medication,Follow-up to assess effectiveness of treatment.,12-01-2022,05-02-2022,2028.07
+c568470b-7149-4a4f-aa44-801635b0afe5,Kevin Washington,06-05-1947,Female,Arthritis,Medication,Prescribed anti-inflammatory medication.,12-01-2022,05-02-2022,5746.82
+841391a1-a557-4f6f-a2e3-0446dbbb7c69,Craig Moreno,15-01-2010,Male,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,13-01-2022,21-01-2022,218.97
+34386a27-fcdb-4ca1-8314-68f328853a1a,Mackenzie Ford,18-09-1950,Male,Hypertension,Medication,Advised to reduce salt intake and increase physical activity.,14-01-2022,21-01-2022,1200.81
+ec8f333c-62e7-459a-974a-2581354b0468,Jerome Hamilton,25-04-2002,Female,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,15-01-2022,07-02-2022,688.81
+3d6b76a9-aa27-4dcd-bf8e-ee9e6259d1ce,Valerie Martin,18-08-1963,Female,Fracture,Physical Therapy,Discussed surgical options for complex fracture.,15-01-2022,05-02-2022,5699.43
+4b9c5b07-3972-4888-8fa7-653ae8cbd3a9,Mark Walker,17-07-2021,Female,Fracture,Physical Therapy,Fracture immobilized with casting.,16-01-2022,05-02-2022,6582.73
+f50b5064-5f17-4e74-bf67-20a467ad5cad,Kelsey Johnson,15-01-1997,Male,Diabetes,Lifestyle Changes,Patient advised to monitor blood sugar levels regularly.,17-01-2022,27-01-2022,4784.99
+6a64e052-3443-4afb-a8e0-6057da3eaac9,Briana Taylor,07-09-1955,Male,Chronic Kidney Disease,Medication,Patient started on dialysis; discussed procedure and schedule.,18-01-2022,27-01-2022,19565.53
+26b663f5-7ea9-411f-ab22-30f8afbe51db,Yvette Chavez,09-10-1945,Female,Chronic Obstructive Pulmonary Disease,Medication,Patient requires home oxygen therapy.,18-01-2022,11-02-2022,18500.81
+ebed9ca1-317d-43a2-a09e-db07578d3130,Rachel Massey,28-05-1936,Female,Multiple Sclerosis,Physical Therapy,Referred to physical therapy to maintain muscle strength.,19-01-2022,30-01-2022,11245.09
+e968321e-820b-44f7-9b97-ac74f4859548,Brett Johnson,04-03-1950,Female,Epilepsy,Medication,Advised to maintain a seizure diary.,19-01-2022,07-02-2022,5944.73
+f182af7c-bb4b-42ea-848b-a6011e7ec360,Vickie Garza,07-07-1974,Male,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,21-01-2022,25-01-2022,21009.17
+66c6f7f1-69f7-44e3-bf75-1699083536f6,Christopher Haynes,08-10-1931,Male,Stroke,Physical Therapy,Speech therapy initiated to address language difficulties.,23-01-2022,19-02-2022,21616.2
+d0494167-0c00-4b71-adfa-20ea08bc135f,Jennifer Burnett,25-02-1942,Female,Allergies,Avoidance of Allergens,Prescribed antihistamines for allergy relief.,23-01-2022,03-02-2022,547.85
+f8df1eb2-7d29-4966-b92c-7368f4166c75,Ariana Martin,03-08-1957,Female,Skin Infection,Topical Antibiotics,Prescribed topical antibiotics for local infection.,24-01-2022,12-02-2022,888.47
+0daa3f73-51c1-4e8b-89c1-5e2d57b5ef36,Lynn Brandt,14-05-1961,Male,Hypertension,Lifestyle Changes,Patient started on antihypertensive medication.,24-01-2022,28-01-2022,4341.88
+3efdd64c-6f4f-458a-b6ba-e8f11ec1424d,Ashley Winters,16-04-1978,Male,Urinary Tract Infection,Antibiotics,Monitor for any signs of worsening symptoms.,28-01-2022,23-02-2022,1311.58
+d3217813-0965-48c7-a6e6-791552f3d2bd,Kelly Henderson,29-03-1970,Male,Sprain,Compression,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",29-01-2022,15-02-2022,2549.23
+9b141076-3913-447c-88df-5f566b37b09d,Stephanie Mitchell,23-12-1988,Female,Allergies,Antihistamines,Prescribed antihistamines for allergy relief.,29-01-2022,03-02-2022,458.38
+e0cc7bfc-8dd0-4ce6-81c1-c9234942a5f0,Maurice Reese,19-11-2002,Female,Influenza,Antiviral Drugs,Monitor for any worsening of symptoms.,30-01-2022,20-02-2022,2681.85
+799beb9a-0080-4f61-be28-666581d03ae4,Jose Matthews,19-01-1958,Male,Common Cold,Over-the-counter Medication,Recommended over-the-counter medication for symptom relief.,31-01-2022,28-02-2022,203.08
+1eef37a0-d3ab-40ee-89f9-aad92ad1908e,Kaitlin Hansen,10-04-1979,Male,Burns,Bandaging,Bandaged affected area to protect from further injury.,01-02-2022,17-02-2022,1989.11
+c30e7099-5988-42dc-9fe3-3f58c6453113,Matthew Green,29-11-1959,Female,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,02-02-2022,01-03-2022,7143.32
+0416bef8-c0ed-4b71-a621-40cbc5263a60,Matthew Chen,24-10-1924,Female,Migraine,Lifestyle Changes,Advised on lifestyle changes to reduce migraine triggers.,04-02-2022,12-02-2022,595.42
+1caba3b2-99c5-4c2c-8814-dfd639f5ebb2,Dr. William French,25-01-1973,Female,COVID-19,Ventilation,Patient tested positive for COVID-19; started on antiviral drugs.,04-02-2022,23-02-2022,18329.24
+e5d021f6-4cd5-4ddb-b5fe-30be9d1213f3,Barbara Dominguez,27-07-1965,Male,Asthma,Medication,Advised to avoid known asthma triggers.,06-02-2022,02-03-2022,3159.35
+50ff88bb-1dca-4b66-9fec-9515848f14aa,Loretta Perez MD,16-11-2019,Male,Influenza,Hydration,Prescribed antiviral medication; start immediately.,06-02-2022,09-02-2022,979.64
+6dae2231-2930-40bc-8aab-24e205034bb1,Martin Stevens,08-07-1999,Female,Diabetes,Insulin Therapy,Insulin therapy initiated; patient instructed on usage.,08-02-2022,04-03-2022,6100.03
+01df3728-cefa-421f-9adf-2172f67bb175,Richard Perkins,27-06-1950,Female,Arthritis,Medication,Advised on lifestyle modifications to reduce joint pain.,08-02-2022,13-02-2022,6372.55
+e6fbd0dc-abee-4130-8aee-6b68eb6ff284,David Parker,14-12-1995,Female,Skin Infection,Oral Antibiotics,Advised to keep affected area clean and dry.,10-02-2022,04-03-2022,677.22
+05908b7c-af35-4500-b3b2-017b88a2cc1c,Derrick Martinez,26-07-1972,Female,Burns,Topical Creams,Prescribed pain relief medication.,12-02-2022,09-03-2022,2968.97
+8b5450ff-ef2d-41f5-bcc1-9cc9fd210258,Eric Arnold DDS,22-07-1932,Female,Burns,Bandaging,Applied topical creams to prevent infection.,13-02-2022,11-03-2022,2794.2
+7c492bab-c296-4e24-9916-a0ec05c68edb,Olivia Miller,25-12-1979,Female,Urinary Tract Infection,Hydration,Started on antibiotics to treat infection.,13-02-2022,03-03-2022,1889
+0c249057-1bdd-49d8-9792-a7f0e8183cd2,Richard Knox,12-08-2007,Female,Arthritis,Physical Therapy,Advised on lifestyle modifications to reduce joint pain.,13-02-2022,25-02-2022,2307.35
+3697acf3-4404-492c-bed1-8daaafccbfad,Miguel Long,17-12-1965,Male,Bronchitis,Rest,Started on antibiotics for bacterial infection.,15-02-2022,16-02-2022,1251.96
+26262751-90f7-4406-ac58-a1c2cb464feb,Kari Williams,16-09-1950,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Discussed with family about disease progression and care options.,16-02-2022,13-03-2022,14826.91
+2d0cc5ec-2ce6-4e92-9e0b-7751659301ef,Amber Evans,02-04-2017,Male,Influenza,Hydration,Advised rest and maintain hydration.,18-02-2022,01-03-2022,2932.08
+6db1753e-82c4-4d54-825b-392360cb4311,Pamela Berry MD,08-07-1954,Male,Burns,Pain Relief,Bandaged affected area to protect from further injury.,21-02-2022,14-03-2022,1220.42
+a6474cc5-902b-4f61-b640-4bf2daa1782a,Jennifer Cross,23-02-1954,Female,Alzheimer's Disease,Medication,Referred to cognitive behavioral therapy to improve memory and thinking skills.,23-02-2022,04-03-2022,6192.22
+41f4b222-e7f2-4bfd-9fde-5c6abf20a302,Jennifer Harris,02-04-1926,Male,Hypertension,Medication,Patient started on antihypertensive medication.,23-02-2022,10-03-2022,2108.17
+4cd832bd-791b-426d-9501-15520a750e51,Alicia Kelly,14-06-1959,Male,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,26-02-2022,24-03-2022,15515.37
+2d31dd76-766c-4fba-9c1c-647e3b7ab736,Michael Barnett,06-12-1969,Female,Chronic Kidney Disease,Dialysis,Patient started on dialysis; discussed procedure and schedule.,26-02-2022,14-03-2022,12500.36
+902496fd-df73-497f-8c86-84d3f342d3fc,Robert Harris,11-06-1994,Male,Heart Disease,Surgery,Prescribed beta-blockers and statins.,28-02-2022,24-03-2022,38081.11
+49e35484-73a1-449e-bfd5-a3a212f5a390,Christopher Morton,19-12-2002,Male,Fracture,Casting,Discussed surgical options for complex fracture.,01-03-2022,23-03-2022,7541.72
+c08f3cb5-1243-4d76-a419-4ab58b81bd99,Isaiah Jackson,09-02-1970,Female,Heart Disease,Medication,Prescribed beta-blockers and statins.,01-03-2022,03-03-2022,41862.74
+10d5bb00-cc18-4654-888e-cc8dfbaa8e3b,Olivia Sexton,09-11-1952,Female,Asthma,Medication,Advised to avoid known asthma triggers.,01-03-2022,08-03-2022,3074.27
+e0cca5c2-ac7a-46cf-a313-870019494c97,Stephen Rogers,31-03-1984,Female,Influenza,Antiviral Drugs,Advised rest and maintain hydration.,02-03-2022,24-03-2022,2949.1
+42c2f799-1c8b-4006-b654-2654dd10602f,Trevor Johnson,28-05-1965,Female,Parkinson's Disease,Medication,Initiated dopaminergic medication for symptom control.,03-03-2022,27-03-2022,15848.64
+b9ae9743-405f-454c-83d5-a563bd19de35,John Reid,06-07-1966,Male,Hypertension,Medication,Patient started on antihypertensive medication.,03-03-2022,21-03-2022,2780.21
+a78a00e7-e5e2-4124-aaae-3e0fa453f335,Brenda Marquez,10-07-2023,Male,Arthritis,Physical Therapy,Prescribed anti-inflammatory medication.,05-03-2022,20-03-2022,9840.5
+3b9f181c-1b33-4578-ab13-3f574d0c7eda,Ashley Russell,01-06-1959,Male,Fracture,Surgery,Discussed surgical options for complex fracture.,07-03-2022,28-03-2022,3908.72
+66fb6be5-6afb-423f-ad10-e7d4199a3f26,Mrs. Kayla Hale,08-04-2004,Female,Epilepsy,Medication,Antiepileptic medication prescribed; monitor for side effects.,07-03-2022,20-03-2022,11150.26
+ed22cf65-7928-4aab-aeda-236054470ddd,Jose Ward,17-01-1956,Male,Epilepsy,Medication,Antiepileptic medication prescribed; monitor for side effects.,12-03-2022,30-03-2022,11363.32
+a9f418b3-2657-4c62-a2ad-29d6cbd9549a,Cynthia Cook,29-09-1962,Female,Sinusitis,Antibiotics,Started on antibiotics for bacterial infection.,14-03-2022,15-03-2022,1617.87
+10e5e0ff-c830-4e10-8628-f6cccaa94cb9,Vanessa Hughes,16-03-1953,Female,Anxiety,Anxiolytics,Discussed stress management techniques.,15-03-2022,08-04-2022,1186.08
+b25866fc-078a-47c3-8317-b9497a6e628b,Jennifer Stone,22-07-1929,Male,Influenza,Hydration,Advised rest and maintain hydration.,19-03-2022,20-03-2022,2468.69
+fdf2f192-7b2a-4982-b4e7-347dfd249217,Kyle Smith,06-07-1947,Female,Chronic Obstructive Pulmonary Disease,Medication,Prescribed long-term bronchodilators.,20-03-2022,15-04-2022,13046.02
+a65381a8-e925-4ebd-8859-9369011f32c6,Jamie Lozano,12-06-1944,Male,Asthma,Inhalers,Prescribed bronchodilator for immediate relief.,22-03-2022,13-04-2022,3438.59
+454e02cb-37f3-41ab-a908-2c2b9aa9f44d,Jerry Bullock,11-10-2014,Male,Burns,Bandaging,Bandaged affected area to protect from further injury.,22-03-2022,12-04-2022,1976.63
+bcbdebb8-a1b6-418b-8310-e38e1df14f27,Elizabeth Pham,10-03-2010,Female,Pneumonia,Oxygen Therapy,Started on broad-spectrum antibiotics.,22-03-2022,10-04-2022,19170.99
+d5b736d0-d8d2-486e-9c2e-caf979af8bdf,Angela Flores,10-04-1957,Female,Asthma,Inhalers,Patient instructed on proper inhaler technique.,22-03-2022,10-04-2022,2006.08
+4923e716-8800-4587-88fd-e62c56ccca23,Brian Williams,27-08-1929,Male,Multiple Sclerosis,Physical Therapy,Disease-modifying therapy initiated.,23-03-2022,07-04-2022,10516.67
+004fa9f9-89b7-40c7-b3d3-a9851971937d,Donald Ramos,26-10-1998,Male,Skin Infection,Oral Antibiotics,Started on oral antibiotics for more severe infection.,23-03-2022,09-04-2022,922.7
+685de05b-cd1d-482e-b347-ec21367ac2e1,James Jackson,05-03-1970,Female,Chronic Kidney Disease,Dialysis,Patient started on dialysis; discussed procedure and schedule.,25-03-2022,22-04-2022,44744.9
+11d966fb-23cc-463f-8304-d1099050eb64,Elizabeth Hughes,24-09-1977,Female,Common Cold,Hydration,Recommended over-the-counter medication for symptom relief.,25-03-2022,07-04-2022,198.28
+3c4831ba-1868-4451-a02b-afc5b5035cf4,Michelle Bates,15-04-2007,Female,Heart Disease,Surgery,Patient referred for cardiac catheterization.,27-03-2022,24-04-2022,49010.2
+a7e6b95c-7ef1-41ce-b15e-65bb307e4406,Ralph Ball,04-11-1973,Male,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,28-03-2022,14-04-2022,18841.28
+1fb8ab59-c826-45a2-89c1-6b381aa7f9c4,Kristen Campbell,28-02-2002,Female,Gastroenteritis,Rehydration Therapy,Prescribed rehydration solution and advised rest.,29-03-2022,08-04-2022,1244.31
+e749448d-b264-42f8-807a-08987bd71060,Autumn Pearson,03-02-1981,Female,Gastroenteritis,Medication,Prescribed rehydration solution and advised rest.,30-03-2022,21-04-2022,2456.37
+fe925f9a-b40b-4eb1-83f6-d2e5bf0435f8,Stephen Lynch,01-03-1946,Female,COVID-19,Oxygen Therapy,Patient tested positive for COVID-19; started on antiviral drugs.,31-03-2022,27-04-2022,30261.06
+e1772385-e6b8-45bd-970e-2de8fb98a1aa,Jonathan Bright,22-05-1968,Male,Common Cold,Rest,Recommended over-the-counter medication for symptom relief.,31-03-2022,02-04-2022,269.77
+de66afea-ddc9-4e9c-8504-7a10172676df,Adam Warren,04-10-1932,Male,Burns,Pain Relief,Applied topical creams to prevent infection.,01-04-2022,27-04-2022,2807.08
+5238a1ca-f61a-4161-9733-1341d813e387,Terry Alvarez,13-11-1956,Female,Multiple Sclerosis,Physical Therapy,Referred to physical therapy to maintain muscle strength.,02-04-2022,01-05-2022,12446.39
+f26ec283-1197-4012-83b7-7d8136601c6f,Daniel Berger,21-09-2002,Female,Parkinson's Disease,Physical Therapy,Discussed potential for deep brain stimulation surgery.,03-04-2022,03-05-2022,8333.65
+7606f1ac-24e0-4d6b-95e1-27252e1344ed,Angelica Gomez,08-08-1987,Male,Heart Disease,Medication,Discussed surgical options for coronary artery disease.,05-04-2022,18-04-2022,38683.82
+a0fbd8a7-c428-4c91-8c50-2c63370d2f01,Whitney Matthews DVM,17-07-2019,Female,Bronchitis,Antibiotics,Monitor for any signs of worsening respiratory symptoms.,05-04-2022,11-04-2022,1404.21
+07f6873c-d62b-488b-abdd-f78083c3fdca,Robert Phillips,21-01-1986,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Started on medication to slow progression of symptoms.,06-04-2022,02-05-2022,12186.67
+38174cd3-246e-4ec3-8cc1-f2d5774db7df,Johnny Taylor,06-01-2005,Male,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,07-04-2022,10-04-2022,2398.38
+01b54189-24a2-45bc-938e-ff761db99f51,Alexa Smith,05-01-1964,Female,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,09-04-2022,18-04-2022,35988.6
+92236d77-dd72-4ef7-b08d-e7ebef632713,Christopher Jones,18-08-1961,Female,Allergies,Avoidance of Allergens,Prescribed antihistamines for allergy relief.,10-04-2022,21-04-2022,736.7
+0c73110d-88e5-44de-a6b6-fededb62c8db,Abigail Molina,22-04-2021,Male,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,11-04-2022,30-04-2022,17702.8
+107f8aa0-610d-4f43-b1c5-05ea582b7793,Lori Gay,27-12-1936,Female,Cancer,Chemotherapy,Discussed surgical options and potential outcomes.,14-04-2022,17-04-2022,60452.7
+df2b7cfb-de0c-4279-bee0-57a3726f7ea0,Karen Dougherty,30-10-1976,Female,Alzheimer's Disease,Medication,Discussed with family about disease progression and care options.,16-04-2022,06-05-2022,15309.39
+09e6222d-ac2d-4fd4-bba8-65ab9379878d,Steven Zhang Jr.,03-03-1965,Male,Common Cold,Rest,Symptoms should improve within a week.,16-04-2022,20-04-2022,274.53
+de303dfb-1cf3-4950-9f0e-5316a2633efc,Jeffrey Winters,10-12-2015,Male,Hypertension,Lifestyle Changes,Patient started on antihypertensive medication.,20-04-2022,25-04-2022,3090.77
+a1cc72be-cc2f-48c5-891c-60059b5d139d,Kimberly Kim,28-05-1946,Female,Urinary Tract Infection,Antibiotics,Advised increased fluid intake.,21-04-2022,22-04-2022,1277.63
+e4a42fc8-3508-46b1-b096-fc43a085b0c2,Jennifer Thomas,17-10-1997,Female,Pneumonia,Antibiotics,Hospitalized for closer monitoring and oxygen therapy.,21-04-2022,02-05-2022,7525.45
+55675a07-9e2b-41af-a0c3-86a024e8ba80,Jessica Shields,07-12-1957,Male,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,22-04-2022,23-04-2022,2350.2
+0a7a6e98-74d4-4723-85a0-b004ffed0417,Joseph Shelton,19-01-1956,Male,Diabetes,Insulin Therapy,Insulin therapy initiated; patient instructed on usage.,22-04-2022,06-05-2022,8137.96
+851c4156-8f73-470b-a8af-756dfae8cea5,Kelly Miller,20-08-1952,Male,Epilepsy,Medication,Advised to maintain a seizure diary.,23-04-2022,11-05-2022,13451.1
+016b6bdc-8a5c-45bc-b03b-593b0d647dcd,David Williams,27-09-1930,Male,Arthritis,Medication,Referred to physical therapy for joint strengthening exercises.,24-04-2022,25-04-2022,9493.17
+2c4c0dad-96f5-430f-8579-1b83d3e8aa04,Cameron Cooper,03-09-1947,Male,Bronchitis,Antibiotics,Prescribed cough medicine and advised rest.,25-04-2022,27-04-2022,1939.73
+ac5cab5b-6a9a-406a-b0ec-3a7f148419d3,Marissa Cole,17-10-1971,Male,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Referred to pulmonary rehabilitation program.,26-04-2022,29-04-2022,5831.51
+b00d9706-30cf-44dd-8acc-6f1991932b15,Matthew Mcdaniel,09-05-2017,Male,Diabetes,Medication,Insulin therapy initiated; patient instructed on usage.,27-04-2022,16-05-2022,4879.84
+b241557b-5b8d-4bbd-a652-c0354b18e897,Randy Smith,11-02-2015,Female,Heart Disease,Surgery,Patient referred for cardiac catheterization.,27-04-2022,08-05-2022,36384.39
+f1e12eb0-d89c-4eea-8b00-c15c41bd81a5,Shawn Coleman,19-08-1997,Female,Bronchitis,Rest,Prescribed cough medicine and advised rest.,28-04-2022,17-05-2022,771.22
+9fd710c1-8ad1-48df-ae35-ff8c9204f3ed,Kyle Carrillo,14-11-2019,Male,Stroke,Physical Therapy,Speech therapy initiated to address language difficulties.,28-04-2022,01-05-2022,29328.45
+787ae9e6-245c-4870-878b-d2fd95688ff0,Lisa Jackson,18-06-1952,Female,Urinary Tract Infection,Hydration,Monitor for any signs of worsening symptoms.,01-05-2022,08-05-2022,2459
+13102410-5707-42a9-9bb8-36d5da80dcb0,Cynthia Thompson,03-01-1986,Female,Parkinson's Disease,Medication,Initiated dopaminergic medication for symptom control.,03-05-2022,18-05-2022,14838.71
+f01cd65e-f910-47de-9d95-5a40a311ab86,Dr. Dana Burgess MD,16-10-1961,Female,Sinusitis,Decongestants,Started on antibiotics for bacterial infection.,03-05-2022,07-05-2022,721.84
+b269d4a8-2cd6-4401-9d04-5ccdd4331800,Sara Grimes,22-05-1952,Male,Heart Disease,Surgery,Discussed surgical options for coronary artery disease.,04-05-2022,15-05-2022,29504.83
+502ad88d-7700-4a6c-94a1-b784a65d1483,Stephanie Nelson,31-01-1974,Female,Arthritis,Medication,Advised on lifestyle modifications to reduce joint pain.,05-05-2022,20-05-2022,7411.97
+5ee12575-19d4-4965-a893-1e19f89fc8b4,Thomas Wilson,24-04-1944,Female,Depression,Antidepressants,Prescribed antidepressant medication.,06-05-2022,01-06-2022,4782.02
+fc8b176b-e849-47a3-8ea2-115a0dc1a835,Amy Gill,01-01-1968,Female,Fracture,Casting,Discussed surgical options for complex fracture.,08-05-2022,01-06-2022,4177.09
+40ebdebd-3cbb-4914-9d68-87adde143c87,Yolanda Gilmore,14-04-2001,Female,Skin Infection,Topical Antibiotics,Prescribed topical antibiotics for local infection.,08-05-2022,26-05-2022,535.4
+ee6f3d29-4110-4562-a8e3-965f0380259e,Bryan Green,21-08-1971,Female,Multiple Sclerosis,Medication,Discussed strategies to manage fatigue and other symptoms.,09-05-2022,20-05-2022,19190.59
+dbb85205-367a-4c29-9e71-b392174f5ab0,David Wallace,14-06-1956,Female,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,09-05-2022,06-06-2022,14759.68
+493f35ee-cce0-4211-a574-37b0f3d33704,Carl Chapman,11-07-1968,Male,Allergies,Antihistamines,Discussed potential for allergy testing.,09-05-2022,13-05-2022,738.39
+fe1e0bc3-6099-4913-90b2-e9cd77ecc6b2,Nicholas Bradley,07-04-2021,Female,Chronic Kidney Disease,Dialysis,Patient started on dialysis; discussed procedure and schedule.,09-05-2022,01-06-2022,14693.26
+1b154448-f708-4575-8f4b-20749fb898fe,Caroline Miller,12-03-2014,Male,Parkinson's Disease,Medication,Discussed potential for deep brain stimulation surgery.,10-05-2022,29-05-2022,12837.81
+aa52f31a-7fc5-455a-9edc-e921f2e7b97e,Kimberly Martin,25-07-2019,Female,Sprain,Elevation,Prescribed pain relief medication.,11-05-2022,01-06-2022,911.41
+683a5df1-c8cf-4533-9ce0-05f5bfb2c10b,Stephanie Hart,18-09-1949,Female,Epilepsy,Medication,Advised to maintain a seizure diary.,13-05-2022,14-05-2022,13872.07
+0f7d6a22-66b1-4674-a890-64e2086978ed,Shaun Jones,04-06-1948,Female,Fracture,Physical Therapy,Referred to physical therapy for rehabilitation.,14-05-2022,30-05-2022,3252.5
+294df0d7-1f54-4d18-b637-976a979d6b7c,Natalie Gamble,09-10-1940,Female,Anxiety,Anxiolytics,Prescribed anxiolytic medication for symptom control.,14-05-2022,01-06-2022,3400.4
+7462229a-4859-42f1-893a-f33c15409062,Benjamin Frazier,25-02-2003,Female,Asthma,Inhalers,Advised to avoid known asthma triggers.,14-05-2022,13-06-2022,3071.12
+adfe3bad-8c26-4e27-8f6e-9741bfed14ff,Megan Waters,15-09-1985,Female,Urinary Tract Infection,Antibiotics,Started on antibiotics to treat infection.,14-05-2022,02-06-2022,1792.52
+8d3f2e70-6ec3-4a05-99cf-f27629e95d11,Omar Anderson,21-01-2006,Female,Common Cold,Rest,Symptoms should improve within a week.,17-05-2022,25-05-2022,339.23
+2ab7cbb6-b1f5-44a9-82c6-2438aa776c46,Lisa Thomas,27-02-1993,Male,Heart Disease,Surgery,Prescribed beta-blockers and statins.,18-05-2022,30-05-2022,31356.48
+ecfde653-89a5-43f1-90fd-7395f80db1b3,Deborah Jones,04-02-1973,Female,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,18-05-2022,01-06-2022,7984.33
+04ec9d7d-23ba-4a60-a12c-b8f69ef4889a,Stephanie Murphy,21-07-1999,Male,Anxiety,Cognitive Behavioral Therapy,Discussed stress management techniques.,21-05-2022,01-06-2022,2028.65
+21198a84-530d-4342-b7b7-ee2299303002,Nancy Fox,30-01-2024,Female,Sinusitis,Decongestants,Started on antibiotics for bacterial infection.,24-05-2022,08-06-2022,2623.46
+85af9c52-5c26-4d05-b967-e7b99d82c6ce,Dr. Christopher Morton,13-05-1986,Female,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,24-05-2022,02-06-2022,7056.87
+478f2ee5-4cad-4c7c-b4f9-a936a6e04597,Jim Hall,05-06-1957,Male,Sinusitis,Decongestants,Started on antibiotics for bacterial infection.,26-05-2022,11-06-2022,2413.47
+bb40b293-22b7-4674-8f5c-2464235eb4de,Mark Thomas,14-09-1966,Female,Diabetes,Insulin Therapy,Patient advised to monitor blood sugar levels regularly.,26-05-2022,22-06-2022,6496.06
+3a00f90a-962c-4171-9650-beb4e20ecc25,Kevin Thompson,26-09-1940,Male,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,27-05-2022,05-06-2022,1444.81
+6cbd143b-bfd0-4b75-b9d7-100939942775,Nicholas Wood,30-11-2000,Male,Hypertension,Lifestyle Changes,Follow-up in two weeks to monitor blood pressure.,28-05-2022,24-06-2022,1275.35
+df42390e-d43f-453e-91fa-e9123d04804c,Joel Harrington,22-08-2002,Female,Pneumonia,Oxygen Therapy,Hospitalized for closer monitoring and oxygen therapy.,30-05-2022,01-06-2022,10525.4
+369a12d6-6254-4768-aa66-784c4b03512b,David Farmer,24-08-2007,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Referred to cognitive behavioral therapy to improve memory and thinking skills.,02-06-2022,27-06-2022,7599.84
+28dcac79-0a71-40c7-9be4-ffe653c8bae4,Cory Sandoval,17-12-1961,Female,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,02-06-2022,30-06-2022,15829.2
+24abf24f-d697-4a19-ba9d-3a94a000e237,Leslie Booth,02-09-1930,Female,Multiple Sclerosis,Physical Therapy,Referred to physical therapy to maintain muscle strength.,03-06-2022,16-06-2022,11665
+6b572dd2-36f4-4123-9d91-a350ff68c7d6,John Dougherty,09-07-1998,Male,Fracture,Physical Therapy,Discussed surgical options for complex fracture.,03-06-2022,24-06-2022,5998.63
+72820f80-3c80-4b31-a92d-86bd19f50f79,Miss Lisa Bradley,04-08-1950,Female,Heart Disease,Medication,Prescribed beta-blockers and statins.,06-06-2022,11-06-2022,30759.48
+6b8e32e7-489d-4644-8bb9-4f779ab2a6e4,Justin Marshall,09-05-1975,Male,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,06-06-2022,13-06-2022,21456.46
+2fabaa47-fe5e-4f95-bce0-d4a2f7696623,Shannon Myers,06-05-1986,Female,Depression,Antidepressants,Prescribed antidepressant medication.,07-06-2022,13-06-2022,3049.78
+35a5e232-287b-47b4-a06e-2e644a254366,James Williams,16-07-2009,Male,Gastroenteritis,Rehydration Therapy,Prescribed rehydration solution and advised rest.,08-06-2022,04-07-2022,1507.93
+673fe081-0bb8-41be-a5f9-1833a92152c7,Olivia Allen,04-10-1993,Male,Chronic Kidney Disease,Dialysis,Prescribed medication to manage blood pressure and protect kidneys.,10-06-2022,07-07-2022,18443.47
+c6abf0dd-ae38-4434-b55f-f18689caca7a,Lucas Paul,08-09-1964,Female,Migraine,Lifestyle Changes,Advised on lifestyle changes to reduce migraine triggers.,11-06-2022,16-06-2022,1595.83
+f929577d-e5c5-44ec-8c61-aaec2ce2d231,Randy Johnson,12-05-1983,Female,Sinusitis,Decongestants,Started on antibiotics for bacterial infection.,11-06-2022,11-07-2022,1841.93
+592c8a9a-16ad-435a-9514-9fac5d147903,Tara Boyd,18-02-2017,Female,Pneumonia,Oxygen Therapy,Monitor for any signs of respiratory distress.,12-06-2022,25-06-2022,17521.4
+1608af13-1733-41ef-b773-f43c6d2782ca,Melissa Powell,30-08-1977,Female,Cancer,Surgery,Scheduled for radiation therapy next week.,16-06-2022,29-06-2022,91310.99
+be104834-c6e4-4b1c-9bc1-c278e27a91a0,Maurice Gordon,26-06-1994,Male,Depression,Antidepressants,Referred to therapy for additional support.,17-06-2022,08-07-2022,2940.66
+8b5e71eb-073b-4a12-a6a8-e33d1f1c5a79,Dustin Knapp,14-11-1949,Male,COVID-19,Antiviral Drugs,Patient tested positive for COVID-19; started on antiviral drugs.,23-06-2022,25-06-2022,34717.78
+8c1329b5-59e6-4116-954a-88ca9cf6e7e8,James Foster,17-09-1923,Male,Bronchitis,Antibiotics,Started on antibiotics for bacterial infection.,23-06-2022,16-07-2022,1707.7
+ac66d549-f939-4469-ac73-5a94869d96c8,Tina Rivera,12-04-1942,Male,Asthma,Medication,Prescribed bronchodilator for immediate relief.,23-06-2022,13-07-2022,3834.43
+f751594a-866b-4c07-8265-42fdb5071dcf,Andrew Gonzalez,08-04-2012,Male,Alzheimer's Disease,Cognitive Behavioral Therapy,Discussed with family about disease progression and care options.,23-06-2022,11-07-2022,8387.91
+b1a13982-5183-4659-b20f-67f90d4c92a2,Maria Lucas,04-10-1960,Female,Fracture,Physical Therapy,Fracture immobilized with casting.,24-06-2022,15-07-2022,2120.38
+79e3f17d-428e-42ab-9745-2f1fafe777d4,Meagan Taylor,28-10-1945,Female,Burns,Topical Creams,Bandaged affected area to protect from further injury.,26-06-2022,22-07-2022,2871.05
+8c6b429f-683d-4e5d-b098-7f552499c48c,John Chapman,26-02-1978,Female,Arthritis,Medication,Prescribed anti-inflammatory medication.,27-06-2022,18-07-2022,8119.79
+06b38d1c-ba1e-4cec-9c61-44bc42b57ab8,Joel Shaw,31-07-1996,Male,COVID-19,Antiviral Drugs,Monitor for any signs of respiratory failure.,27-06-2022,09-07-2022,15844.22
+6a3ad8be-9901-417a-8c62-067319e63b76,William Davis,12-06-2022,Female,Epilepsy,Surgery,Discussed surgical options for refractory epilepsy.,27-06-2022,28-06-2022,9618.17
+484119a8-66ca-499c-ad0e-61937fe083b5,Shirley May,28-02-1932,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Started on medication to slow progression of symptoms.,30-06-2022,03-07-2022,13094.09
+0e9e745a-03f8-4fef-ad26-f8e370dc0b14,Katelyn Jackson,21-01-1955,Male,Sinusitis,Decongestants,Started on antibiotics for bacterial infection.,01-07-2022,09-07-2022,881.67
+4e092a76-0b68-4b6a-b80d-320ea327a818,Denise Friedman,03-02-1926,Female,Multiple Sclerosis,Medication,Disease-modifying therapy initiated.,02-07-2022,30-07-2022,8877.17
+060cc082-8b71-4497-8b35-27db45c9dbab,Isaiah Alvarez,14-12-1934,Female,Anxiety,Cognitive Behavioral Therapy,Prescribed anxiolytic medication for symptom control.,03-07-2022,26-07-2022,2925.02
+b70317d0-7246-40a6-9e7d-90a94c75eb02,Tina Scott,05-09-1929,Male,Multiple Sclerosis,Medication,Referred to physical therapy to maintain muscle strength.,05-07-2022,26-07-2022,5535.47
+bccea3ec-e992-44ea-8718-b13a91fb4f37,Ryan Riley,11-10-1983,Male,Pneumonia,Hospitalization,Hospitalized for closer monitoring and oxygen therapy.,05-07-2022,24-07-2022,9695.25
+4aca09c5-3174-4687-9d96-d3990b451d04,Grace Brown,19-02-1959,Female,Influenza,Antiviral Drugs,Monitor for any worsening of symptoms.,06-07-2022,22-07-2022,834.84
+ad2742d9-b36d-4ba0-928a-8f8527e4c89e,Michael Harris,14-07-1973,Male,Cancer,Radiation Therapy,Scheduled for radiation therapy next week.,06-07-2022,15-07-2022,96312.07
+977c8b3d-bc80-4334-a270-13d02b5c3c97,Nicholas Gill,29-10-1997,Female,Burns,Bandaging,Applied topical creams to prevent infection.,07-07-2022,26-07-2022,2639.22
+e8c5956b-3b60-4940-bccf-e8f196a4e8d3,Robin Jones,22-02-1958,Male,Cancer,Radiation Therapy,Chemotherapy regimen started; patient informed of side effects.,12-07-2022,13-07-2022,44687.63
+5f81a9da-4d05-4fdd-a9a5-5e212736df96,Robert Gutierrez,13-09-2010,Male,Common Cold,Hydration,Symptoms should improve within a week.,15-07-2022,07-08-2022,120.51
+fdad6477-a5b8-4bcd-ac07-6120affbcd0b,Charles Lucero,16-04-1972,Female,Anxiety,Anxiolytics,Referred to cognitive behavioral therapy.,16-07-2022,19-07-2022,2426.34
+cb52f8ef-35c8-4fc5-9f1f-dbda3dd53cdf,Brianna Wallace,12-05-1969,Male,Arthritis,Physical Therapy,Prescribed anti-inflammatory medication.,16-07-2022,19-07-2022,7216.95
+3cc3c029-e319-44f8-a340-ef4e6499a727,Shawn Murray,21-06-2001,Female,Migraine,Pain Relief Medication,Advised on lifestyle changes to reduce migraine triggers.,20-07-2022,28-07-2022,2334.76
+c1819031-fe20-48a1-a418-b38114351138,Ashley Shepard,03-09-1926,Male,Epilepsy,Surgery,Discussed surgical options for refractory epilepsy.,22-07-2022,21-08-2022,4570.73
+5a8a3c91-b6b3-4b63-9e95-05cd08687a95,Pamela Bailey,02-05-1975,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Started on medication to slow progression of symptoms.,22-07-2022,17-08-2022,16367.78
+c2e72d9f-16e2-45de-9d12-c2c9cd94c84f,Cassandra Brown,13-06-1996,Female,Sinusitis,Decongestants,Prescribed decongestants to relieve sinus pressure.,22-07-2022,20-08-2022,2843.93
+2110a1fd-304b-421e-a58f-f86d7f8be1ee,Erica Harrell,12-02-1932,Male,Common Cold,Rest,Symptoms should improve within a week.,23-07-2022,03-08-2022,257.82
+aebfb842-1405-4c28-aa6a-d018239c8493,Joseph Moran,23-02-1959,Female,Hypertension,Lifestyle Changes,Advised to reduce salt intake and increase physical activity.,26-07-2022,05-08-2022,2343.29
+562beb43-1a26-46c3-937a-a99b8ee2e485,Christine Hodge,11-08-1943,Female,Sinusitis,Antibiotics,Started on antibiotics for bacterial infection.,28-07-2022,26-08-2022,2901.89
+1093f02a-9281-4612-af16-873ee070c8a2,Dr. Kayla Garcia,09-11-1954,Female,Sprain,Rest,Prescribed pain relief medication.,28-07-2022,09-08-2022,2571.09
+d6f94eab-ea55-4ebc-aba6-d797b415a36a,Kim Gutierrez,16-05-2002,Female,Diabetes,Medication,Patient advised to monitor blood sugar levels regularly.,28-07-2022,20-08-2022,6255.99
+eb906ae7-b89c-4b41-851e-69965442a0aa,Charles Smith,02-03-2003,Female,Migraine,Lifestyle Changes,Follow-up to assess effectiveness of treatment.,28-07-2022,31-07-2022,2259.01
+bee33117-8ab9-4d5c-89b2-9e5df6f1476c,Marvin Irwin,25-09-1956,Female,Migraine,Pain Relief Medication,Advised on lifestyle changes to reduce migraine triggers.,29-07-2022,19-08-2022,2938.81
+704cfc3a-69b7-4f31-a8e4-1230c711a88a,Kyle Sutton,28-01-1956,Male,Influenza,Rest,Advised rest and maintain hydration.,29-07-2022,20-08-2022,2923.69
+0150b509-1182-4ef2-849c-a11dd546332b,Clayton Sparks,07-12-1980,Male,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,29-07-2022,08-08-2022,1081.08
+28425deb-d02f-4800-829b-b03491a27395,Andrew Frye,23-05-2001,Male,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,29-07-2022,26-08-2022,637.21
+ed0ed882-50cf-4ac0-b325-215c05ecb9b2,Joyce Cobb,27-12-1943,Female,Fracture,Physical Therapy,Discussed surgical options for complex fracture.,30-07-2022,22-08-2022,3685.88
+0f109ad0-7c40-4197-9ff4-bc6831bcb184,Mark Ramsey,10-04-1953,Female,Diabetes,Medication,Discussed dietary changes to manage blood sugar levels.,30-07-2022,17-08-2022,4435.09
+c906d8af-c984-4eb6-96de-9d814f1b3659,Jay Rice,01-01-1990,Female,Hypertension,Medication,Patient started on antihypertensive medication.,30-07-2022,28-08-2022,4000.32
+b5d05d69-fc85-498d-a503-b5d9621f07fd,Lisa Obrien,11-08-1977,Male,Bronchitis,Rest,Started on antibiotics for bacterial infection.,03-08-2022,20-08-2022,1499.59
+f4e9705d-31c4-42c7-bb0d-9dae8b56ee35,David Malone,18-12-2006,Male,Arthritis,Physical Therapy,Prescribed anti-inflammatory medication.,05-08-2022,20-08-2022,4046.71
+b42072c3-0daa-4c11-8111-4f5724e639b6,Ashley Mueller MD,15-03-2016,Female,Burns,Topical Creams,Bandaged affected area to protect from further injury.,07-08-2022,29-08-2022,2337.48
+043a33b6-3311-4d78-838e-0aaa2b588059,Veronica Moore,31-07-1965,Female,Multiple Sclerosis,Physical Therapy,Referred to physical therapy to maintain muscle strength.,07-08-2022,12-08-2022,15724.89
+743b1be0-9bfd-4d3b-b18c-96721caa14bc,Nathan Phillips,03-10-1975,Female,Arthritis,Physical Therapy,Prescribed anti-inflammatory medication.,09-08-2022,16-08-2022,3260.91
+93167005-c26e-4b8f-bec9-2026504cc873,Anthony Dean,04-06-2024,Male,Common Cold,Rest,Advised rest and increased fluid intake.,11-08-2022,02-09-2022,172.09
+cccd1da0-2003-493e-b1f4-12c025c99f75,Cynthia Sanchez,27-12-1941,Male,Alzheimer's Disease,Medication,Referred to cognitive behavioral therapy to improve memory and thinking skills.,12-08-2022,03-09-2022,10942.61
+3aa7d111-53ac-4c17-aeb9-2737328ffe38,Sarah Horton,25-08-1934,Male,Bronchitis,Cough Medicine,Started on antibiotics for bacterial infection.,12-08-2022,26-08-2022,1561.71
+152e49ba-868b-493c-aa14-2097ff97b0c4,Daniel Carr,03-07-2019,Female,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,12-08-2022,13-08-2022,24188.42
+0170b5eb-87bf-46ba-9fea-afe5fc86b47a,Kristen Hill DDS,14-05-1964,Male,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,14-08-2022,25-08-2022,1809.68
+55ecdda7-dd40-4173-89e7-5cba70b14358,Laura Gonzales,22-12-1952,Female,Bronchitis,Rest,Prescribed cough medicine and advised rest.,14-08-2022,02-09-2022,970.02
+b55c6ba2-abcd-4625-aee9-03f28af6bdc4,Patrick Larsen,07-12-1965,Male,Gastroenteritis,Rehydration Therapy,Prescribed rehydration solution and advised rest.,16-08-2022,15-09-2022,2837.71
+7541f657-43d7-4554-b26f-c030243dd01e,Craig Sanchez,10-01-1991,Female,Depression,Therapy,Prescribed antidepressant medication.,16-08-2022,02-09-2022,4081.83
+5f3b7630-f726-47c6-a855-2041838127dc,Sophia West,08-09-1960,Male,Common Cold,Rest,Advised rest and increased fluid intake.,17-08-2022,03-09-2022,462.03
+5f7a538d-9a5c-4754-a399-da75553cdbc1,Katie Mcdowell,03-09-2012,Female,Common Cold,Rest,Advised rest and increased fluid intake.,18-08-2022,17-09-2022,167.73
+b6988bbe-0364-442a-8a0d-6ab3ca7a8cc2,Molly Conley,08-02-1931,Male,Common Cold,Over-the-counter Medication,Recommended over-the-counter medication for symptom relief.,19-08-2022,08-09-2022,128.82
+88f7733a-65e8-4e84-9d67-236887d34509,Evan Long,18-07-1996,Female,Stroke,Speech Therapy,Speech therapy initiated to address language difficulties.,22-08-2022,20-09-2022,26123.79
+7d3cfbbc-d6ba-403a-bfe9-8dc7817bf59f,Andrew Fuller,07-04-1932,Male,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Prescribed long-term bronchodilators.,22-08-2022,16-09-2022,11162.64
+adc772f9-8a5f-4bed-a333-5195c725c129,Dr. Kristina Blake,01-10-1995,Female,Hypertension,Medication,Follow-up in two weeks to monitor blood pressure.,23-08-2022,09-09-2022,4097.88
+1256e26c-562f-4a1d-a9a3-57e6e2d037bc,Robert Ramos,09-02-2017,Male,Pneumonia,Hospitalization,Hospitalized for closer monitoring and oxygen therapy.,23-08-2022,11-09-2022,16158.65
+43ac0d28-5e32-4c60-acd2-c39f79e95ef9,William Bridges,14-08-1981,Male,Common Cold,Hydration,Recommended over-the-counter medication for symptom relief.,24-08-2022,01-09-2022,247.55
+3e62255f-a8ff-4591-af52-0bf127d67284,Jasmine Cruz,31-03-1953,Male,Allergies,Antihistamines,Advised to avoid known allergens.,24-08-2022,10-09-2022,606.69
+fbcccc36-8b90-453d-bf60-5eb3ab0a6a03,Stacy Garrison,07-02-1938,Male,Common Cold,Hydration,Recommended over-the-counter medication for symptom relief.,24-08-2022,02-09-2022,365.99
+8c7bf0ae-37b4-4c5a-9d53-3aa540ed5c7f,Mark Peters,08-01-1989,Female,Cancer,Radiation Therapy,Scheduled for radiation therapy next week.,25-08-2022,13-09-2022,20577.2
+3c40ed4c-6fcd-45e6-97af-fe1c517f41a0,Valerie Carter,01-06-1963,Female,Cancer,Chemotherapy,Scheduled for radiation therapy next week.,27-08-2022,10-09-2022,74873.58
+55965212-ce87-4eb3-89a3-530724238c0c,Jessica Nelson,19-01-1990,Female,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,27-08-2022,10-09-2022,22498.8
+4c970c93-185f-4e5e-97ae-9b082be51599,Chelsea Dennis,02-01-1955,Male,Stroke,Speech Therapy,Speech therapy initiated to address language difficulties.,27-08-2022,12-09-2022,23351.26
+bfd99b50-69b5-4c25-b7e1-f47ecc133890,Laura Hill,21-03-1985,Female,Hypertension,Medication,Follow-up in two weeks to monitor blood pressure.,27-08-2022,15-09-2022,1797.53
+63274d00-7eaf-448d-b4cc-a10418e58ac4,Andrew Le,06-12-1932,Male,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,28-08-2022,13-09-2022,16991.59
+d89c04a9-4b85-4ea8-a96a-0ef8efda6b1b,Michael White,18-01-1960,Male,Chronic Kidney Disease,Dialysis,Patient started on dialysis; discussed procedure and schedule.,29-08-2022,15-09-2022,41845.95
+8fe553d6-845f-4f08-b8e1-ed2d4f9c1b3b,Jennifer Elliott,17-09-2020,Female,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,29-08-2022,06-09-2022,8803.19
+c234750e-f95b-488e-b39c-091ce938db2b,Rodney Brooks,03-08-2022,Male,Epilepsy,Surgery,Antiepileptic medication prescribed; monitor for side effects.,02-09-2022,22-09-2022,14405.82
+3035b7b9-7870-4c58-ae78-b3d400af0b22,Christine Ashley,27-12-1955,Male,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,02-09-2022,11-09-2022,10211.71
+4355ffcd-677c-4c4c-bee1-bbb41af08d61,Brian Gomez,22-09-1953,Female,Allergies,Avoidance of Allergens,Discussed potential for allergy testing.,03-09-2022,24-09-2022,449.53
+c68721d0-ccda-4b7e-93de-65d1e0e2d3d2,Michael Johnson,08-07-1971,Female,Migraine,Pain Relief Medication,Advised on lifestyle changes to reduce migraine triggers.,04-09-2022,02-10-2022,1079.64
+c51a5f53-c94a-4f91-a9b2-a203cd2b64d1,Sarah Andersen,16-02-1945,Male,Gastroenteritis,Rehydration Therapy,Prescribed rehydration solution and advised rest.,05-09-2022,04-10-2022,2458.92
+40d72816-051b-4400-a5e9-5e4d388c0d32,Eric Spence,18-05-1925,Female,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,05-09-2022,19-09-2022,29711.34
+1c133714-1ca4-4bf8-9008-4b911f2b009d,Lisa Erickson,22-04-1963,Male,Alzheimer's Disease,Medication,Referred to cognitive behavioral therapy to improve memory and thinking skills.,06-09-2022,09-09-2022,11614.86
+e1f4442e-2f13-4cc7-9c3a-5f34596503e1,Levi Todd,11-10-2001,Female,Cancer,Chemotherapy,Discussed surgical options and potential outcomes.,06-09-2022,11-09-2022,38930.03
+e64e564d-c9e4-4e76-97aa-2bfa545fdb0e,Christopher Mcclain,02-12-1958,Female,Alzheimer's Disease,Medication,Referred to cognitive behavioral therapy to improve memory and thinking skills.,08-09-2022,10-09-2022,5225.13
+f2a3a4c1-bf0b-4d8b-8a14-ed901bde36ca,Laura Washington,23-07-1947,Male,Anxiety,Anxiolytics,Referred to cognitive behavioral therapy.,11-09-2022,11-10-2022,3417.84
+d65a83b3-0124-4bba-9633-273ce061d0ba,Tracy Harvey MD,14-08-2016,Female,Asthma,Inhalers,Prescribed bronchodilator for immediate relief.,12-09-2022,08-10-2022,2331.06
+dccb5b66-6eea-460e-af7d-8d939e0ee493,Amy Thompson,01-08-1981,Male,Skin Infection,Topical Antibiotics,Prescribed topical antibiotics for local infection.,12-09-2022,12-10-2022,412.26
+1ad4ff53-14bd-43d9-9f06-551827a2f46d,Paul Juarez DDS,26-04-1996,Male,Fracture,Casting,Discussed surgical options for complex fracture.,14-09-2022,07-10-2022,9924.17
+34f6a994-3a6a-40fd-b8f7-b8f733d97f98,Steven White,29-10-1998,Male,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,14-09-2022,20-09-2022,484.66
+960ee74c-2d85-41cf-96b3-e0f65764623f,Latasha Tucker,20-07-1954,Female,Common Cold,Rest,Symptoms should improve within a week.,16-09-2022,26-09-2022,260.62
+a99eae1e-1134-43ee-b1ea-38e51603541a,Nicole Vance,28-12-1932,Female,COVID-19,Oxygen Therapy,Oxygen therapy administered for low blood oxygen levels.,18-09-2022,24-09-2022,47984.27
+09ade64b-6dfe-4d39-b754-28fddc0b9c3f,Joseph Carr,28-05-1993,Female,Multiple Sclerosis,Medication,Discussed strategies to manage fatigue and other symptoms.,18-09-2022,26-09-2022,12882.22
+761a6a7f-acf6-4f0f-b825-887b9451ac1e,Rebecca Miller,28-07-1929,Male,Parkinson's Disease,Physical Therapy,Discussed potential for deep brain stimulation surgery.,19-09-2022,27-09-2022,14698.99
+40390e5f-e8e1-45fa-b454-c84c7e387cdb,Mary Dixon,10-06-1928,Male,Heart Disease,Surgery,Prescribed beta-blockers and statins.,21-09-2022,21-10-2022,49163.76
+f503be99-a773-4215-9e0e-6c20591ad64e,Chad Schroeder DDS,06-07-1951,Female,Depression,Therapy,Follow-up to assess effectiveness of treatment.,22-09-2022,12-10-2022,1739.14
+52c1d2df-bc8b-4738-868d-2696af9007ca,Tammy George,21-01-1943,Male,Urinary Tract Infection,Antibiotics,Monitor for any signs of worsening symptoms.,23-09-2022,16-10-2022,2782.89
+6c11dc28-be2c-48c8-a99f-fb7d771e5ce9,Abigail Stewart,27-08-1989,Female,Sprain,Rest,Monitor for any signs of worsening symptoms.,25-09-2022,28-09-2022,2946.68
+132c7b14-9f46-453f-8385-55fc2df8ae91,Arthur Hardin,10-09-1924,Female,Parkinson's Disease,Physical Therapy,Referred to physical therapy to improve mobility and balance.,25-09-2022,13-10-2022,5621.6
+0bfc5117-a75d-4d64-88c9-9146bd08f0fc,Jordan Padilla,26-05-1985,Male,Asthma,Medication,Advised to avoid known asthma triggers.,26-09-2022,27-09-2022,2975.42
+49d43811-6151-408c-912f-4819b4c175fc,Rebecca Johnson,04-10-2000,Female,Diabetes,Lifestyle Changes,Insulin therapy initiated; patient instructed on usage.,28-09-2022,23-10-2022,7640.06
+3d970980-b414-45e1-87c5-78a69351b4c0,Deborah Holmes,08-06-1990,Male,Heart Disease,Surgery,Patient referred for cardiac catheterization.,02-10-2022,17-10-2022,42814.66
+6a73bfc6-9133-465e-9f72-11f0fb007c9b,Angie Meyer,04-04-1957,Female,Influenza,Rest,Prescribed antiviral medication; start immediately.,03-10-2022,22-10-2022,820.09
+a759a3ff-deee-4161-92a2-593c0426b3a2,Tamara Gomez,30-08-2016,Male,Burns,Topical Creams,Prescribed pain relief medication.,04-10-2022,02-11-2022,1437.46
+b6471650-f5ca-40a3-977a-b765bd92eed3,Shannon Hayes,25-11-1954,Female,Arthritis,Medication,Referred to physical therapy for joint strengthening exercises.,05-10-2022,02-11-2022,5523.14
+6f2e772b-30e7-40df-bed6-8aa61cd30bd3,Michael Gonzalez,18-07-1955,Female,Epilepsy,Surgery,Discussed surgical options for refractory epilepsy.,05-10-2022,30-10-2022,7367.51
+32ed6be2-2358-41a7-a5ff-026bb7b9fe89,Tammy Garcia,07-08-2017,Male,Chronic Kidney Disease,Medication,Patient started on dialysis; discussed procedure and schedule.,06-10-2022,11-10-2022,46178.24
+3beb657d-2ef6-42bd-bd92-989791efc764,John Ortiz,01-12-2021,Male,Cancer,Chemotherapy,Chemotherapy regimen started; patient informed of side effects.,06-10-2022,01-11-2022,70410.65
+b9547b1c-7570-4fa5-a943-c3b1ea66387b,Russell Branch,15-03-2006,Male,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,06-10-2022,02-11-2022,47867.26
+f672a165-fc35-42a4-a389-6198df2d2068,Miss Tonya Anderson,27-04-2004,Male,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,06-10-2022,02-11-2022,869.65
+1ac81732-7afc-4e50-b20c-d95b623dd905,Stacy Lucero,10-07-1991,Female,Parkinson's Disease,Physical Therapy,Discussed potential for deep brain stimulation surgery.,08-10-2022,25-10-2022,14439.9
+ce245ab8-b106-4151-96a9-5a6475eb9803,Michael Stone,20-02-1988,Female,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,09-10-2022,14-10-2022,36614.95
+18a136c5-6b69-4fd8-a717-3030cf183a4e,Heather Walker,04-08-2019,Male,Influenza,Rest,Advised rest and maintain hydration.,11-10-2022,02-11-2022,1675.47
+6e133629-a5f3-41c5-b50d-6a6b9430397d,Peggy Stokes,10-03-2016,Male,Sprain,Compression,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",11-10-2022,03-11-2022,2644.26
+92200470-b2de-4fca-90cc-6ae09c31e81f,Kelsey Miller,02-06-2024,Female,Urinary Tract Infection,Hydration,Advised increased fluid intake.,12-10-2022,21-10-2022,2821.79
+bb13c2a3-ac1c-40ee-8e3f-34b4281ec460,Janet Pope DDS,25-12-1949,Female,Hypertension,Medication,Advised to reduce salt intake and increase physical activity.,12-10-2022,21-10-2022,4043.93
+f766a4fd-63af-4536-b44f-1aa42c8b097f,Jill Walker,13-08-2020,Male,Chronic Kidney Disease,Dialysis,Patient started on dialysis; discussed procedure and schedule.,12-10-2022,26-10-2022,36044.84
+68aa6ab9-923f-4c67-9f8b-2b250b930809,Matthew Henry,17-07-1943,Female,Sprain,Ice,Prescribed pain relief medication.,14-10-2022,07-11-2022,2402.36
+c754c929-71f4-47f2-b8fa-741ee84a4829,Mark Phillips,14-06-2016,Female,Chronic Obstructive Pulmonary Disease,Medication,Patient requires home oxygen therapy.,15-10-2022,14-11-2022,17063.69
+2fae4f0d-d207-4aac-957a-dbbb146fb30b,James Middleton,12-09-1928,Male,Sprain,Ice,Prescribed pain relief medication.,17-10-2022,30-10-2022,984.19
+f082337f-326b-47df-b2f8-cf24e98abd9c,Shannon Mcknight,25-10-1998,Male,Migraine,Pain Relief Medication,Prescribed medication for immediate pain relief.,17-10-2022,09-11-2022,537.79
+aba865b1-5818-4719-9bd5-2ff902292a0a,Angela Hawkins,15-04-1975,Female,Sprain,Ice,Prescribed pain relief medication.,18-10-2022,07-11-2022,2322.63
+9f9eaf7b-974e-44ee-a1c5-808833e10c83,Amber Roberts,04-11-1929,Male,Stroke,Physical Therapy,Referred to physical therapy for mobility improvement.,19-10-2022,24-10-2022,20281.65
+8582939a-0a40-4c78-a97a-76391a277953,Chase Kim,18-09-2021,Male,Common Cold,Hydration,Recommended over-the-counter medication for symptom relief.,19-10-2022,23-10-2022,357.92
+e4fad67d-f6ca-49f9-b0bd-6578a3956bcd,Mr. Richard Garner,09-01-1997,Male,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,19-10-2022,11-11-2022,12132.16
+f38c66fd-b307-4451-abd6-1d7c35f0fc18,Kevin Harris,29-01-1956,Male,Allergies,Avoidance of Allergens,Discussed potential for allergy testing.,21-10-2022,20-11-2022,522.18
+bf2e8058-fc43-4cef-b0f4-ec91f9f2a08d,Hannah Jones,10-02-1938,Female,Depression,Antidepressants,Referred to therapy for additional support.,23-10-2022,06-11-2022,1163.02
+f4a8657f-196b-4856-b774-d99eb27a19c9,Christina Jones,30-07-1968,Male,Depression,Antidepressants,Prescribed antidepressant medication.,23-10-2022,03-11-2022,3035.9
+3cde4395-fb05-4d92-8786-9a7c2ebb77c0,Stephen Moore,23-06-1969,Female,Epilepsy,Medication,Advised to maintain a seizure diary.,24-10-2022,13-11-2022,4943.25
+f4f8bd60-6b83-4958-a0c0-7694f3b9f035,Lori Black,06-07-1984,Female,Epilepsy,Medication,Antiepileptic medication prescribed; monitor for side effects.,24-10-2022,23-11-2022,7955.88
+9588d105-7bbc-4ebb-a5ab-2e23adbe56a8,Jennifer Reyes,28-12-1940,Male,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,25-10-2022,18-11-2022,824.19
+7cc1c13b-c0b6-4bf6-bbaf-960e8e878d8b,Catherine Jones,24-12-1962,Female,Sprain,Rest,Prescribed pain relief medication.,29-10-2022,26-11-2022,1012.58
+8bb287ea-11c4-4af4-b721-479ea04de465,Kelly Henry,02-02-2013,Female,Alzheimer's Disease,Medication,Referred to cognitive behavioral therapy to improve memory and thinking skills.,30-10-2022,22-11-2022,13686.26
+38f046f5-a8d2-405a-bf55-96e22661f5c8,Heather Vincent,30-11-1936,Female,Epilepsy,Surgery,Antiepileptic medication prescribed; monitor for side effects.,31-10-2022,21-11-2022,10106.37
+f282822e-bad5-4937-96b7-eb3cb56f03b3,Hunter Stone,08-11-1950,Female,Anxiety,Anxiolytics,Referred to cognitive behavioral therapy.,03-11-2022,15-11-2022,4577.24
+6ca1f52d-57f7-4f93-8564-27e35810c3e6,Kyle Johnson,31-10-1980,Female,Cancer,Surgery,Scheduled for radiation therapy next week.,03-11-2022,14-11-2022,91683.71
+c52b3462-a87f-4e17-ac99-90838c9c8d54,Lisa Green,14-05-1985,Male,Anxiety,Anxiolytics,Discussed stress management techniques.,03-11-2022,10-11-2022,4352.93
+13c8a214-940f-40ff-9fa2-cf1285644752,Amanda Faulkner,21-06-1928,Male,Multiple Sclerosis,Medication,Referred to physical therapy to maintain muscle strength.,04-11-2022,23-11-2022,7615.89
+3aba0c69-2934-4741-8120-5b34197714cc,Zachary Wright,08-12-1972,Male,Multiple Sclerosis,Physical Therapy,Disease-modifying therapy initiated.,09-11-2022,13-11-2022,5372.51
+f7ae99c6-147a-4a70-b1ef-ac2bf87491ba,Adriana Davis,27-04-2004,Female,COVID-19,Antiviral Drugs,Monitor for any signs of respiratory failure.,09-11-2022,20-11-2022,6224.7
+806ac7bd-badb-4820-9b30-b728e9a75de7,Jessica Cox,19-10-1931,Male,Hypertension,Lifestyle Changes,Follow-up in two weeks to monitor blood pressure.,11-11-2022,28-11-2022,4122.78
+77ed7075-2c89-4ab2-b9f7-027f1c70d173,Stephanie Brown,30-11-1974,Male,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,12-11-2022,02-12-2022,42477.78
+a5808e62-7f74-459a-bf94-d7bd8ea875ca,John Whitehead,29-07-1998,Female,Influenza,Rest,Advised rest and maintain hydration.,12-11-2022,29-11-2022,2871.05
+7411d34c-a42e-43b4-b844-7b027bd370f2,Jason Adams,28-05-1995,Female,Gastroenteritis,Medication,Symptomatic treatment for nausea and vomiting.,13-11-2022,17-11-2022,2649.62
+feeea5a0-0b38-450f-a9dd-e01d3e553913,Mercedes Webb,13-07-1927,Male,Stroke,Speech Therapy,Speech therapy initiated to address language difficulties.,16-11-2022,01-12-2022,26937.94
+592d41b8-4497-4918-89a6-d111f78f545e,Sara Kirby,03-12-1956,Male,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,16-11-2022,15-12-2022,6981.78
+488d54a2-b5b3-4b7a-b8fe-f82d6027bc9b,Jessica Watson,29-05-1980,Male,Heart Disease,Medication,Patient referred for cardiac catheterization.,16-11-2022,02-12-2022,33776.47
+5ab9cf73-640f-4869-a181-8bf01b76d840,Robert Richards,25-10-2012,Female,Common Cold,Over-the-counter Medication,Symptoms should improve within a week.,17-11-2022,09-12-2022,224.97
+8e82ce56-706c-4dd0-9684-4aa9ae17fcab,Amber Gomez,01-01-1946,Male,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Referred to pulmonary rehabilitation program.,18-11-2022,03-12-2022,19410.08
+bd5060af-b7bc-420a-886b-c7886f770bde,Robert Horn,30-11-1983,Female,Parkinson's Disease,Physical Therapy,Initiated dopaminergic medication for symptom control.,21-11-2022,06-12-2022,7134.35
+3b0b5b91-ce6b-4032-80b8-76e54a8f7c29,John Rice,28-04-1985,Male,Chronic Obstructive Pulmonary Disease,Medication,Patient requires home oxygen therapy.,23-11-2022,22-12-2022,12533.44
+ec46d784-abc2-46d3-8164-c04f8d11b2fa,Matthew Reynolds,15-06-1980,Female,Burns,Topical Creams,Prescribed pain relief medication.,24-11-2022,30-11-2022,2541.12
+a5e3eac5-03a7-436a-aa16-eb0ad1b6d12b,Tiffany Hart,22-02-1997,Male,Stroke,Speech Therapy,Referred to physical therapy for mobility improvement.,25-11-2022,10-12-2022,19146.98
+af81b52d-1a44-4620-80b7-086c6ca79f70,Christine Robinson,14-07-2009,Male,Urinary Tract Infection,Antibiotics,Started on antibiotics to treat infection.,25-11-2022,25-12-2022,2099.39
+d38e1c48-a10a-4c5d-b046-24fa1506c726,Erika Fox,12-02-1958,Female,Diabetes,Medication,Insulin therapy initiated; patient instructed on usage.,27-11-2022,10-12-2022,3872.95
+8886ed8d-efe5-47c6-acc1-b5d1ae399c15,Jennifer Jones,21-11-1973,Female,Urinary Tract Infection,Antibiotics,Monitor for any signs of worsening symptoms.,29-11-2022,18-12-2022,2956.16
+e04c8819-cca4-42fb-8ba8-e43b19bdea8a,Jessica Fitzgerald,04-11-2005,Male,Burns,Topical Creams,Prescribed pain relief medication.,30-11-2022,05-12-2022,2521.6
+3578865c-c245-45ab-ba82-5271d762990c,Daniel Robinson,21-05-1966,Female,Cancer,Chemotherapy,Scheduled for radiation therapy next week.,01-12-2022,15-12-2022,90128.72
+1c9695c2-783a-4734-9b09-7ceea4530878,Heather Duncan,19-01-1966,Male,Urinary Tract Infection,Hydration,Monitor for any signs of worsening symptoms.,02-12-2022,22-12-2022,2517.54
+12de7918-1d1c-4c9e-b7cb-e6ab09d3bdf0,David Booker,03-06-1986,Female,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,04-12-2022,26-12-2022,2705.2
+ddd7f429-34bb-4b89-9a0d-2b25cc5f1150,David Navarro,31-01-2004,Male,Asthma,Inhalers,Advised to avoid known asthma triggers.,04-12-2022,11-12-2022,2584.96
+cf629ab7-d8c9-4501-89e2-39987bd2eea0,Melissa Clark,27-03-1928,Female,Epilepsy,Surgery,Advised to maintain a seizure diary.,05-12-2022,31-12-2022,6244.67
+58db27d8-80d2-4c22-8d93-aedb906b9076,Nicholas Moreno,31-03-1951,Male,Sprain,Elevation,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",05-12-2022,08-12-2022,1183.26
+48b2fcd4-d020-457c-97fe-cca0f5d849e4,Janice Rivera,06-03-2022,Male,Common Cold,Hydration,Symptoms should improve within a week.,08-12-2022,01-01-2023,102.55
+9a7cd9b4-e39a-487b-b511-55d43714c914,Sharon Lewis,06-07-1998,Female,Arthritis,Medication,Referred to physical therapy for joint strengthening exercises.,10-12-2022,12-12-2022,7358.8
+33cef9a9-2d29-4dd5-83e8-763cc77ad03f,Heather Williams,29-05-1945,Male,Urinary Tract Infection,Antibiotics,Monitor for any signs of worsening symptoms.,11-12-2022,15-12-2022,2904.01
+2bae588e-b82c-41dd-a28c-94c836eb42bc,Bernard Monroe,24-09-2006,Male,Anxiety,Anxiolytics,Discussed stress management techniques.,11-12-2022,27-12-2022,3427.3
+ddef52d2-7c7d-4d4a-be24-db2c33ce2ec5,Rebecca Mccoy,21-04-1924,Female,Cancer,Surgery,Discussed surgical options and potential outcomes.,12-12-2022,08-01-2023,99769.22
+0672e31b-2394-490d-8d12-efd38a8078ca,Katherine Lara,03-12-1998,Male,COVID-19,Antiviral Drugs,Oxygen therapy administered for low blood oxygen levels.,13-12-2022,21-12-2022,37573.12
+06bd122e-c961-4271-a44a-1b001cd28bc3,John Williams,02-03-1933,Female,Burns,Bandaging,Prescribed pain relief medication.,14-12-2022,15-12-2022,1597.25
+b6fbf853-4512-4818-954c-a80fa7ad9878,Margaret Myers,28-03-1954,Male,Anxiety,Anxiolytics,Referred to cognitive behavioral therapy.,15-12-2022,13-01-2023,3165.19
+ee49e113-1e2e-48c1-84de-d77de58d0f5b,Norman Goodwin,27-05-1979,Female,Chronic Kidney Disease,Medication,Patient started on dialysis; discussed procedure and schedule.,15-12-2022,12-01-2023,23136.14
+24d9adf5-b2d6-4f49-b84b-1b2402d943a3,Joshua Banks,27-07-1937,Female,Pneumonia,Oxygen Therapy,Started on broad-spectrum antibiotics.,15-12-2022,21-12-2022,9096.74
+dfa0fa63-93b8-4e16-8e69-01edc2076a83,Cameron Haney,11-08-2003,Female,Depression,Antidepressants,Prescribed antidepressant medication.,19-12-2022,25-12-2022,2678.94
+88477085-ecfb-45c4-bb9c-11775ad9f6bc,Michael Smith,18-09-2002,Male,Burns,Topical Creams,Prescribed pain relief medication.,19-12-2022,24-12-2022,2881.96
+581d5cf6-914b-4af2-a0bc-561c65e335c4,Jessica Rivera,15-08-1966,Female,Multiple Sclerosis,Physical Therapy,Disease-modifying therapy initiated.,19-12-2022,09-01-2023,19911.38
+26a7e264-7e6f-4219-a762-7d021f81df09,Christopher Barber,03-03-2012,Female,Sinusitis,Decongestants,Advised on steam inhalation for symptom relief.,21-12-2022,27-12-2022,2585.96
+66e07bb0-db71-4bbe-b31e-0de29739db96,Travis Daniel,02-07-1929,Male,Gastroenteritis,Medication,Symptomatic treatment for nausea and vomiting.,23-12-2022,31-12-2022,2154.41
+3274a803-88f6-46dd-9906-fae3b63366c8,Laura Gray,03-03-2001,Male,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,29-12-2022,02-01-2023,16334.51
+4adc8377-37ba-4b8a-b090-8ae264433199,Charles Clark,05-01-2016,Male,Migraine,Pain Relief Medication,Prescribed medication for immediate pain relief.,30-12-2022,04-01-2023,2111.14
+f2c8f33f-c6c9-4c56-bf48-76a61c11af77,Anthony Archer,16-08-1937,Female,Urinary Tract Infection,Antibiotics,Started on antibiotics to treat infection.,30-12-2022,21-01-2023,1213.74
+76b00d2d-a508-4ecc-86a6-343784d270a3,Justin Parker,28-03-1963,Female,Common Cold,Over-the-counter Medication,Symptoms should improve within a week.,01-01-2023,06-01-2023,441.81
+d45e635e-7861-4f6f-909b-9415bbb63602,Patrick Miller,21-02-1991,Female,Multiple Sclerosis,Physical Therapy,Referred to physical therapy to maintain muscle strength.,02-01-2023,18-01-2023,6006.38
+e29b5087-af30-43c6-8678-9100875df611,Robert Rodriguez,20-01-2024,Male,Asthma,Medication,Advised to avoid known asthma triggers.,03-01-2023,30-01-2023,1173.73
+46fb8d08-4a27-41d5-a0f2-28f15f75c5d9,John Gomez,08-05-1928,Female,Arthritis,Physical Therapy,Advised on lifestyle modifications to reduce joint pain.,03-01-2023,25-01-2023,5012.87
+74c6fd95-dbda-465e-888f-dab230f48fb0,Debra Kim,15-09-2001,Female,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,03-01-2023,07-01-2023,961.71
+8480d3f2-150e-4ec5-b3ad-23c965d01dfe,Duane Willis,10-08-2007,Male,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,04-01-2023,21-01-2023,1050.85
+58c3dc22-f62b-4b2b-bd8f-816ca1053ada,Michele Porter,12-10-2004,Male,Sinusitis,Antibiotics,Prescribed decongestants to relieve sinus pressure.,05-01-2023,13-01-2023,936.37
+95ae272a-fffb-47ec-842a-7929eb826e7b,Stephanie Castillo,18-03-1986,Female,Heart Disease,Medication,Prescribed beta-blockers and statins.,05-01-2023,31-01-2023,20876.25
+8b81bf12-2f4a-4a9b-a8fb-cb69738e3fa7,Jordan Mitchell,09-11-1940,Male,Cancer,Chemotherapy,Discussed surgical options and potential outcomes.,06-01-2023,08-01-2023,98557.17
+41e07b05-c70a-4479-a0a8-3de8fca5c18f,Terry Kaufman,29-04-1990,Male,Burns,Bandaging,Applied topical creams to prevent infection.,07-01-2023,17-01-2023,558.25
+ff7facdb-6bbf-411c-94f8-5c96899b0865,James Howard,25-04-1930,Male,Hypertension,Medication,Follow-up in two weeks to monitor blood pressure.,07-01-2023,05-02-2023,4789.76
+b1858df0-2a08-4f0b-96a6-295d695f1507,Michelle Stewart,12-08-1938,Male,Heart Disease,Medication,Patient referred for cardiac catheterization.,10-01-2023,25-01-2023,20060.7
+9fd0ea73-76c1-47d0-9507-056072a89cdd,Jo Rios,23-03-2010,Female,Allergies,Avoidance of Allergens,Discussed potential for allergy testing.,10-01-2023,28-01-2023,805.41
+daa5035e-feff-4356-bbc5-c0449e738a44,Katherine Fletcher,15-12-1976,Female,Stroke,Physical Therapy,Speech therapy initiated to address language difficulties.,10-01-2023,23-01-2023,27427.05
+3220aaaa-5921-4f7c-ba71-be218d6bef59,Stephen Soto,05-03-1957,Male,Pneumonia,Antibiotics,Started on broad-spectrum antibiotics.,10-01-2023,21-01-2023,8194.67
+d480299f-99f1-43fe-aabc-ce31e0710db9,Tina Miranda,20-11-1935,Male,Migraine,Pain Relief Medication,Follow-up to assess effectiveness of treatment.,11-01-2023,16-01-2023,1152.25
+8e5bdc26-1dd5-4b3c-bf3d-4ae63aea00ca,Belinda Mclean,31-12-2021,Female,Cancer,Radiation Therapy,Discussed surgical options and potential outcomes.,13-01-2023,03-02-2023,27129.74
+ed79652b-1eef-4e04-8e4b-1a0649d08e5a,Brian Browning,16-02-1990,Male,Asthma,Inhalers,Prescribed bronchodilator for immediate relief.,13-01-2023,04-02-2023,2331.76
+ee00b8df-dee0-467a-a75b-d08ee93a481e,Diane Williams,10-05-1968,Male,Sprain,Rest,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",14-01-2023,20-01-2023,2259.73
+7c494f94-973e-4e59-8c1d-e04c863d379c,Colleen Miles,22-11-1955,Female,Anxiety,Cognitive Behavioral Therapy,Prescribed anxiolytic medication for symptom control.,15-01-2023,22-01-2023,3320.45
+e4aad7e6-19ff-438c-b3cf-c1655b3d9172,Ana Warren,22-12-1964,Male,Common Cold,Over-the-counter Medication,Symptoms should improve within a week.,15-01-2023,30-01-2023,258.75
+6d8f9366-8f2d-4b07-9f81-c2b68a84cd40,Alan Lloyd,27-03-1995,Female,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,16-01-2023,18-01-2023,13911.1
+525298e9-90b0-40e9-9175-7d873d7c18e3,Virginia Shields,13-09-1987,Male,Stroke,Physical Therapy,Referred to physical therapy for mobility improvement.,16-01-2023,22-01-2023,15077.03
+566af25d-dc49-472f-8728-c5eda762b23f,Jacob Spencer,17-12-1995,Female,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Patient requires home oxygen therapy.,20-01-2023,10-02-2023,16619.25
+263b5bd2-be19-4d07-a54b-afce09506604,Stephanie Mcdowell,12-11-1996,Male,Hypertension,Lifestyle Changes,Follow-up in two weeks to monitor blood pressure.,20-01-2023,19-02-2023,1603.71
+784c64c0-055c-49cf-9323-8fe6795e813f,Holly Rosario,27-08-1974,Male,Common Cold,Hydration,Advised rest and increased fluid intake.,20-01-2023,31-01-2023,338.37
+140770e2-f230-4604-affd-dad85bad4f6d,Cheryl Spencer,18-05-1933,Male,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,21-01-2023,12-02-2023,976.6
+97ff8199-325d-46d5-bf82-88f63b32a4c0,George Hoffman,05-03-1999,Male,Epilepsy,Medication,Advised to maintain a seizure diary.,22-01-2023,08-02-2023,8774.7
+951a45ad-865e-40e1-95a8-ca772715fb73,Mackenzie Holt,24-07-1936,Female,Parkinson's Disease,Physical Therapy,Referred to physical therapy to improve mobility and balance.,23-01-2023,05-02-2023,8849.35
+1aa907bb-fe69-4fb7-ba78-d544a4c74115,Matthew Graham,24-08-1935,Male,Alzheimer's Disease,Medication,Discussed with family about disease progression and care options.,24-01-2023,16-02-2023,14836.84
+039968d9-3301-4020-b8aa-eb8d12e6fb65,Mark Williams,11-07-1958,Female,Fracture,Casting,Fracture immobilized with casting.,26-01-2023,18-02-2023,4075.79
+0893db29-4e66-4c90-b7fe-638135bf5ae6,Courtney Lopez,11-06-2018,Male,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,28-01-2023,02-02-2023,1568.33
+98e75548-b935-49b8-a982-59d03f0e5da4,Lisa Bond,05-10-1931,Female,Gastroenteritis,Rehydration Therapy,Monitor for any signs of dehydration.,31-01-2023,03-02-2023,931.71
+2918e681-473b-4bfe-afce-82f06f4de077,Janice Neal,13-01-2020,Female,Bronchitis,Antibiotics,Prescribed cough medicine and advised rest.,31-01-2023,20-02-2023,921.94
+6a49943f-3b5b-4b8e-a07e-461df90def8a,Nicholas Greene,13-08-1989,Female,Asthma,Inhalers,Advised to avoid known asthma triggers.,01-02-2023,02-03-2023,2870.48
+89ac0664-a479-400e-8ea5-544d5c72c412,Michael Webb,19-01-1941,Male,Depression,Antidepressants,Prescribed antidepressant medication.,01-02-2023,28-02-2023,1662.39
+30c25fbe-e943-4c22-a72f-7f7e9c2103ef,Amber Moody,19-06-1984,Male,Fracture,Physical Therapy,Fracture immobilized with casting.,03-02-2023,23-02-2023,7205.8
+93ef3d90-a82d-4abb-a74d-26a7861dbf25,Ashley Reeves,26-09-1982,Female,Fracture,Casting,Discussed surgical options for complex fracture.,05-02-2023,08-02-2023,5623.5
+38dc8895-3c35-4a2d-9edb-10b581b1a6f7,Christopher Bailey,17-12-1966,Male,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,06-02-2023,27-02-2023,17498.04
+537ec85d-550e-403d-b5ed-9438eb636ff4,Austin Nguyen,23-03-1947,Male,Parkinson's Disease,Medication,Discussed potential for deep brain stimulation surgery.,07-02-2023,24-02-2023,14921.84
+fe071aa7-5ad9-4060-bef7-4feeb8253d41,Michael Keller,28-08-1994,Female,Allergies,Avoidance of Allergens,Prescribed antihistamines for allergy relief.,07-02-2023,06-03-2023,408.8
+c7a84140-894f-4242-a63e-3cbb2873c6d5,Angela Holland,11-10-1947,Male,Bronchitis,Rest,Started on antibiotics for bacterial infection.,08-02-2023,09-03-2023,639.3
+c7bd21d2-c081-4633-8994-1bf9579bc1a6,Desiree Jefferson,31-12-1996,Female,Bronchitis,Rest,Prescribed cough medicine and advised rest.,08-02-2023,16-02-2023,2918.7
+417c73a0-0f95-46b4-a0cd-dbf48079eb1b,John Smith MD,12-01-1957,Female,Heart Disease,Surgery,Discussed surgical options for coronary artery disease.,09-02-2023,04-03-2023,41916.63
+b839c1b8-16a8-41f2-8e7d-77849028d58c,Laura Hughes,16-07-1957,Female,Bronchitis,Antibiotics,Prescribed cough medicine and advised rest.,09-02-2023,18-02-2023,1406.65
+720a3a8a-5340-4e63-8c42-105adc72486c,Brooke Miller,19-09-1942,Female,Bronchitis,Antibiotics,Prescribed cough medicine and advised rest.,10-02-2023,14-02-2023,1834.53
+6d0d487f-0dc0-4c11-86d4-ce002b802f75,Brandon Sherman,29-07-1927,Female,Pneumonia,Oxygen Therapy,Started on broad-spectrum antibiotics.,10-02-2023,07-03-2023,14290.38
+88eb7253-9fb7-42cb-9548-915e0aa9a516,Xavier Lara,30-10-1990,Male,Fracture,Physical Therapy,Discussed surgical options for complex fracture.,10-02-2023,12-03-2023,7887.11
+9caf3002-6f42-415e-8b4d-39ee09a5b925,Robert Thornton,19-07-1999,Female,Migraine,Pain Relief Medication,Prescribed medication for immediate pain relief.,11-02-2023,13-02-2023,2618.13
+7e871717-f3bb-4900-8c82-2707e2f0763f,Charles Cooper,27-10-1924,Male,Urinary Tract Infection,Antibiotics,Advised increased fluid intake.,12-02-2023,24-02-2023,1568.38
+744dd4cf-9df0-45e0-b002-fdf71b3bd262,Hector Arias,02-07-2004,Female,Influenza,Hydration,Advised rest and maintain hydration.,12-02-2023,20-02-2023,2620.68
+5cb11692-ae91-4bc1-baf2-38449ac9c28f,Jamie Wright,02-12-1982,Male,Influenza,Rest,Advised rest and maintain hydration.,13-02-2023,10-03-2023,1628.87
+2518beb3-0b40-42e3-9984-6e60fc6aaf06,James Morgan,17-11-1998,Female,Influenza,Antiviral Drugs,Prescribed antiviral medication; start immediately.,13-02-2023,03-03-2023,1782.6
+4aa8fb1d-2e7a-4a8d-bd88-60768877273f,Laura Velasquez,15-10-1990,Male,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,13-02-2023,22-02-2023,5774.94
+2af6a789-36bd-4137-9d48-ca701948e8a3,Mary Townsend,18-08-1959,Male,Heart Disease,Medication,Prescribed beta-blockers and statins.,16-02-2023,21-02-2023,13585.8
+e2f40dd9-0f8f-4d8a-ae63-e3560488e3df,Raymond Blake,20-10-1947,Male,Pneumonia,Antibiotics,Monitor for any signs of respiratory distress.,17-02-2023,17-03-2023,19406.72
+190aefdd-802c-47a9-a454-25c4434b1d6e,Cynthia Harvey,04-02-1948,Male,Diabetes,Lifestyle Changes,Patient advised to monitor blood sugar levels regularly.,17-02-2023,21-02-2023,4960.79
+053cfbb4-e309-48f3-8147-ee2f9e70b621,Christina Maldonado,01-12-1954,Male,COVID-19,Antiviral Drugs,Patient tested positive for COVID-19; started on antiviral drugs.,19-02-2023,20-03-2023,14389.28
+9da3ffd2-b27b-4e63-921c-2cc4b370c061,Courtney Cook,03-02-1981,Male,Migraine,Pain Relief Medication,Follow-up to assess effectiveness of treatment.,19-02-2023,17-03-2023,1961.96
+f799c1c5-fffb-45ab-8485-a74991f1c4ec,Michelle Davenport,03-06-1927,Male,Arthritis,Medication,Referred to physical therapy for joint strengthening exercises.,20-02-2023,08-03-2023,7908.29
+0d76f459-9839-4edb-87cd-06dc2ab39fad,Jeffrey Burns DDS,30-10-1992,Female,Fracture,Casting,Fracture immobilized with casting.,21-02-2023,15-03-2023,6070.87
+e9a65edf-c7c8-4abb-96a9-fad105724257,Laura Walter,22-06-1965,Female,Burns,Topical Creams,Bandaged affected area to protect from further injury.,22-02-2023,23-02-2023,1991.11
+93096cc2-89ca-45f7-b14d-f681eb1a1f0b,Robin Weaver,27-10-1977,Male,Urinary Tract Infection,Hydration,Started on antibiotics to treat infection.,23-02-2023,24-03-2023,2280.89
+60f693eb-a10f-4513-84f9-5952bdedbde2,Kim Myers,18-09-2011,Female,Burns,Pain Relief,Applied topical creams to prevent infection.,25-02-2023,07-03-2023,868.22
+a4f7b0c7-5e10-4f15-958a-a9ebe36ec899,Jeremy Moses,09-09-1997,Female,Migraine,Pain Relief Medication,Advised on lifestyle changes to reduce migraine triggers.,26-02-2023,08-03-2023,1442.3
+539c7b32-4288-432d-9373-f4a2f8d22c31,Patricia Daniel,17-08-1988,Male,Anxiety,Cognitive Behavioral Therapy,Referred to cognitive behavioral therapy.,28-02-2023,17-03-2023,2777.99
+b60511f9-c9c0-4fe3-889e-0634f3d3cea2,Jonathan Martinez,18-06-1999,Male,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,06-03-2023,03-04-2023,47630.41
+64c5dba7-3adc-40f7-a697-a1a9e0c6c340,Deanna Lucas,06-03-2000,Male,Allergies,Avoidance of Allergens,Advised to avoid known allergens.,07-03-2023,27-03-2023,324.92
+02c0867f-f4d9-4523-a599-3986da459865,Kristy Briggs,03-06-2017,Male,Common Cold,Over-the-counter Medication,Advised rest and increased fluid intake.,09-03-2023,28-03-2023,177.52
+90636261-03c9-4d04-90a1-f67543933fc1,Christopher Gray,18-07-1924,Male,Bronchitis,Rest,Prescribed cough medicine and advised rest.,09-03-2023,25-03-2023,2559.53
+000c203f-0b78-4cab-9a55-75b34624fb3a,James Dyer,20-03-1957,Male,Parkinson's Disease,Medication,Referred to physical therapy to improve mobility and balance.,11-03-2023,31-03-2023,9994.45
+10d3941b-895f-42b2-b1de-e689575da2a8,Christine Garcia,24-07-1948,Female,Hypertension,Lifestyle Changes,Advised to reduce salt intake and increase physical activity.,12-03-2023,14-03-2023,2510.86
+33b2a39f-8fde-4997-a63c-17a0a3552237,David Brown,13-06-1954,Female,Common Cold,Over-the-counter Medication,Symptoms should improve within a week.,13-03-2023,10-04-2023,328.93
+9d7cb10a-ab4b-4c5c-8c06-064188aeaa06,Michael Wilson Jr.,10-11-2017,Male,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,13-03-2023,08-04-2023,27369.8
+1c969cfc-5cbe-4c26-a001-c6c6fac3ea26,Ryan Campos,02-02-1979,Female,Influenza,Hydration,Prescribed antiviral medication; start immediately.,14-03-2023,07-04-2023,1278.33
+e6875809-6edc-4e62-b1ae-c10c36d5c5a1,Kimberly Walker,31-12-1936,Male,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,14-03-2023,04-04-2023,1389.07
+038a90a9-5472-4d58-8985-ac5bcb662e1d,Michael Ochoa,26-08-2014,Female,Diabetes,Medication,Discussed dietary changes to manage blood sugar levels.,14-03-2023,04-04-2023,9015.81
+388c0caa-f97e-4358-8a13-0edc77f601ec,Nancy Payne,07-07-2016,Male,Skin Infection,Topical Antibiotics,Prescribed topical antibiotics for local infection.,15-03-2023,03-04-2023,619.52
+297a0016-8ce9-4276-9742-78677411b3d5,Beth Leblanc,25-04-1957,Male,Asthma,Inhalers,Patient instructed on proper inhaler technique.,15-03-2023,09-04-2023,2394.33
+8ab5c984-076e-4adf-99e7-365d77624c3b,Timothy Hunter,20-04-2009,Female,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,17-03-2023,08-04-2023,17773.72
+f5469f2e-014d-4bb0-b4ed-41033682d87e,Adriana Johnson,29-12-1996,Male,Parkinson's Disease,Medication,Discussed potential for deep brain stimulation surgery.,20-03-2023,17-04-2023,16346.65
+4a0029f7-df5a-47ab-afeb-4a8c6c5be808,Tiffany Clark,22-06-1928,Male,Anxiety,Cognitive Behavioral Therapy,Discussed stress management techniques.,22-03-2023,07-04-2023,2390.17
+b668726e-a948-4645-96ab-aad620d3f0c1,Samantha Gonzalez,03-07-2003,Female,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,23-03-2023,11-04-2023,10954.83
+44f7f36e-03e7-4d6c-9f44-cf2d01b93ebb,Wayne Mendoza,17-04-2016,Male,Anxiety,Anxiolytics,Discussed stress management techniques.,25-03-2023,04-04-2023,3981.69
+aea40c02-1761-4da2-bd2f-0ecf0ef35a19,Angela Hayes,17-04-2003,Female,Chronic Kidney Disease,Dialysis,Advised on dietary restrictions to support kidney function.,25-03-2023,14-04-2023,33619.28
+45bf115d-e2e1-4c75-a8de-cb2fa26e5114,Krystal Wilson,26-12-1964,Female,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,25-03-2023,07-04-2023,359.86
+c23e1d5c-6c1f-4cb6-bdc0-7be1f9e2118c,Thomas Nicholson,25-02-1994,Female,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,25-03-2023,18-04-2023,973.02
+487e66fb-85cd-4401-8e83-7a2f22a98507,Joseph Nelson,08-07-1958,Female,Stroke,Speech Therapy,Speech therapy initiated to address language difficulties.,26-03-2023,20-04-2023,8344.02
+916807ad-cf61-4482-8727-6b5bce7804d1,Christine Gutierrez,21-09-1944,Female,Multiple Sclerosis,Physical Therapy,Referred to physical therapy to maintain muscle strength.,26-03-2023,11-04-2023,8454.4
+e46941cc-9f86-49d8-a628-86c919d663ea,Curtis Cox,07-09-1992,Female,Multiple Sclerosis,Physical Therapy,Disease-modifying therapy initiated.,30-03-2023,10-04-2023,13530.47
+d23b1634-0a96-48a2-9dd4-76367915fc04,Kevin Holland,10-07-1958,Male,Parkinson's Disease,Physical Therapy,Referred to physical therapy to improve mobility and balance.,30-03-2023,18-04-2023,14530.3
+d1385858-6e62-444c-8a08-5cf985337a4f,Lisa Perez,28-02-1969,Male,Epilepsy,Surgery,Advised to maintain a seizure diary.,30-03-2023,08-04-2023,8549.52
+1ee3057e-f1a7-4657-844b-a07e63ffdf74,Roger Cardenas,11-07-2012,Female,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Referred to pulmonary rehabilitation program.,30-03-2023,04-04-2023,15974.31
+6326bb78-cb5d-47fc-b90a-25618cade060,Thomas Kennedy,27-11-1923,Female,Sprain,Ice,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",31-03-2023,28-04-2023,2146.72
+7ec24c12-3322-4ad5-9358-43399253a89b,Mr. Spencer Cannon,16-08-1997,Female,Skin Infection,Oral Antibiotics,Prescribed topical antibiotics for local infection.,01-04-2023,27-04-2023,453.52
+2e59f88a-dafb-49cb-9fed-06b037259132,Leslie Wilson,02-12-1950,Female,Depression,Antidepressants,Prescribed antidepressant medication.,02-04-2023,01-05-2023,2682.29
+dfb895e0-4b05-4454-897f-db12a910e510,Cynthia Schmidt,19-12-1939,Female,Pneumonia,Oxygen Therapy,Monitor for any signs of respiratory distress.,03-04-2023,29-04-2023,12527.18
+06386535-8ec1-4462-aa34-bf43786e1f68,Taylor Henderson,06-06-1982,Female,Multiple Sclerosis,Medication,Disease-modifying therapy initiated.,04-04-2023,16-04-2023,12411.99
+07e9ce02-8109-4a0c-99bc-700e1644e279,Michelle White,21-08-2015,Male,Urinary Tract Infection,Antibiotics,Monitor for any signs of worsening symptoms.,06-04-2023,10-04-2023,2830.14
+3758b02b-920b-460f-bc02-c30fcdd28ce2,Rebecca Stevenson,28-01-1962,Male,Gastroenteritis,Medication,Symptomatic treatment for nausea and vomiting.,09-04-2023,21-04-2023,1895.72
+2ab7eae4-e652-4cc5-9d90-a99331aac5fd,Lindsey Freeman,26-05-2015,Male,Depression,Antidepressants,Referred to therapy for additional support.,09-04-2023,06-05-2023,1166.49
+88961dc8-615d-494b-9c3a-19f3cf95ba04,Katelyn Conway,07-04-1988,Male,Diabetes,Insulin Therapy,Insulin therapy initiated; patient instructed on usage.,09-04-2023,13-04-2023,7552.48
+6f12ff37-716c-4bfe-877a-64d97fe3e31e,Tara Smith,23-01-1962,Female,Multiple Sclerosis,Physical Therapy,Discussed strategies to manage fatigue and other symptoms.,10-04-2023,03-05-2023,10123.48
+9ad54d16-de54-4186-b62c-bdce1f894d50,Timothy Little,11-12-2016,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Referred to cognitive behavioral therapy to improve memory and thinking skills.,14-04-2023,02-05-2023,16576.08
+ba0554f1-ba03-4e46-b43f-309fee0680ed,Kenneth Murphy,15-01-1969,Male,Migraine,Lifestyle Changes,Advised on lifestyle changes to reduce migraine triggers.,15-04-2023,20-04-2023,1510.13
+e5efda46-34b1-4d3d-9f1e-9c7316299c37,Krista Sanchez,16-05-1938,Female,Bronchitis,Antibiotics,Started on antibiotics for bacterial infection.,15-04-2023,12-05-2023,2137.16
+c4af47e4-81e8-4ac1-b33a-f60d9c6ad4b9,Elizabeth Richardson,17-03-1954,Female,Skin Infection,Topical Antibiotics,Prescribed topical antibiotics for local infection.,16-04-2023,15-05-2023,829.41
+7a83ada5-c565-4bb0-a7c8-07ed22fc8c16,Susan Reyes,21-06-2014,Female,Epilepsy,Surgery,Advised to maintain a seizure diary.,18-04-2023,23-04-2023,14080.25
+3d0a7160-dca4-4ea0-af94-4cd3f6092524,John Mclaughlin,20-04-1944,Male,COVID-19,Antiviral Drugs,Oxygen therapy administered for low blood oxygen levels.,18-04-2023,30-04-2023,46844.39
+7c29f670-ce4d-47ad-a7a4-c4e0372a3a49,Dr. Bradley Pierce,16-03-2015,Female,Migraine,Lifestyle Changes,Advised on lifestyle changes to reduce migraine triggers.,21-04-2023,30-04-2023,747.16
+2d524e8d-2156-4714-a053-5e40ff76e0f1,Sylvia Watts,11-06-1944,Male,Anxiety,Cognitive Behavioral Therapy,Referred to cognitive behavioral therapy.,22-04-2023,20-05-2023,2480.62
+fc30ca90-9054-42fd-b16a-a4afabff0965,Aaron Nguyen,08-12-1937,Female,Allergies,Antihistamines,Prescribed antihistamines for allergy relief.,23-04-2023,10-05-2023,442.22
+3b50c495-6d5d-43a9-a92f-28e7f3ca500e,Tiffany Gay,27-01-2009,Female,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,23-04-2023,09-05-2023,304.74
+e29a7c21-21e4-470f-a46f-7d95a622150b,Russell Kelley,25-04-2017,Female,Bronchitis,Antibiotics,Prescribed cough medicine and advised rest.,26-04-2023,28-04-2023,1795.18
+0defc61c-05ab-4779-ad88-37482ce2b0fa,Carrie Mcfarland,24-02-1945,Female,Common Cold,Over-the-counter Medication,Recommended over-the-counter medication for symptom relief.,27-04-2023,10-05-2023,285.76
+1e2c30d6-9193-40d7-9dfe-fa3a509fe1c3,Christina West,14-12-1926,Male,Asthma,Inhalers,Patient instructed on proper inhaler technique.,27-04-2023,23-05-2023,3769.91
+40524e2c-6430-463c-8faf-d369b3fddd9e,Tiffany Williams,02-06-1949,Female,Fracture,Physical Therapy,Fracture immobilized with casting.,27-04-2023,12-05-2023,9115.12
+ee18154d-7ba8-4b82-a554-44edd0f83523,Joshua Bates,08-03-1965,Male,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,27-04-2023,14-05-2023,43294.16
+a0883235-33be-48bc-a7a6-e18d535f1398,Hannah Sanchez,07-12-1985,Female,Depression,Antidepressants,Prescribed antidepressant medication.,28-04-2023,12-05-2023,2069.83
+2f090e2b-f249-4fc6-9a16-ec73eb1be554,Rachel Hill,12-06-1924,Male,Epilepsy,Surgery,Antiepileptic medication prescribed; monitor for side effects.,30-04-2023,15-05-2023,13960.12
+c50a5c30-2b2e-4b30-a797-5dbcb6a4206d,Tricia Williams,21-08-1966,Female,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,01-05-2023,23-05-2023,16412.48
+0ef71978-c2b6-4bdf-8087-d44fec088443,Stephen Richardson,27-10-2008,Female,Pneumonia,Oxygen Therapy,Started on broad-spectrum antibiotics.,02-05-2023,13-05-2023,15716.46
+a81a5042-e3aa-4b8a-89db-7c2bd0b8acf0,Wesley Jensen,06-03-1943,Female,Diabetes,Insulin Therapy,Insulin therapy initiated; patient instructed on usage.,02-05-2023,16-05-2023,2780.83
+086376f1-f701-42a8-92a6-021b1e84b841,Jennifer Patel,03-01-1983,Male,COVID-19,Ventilation,Oxygen therapy administered for low blood oxygen levels.,03-05-2023,29-05-2023,48494.96
+764bac43-1f54-4076-a5f2-ce82d46aef92,Stacy Johnson,25-04-1965,Female,Anxiety,Anxiolytics,Discussed stress management techniques.,03-05-2023,09-05-2023,4063
+c62df06e-121f-4044-8b26-cc8763a0136d,Lisa Caldwell,22-10-1981,Male,Pneumonia,Oxygen Therapy,Hospitalized for closer monitoring and oxygen therapy.,03-05-2023,06-05-2023,5213.69
+c7949473-5224-4575-a4db-3c961c51ec33,Mr. Steven Green,28-09-2000,Female,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,03-05-2023,18-05-2023,24069
+7674e861-d7ad-438f-9257-41116bff61f0,Laura Allen,16-09-1991,Female,Influenza,Antiviral Drugs,Prescribed antiviral medication; start immediately.,03-05-2023,29-05-2023,1395.34
+152f63bc-c232-4283-a23a-31cc6df85745,Elizabeth Doyle,24-01-1936,Female,Allergies,Avoidance of Allergens,Discussed potential for allergy testing.,03-05-2023,09-05-2023,422.71
+26d2ad27-6e83-4c92-bc93-7465e0a06e5a,Jennifer King,18-05-1998,Female,Cancer,Surgery,Discussed surgical options and potential outcomes.,04-05-2023,12-05-2023,82968.96
+e27c0bab-07fa-48c7-b9d3-332c6641b9b1,Desiree Novak,12-06-1962,Male,Gastroenteritis,Rehydration Therapy,Prescribed rehydration solution and advised rest.,07-05-2023,08-05-2023,2053.05
+318822d0-4a2d-4ae1-bfa3-7eb137c510ef,Joshua Hayes,03-12-1964,Female,Parkinson's Disease,Medication,Referred to physical therapy to improve mobility and balance.,10-05-2023,02-06-2023,14147.35
+b1e47d2b-c783-4fa0-bde3-4ae86619b791,Donald Martinez,16-09-1934,Female,Diabetes,Medication,Patient advised to monitor blood sugar levels regularly.,11-05-2023,12-05-2023,3486.71
+134adad0-2803-4d76-8dc3-18813a1c30d9,Jamie Thompson,16-04-1946,Male,Allergies,Antihistamines,Advised to avoid known allergens.,11-05-2023,05-06-2023,797.81
+2aac91d5-4873-45b7-9f9a-f6cd228c7f0a,Mrs. Casey Payne DDS,05-10-2021,Male,Migraine,Lifestyle Changes,Follow-up to assess effectiveness of treatment.,12-05-2023,03-06-2023,2864.79
+58778757-e19f-4fe0-8a80-5655e8078e9a,Elizabeth Miller,23-02-1957,Male,Migraine,Pain Relief Medication,Follow-up to assess effectiveness of treatment.,12-05-2023,15-05-2023,1338.19
+10a1515a-acd7-4ae9-8cc2-af3ad8dcf61f,Cameron Kramer,22-11-1952,Male,Arthritis,Medication,Referred to physical therapy for joint strengthening exercises.,13-05-2023,18-05-2023,3320.98
+31289361-4ffe-4e44-91df-b719435286b8,Brian May,06-03-1946,Male,Sprain,Rest,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",15-05-2023,04-06-2023,1941.91
+70c14715-9271-4417-b6fd-0c88c74e3c91,Laura Lambert,17-11-1983,Male,Heart Disease,Medication,Prescribed beta-blockers and statins.,15-05-2023,09-06-2023,19990.04
+d5f33ab1-8223-4315-9990-dcee9fa09728,Erin Daniels,24-05-2008,Male,Epilepsy,Surgery,Antiepileptic medication prescribed; monitor for side effects.,16-05-2023,10-06-2023,11226.83
+ab01271a-7eaf-4abc-b58f-199b672126e4,Maurice Allen,12-06-2011,Female,Parkinson's Disease,Medication,Discussed potential for deep brain stimulation surgery.,17-05-2023,15-06-2023,15241.36
+1b2f8fd3-8d39-4a83-9c22-7edf1b0b619f,Christy Kim,06-02-1953,Female,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,17-05-2023,08-06-2023,2575.8
+0ec81113-5bba-40c3-8d92-69b25fbac6b0,Andrea Fitzgerald,03-03-1967,Female,Burns,Bandaging,Bandaged affected area to protect from further injury.,21-05-2023,15-06-2023,651.95
+c5232c05-240f-4c69-8dda-8eb99f8a3f09,Robert Miller,19-10-1998,Male,Common Cold,Over-the-counter Medication,Symptoms should improve within a week.,23-05-2023,10-06-2023,274.45
+a0e2bab0-bf41-4ea1-8336-68b15c2bc683,Patrick Watson,03-07-2010,Female,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,24-05-2023,15-06-2023,891.91
+8eb76d24-8e4c-41ab-9111-f51f2e899ecb,Rick Gonzales,07-08-1951,Female,Bronchitis,Rest,Prescribed cough medicine and advised rest.,26-05-2023,03-06-2023,2831.57
+bb2af2c6-fec4-4d5c-99ae-c747f419d6ca,Sharon Williams,24-04-1944,Male,Cancer,Surgery,Chemotherapy regimen started; patient informed of side effects.,27-05-2023,21-06-2023,41935.28
+4b53dbbf-85a8-4f04-b906-6c5630191794,Brandi Davis,14-01-2022,Female,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,01-06-2023,24-06-2023,9168.71
+4db18f9b-05a1-431f-8274-0de6811dbca1,Michael Gutierrez,22-02-1988,Female,Diabetes,Lifestyle Changes,Insulin therapy initiated; patient instructed on usage.,02-06-2023,09-06-2023,9154.36
+77e0e5d2-7db8-4993-bba2-13b1dc1996c4,Alan Hester,14-11-1934,Male,Anxiety,Cognitive Behavioral Therapy,Discussed stress management techniques.,02-06-2023,01-07-2023,2122.67
+20db6926-d280-416a-98c3-0920cbd50872,Kristen Carter,30-03-2019,Female,Chronic Obstructive Pulmonary Disease,Medication,Prescribed long-term bronchodilators.,02-06-2023,23-06-2023,19191.59
+6f40b3e7-a03c-4ec7-a399-95075f64a22f,Brandy Peters,26-12-1993,Male,Arthritis,Medication,Prescribed anti-inflammatory medication.,07-06-2023,26-06-2023,9490.49
+af59b9ab-370b-4df4-8a06-d589d27507f8,Jacqueline Guzman,31-08-1944,Female,COVID-19,Antiviral Drugs,Patient tested positive for COVID-19; started on antiviral drugs.,08-06-2023,03-07-2023,42218.98
+639befc7-84ac-46bd-af5b-a569ea207f96,Dillon Clark,11-06-1995,Female,Stroke,Speech Therapy,Speech therapy initiated to address language difficulties.,10-06-2023,03-07-2023,17028.24
+bf020b0d-3391-40f7-aa75-8c7641829fd4,Amanda Ramos,03-04-1927,Male,Asthma,Inhalers,Advised to avoid known asthma triggers.,11-06-2023,03-07-2023,2267.96
+9da14116-1b55-4636-976b-33c1c953719b,Laura Lopez,13-10-1934,Male,Diabetes,Lifestyle Changes,Discussed dietary changes to manage blood sugar levels.,12-06-2023,30-06-2023,7269.35
+3bbc35ca-ad8b-41e3-9bce-baf6751e3456,Craig Wells,23-03-1927,Female,COVID-19,Oxygen Therapy,Monitor for any signs of respiratory failure.,12-06-2023,15-06-2023,16291.35
+b1ae3336-0f2d-4e27-9539-962babf22f9d,Steven Smith II,29-10-2015,Female,Stroke,Physical Therapy,Speech therapy initiated to address language difficulties.,12-06-2023,26-06-2023,17329.99
+16279482-d821-4d3f-93d5-cccfb73b0600,Eric Jones,11-12-2019,Male,Sprain,Elevation,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",13-06-2023,14-06-2023,2206.64
+3ee70b1c-a6db-4919-91ed-984054adfc71,Anthony Bryan,22-01-2016,Male,Sinusitis,Antibiotics,Prescribed decongestants to relieve sinus pressure.,15-06-2023,22-06-2023,1982.24
+6f37b73c-c576-483e-a773-8f9d49d33b95,James Thomas,25-03-1925,Male,Sprain,Rest,Monitor for any signs of worsening symptoms.,15-06-2023,08-07-2023,1311.35
+5e583a12-cad0-41cc-b770-f4ee6e304725,Yvette Cohen,27-11-1979,Male,Arthritis,Medication,Referred to physical therapy for joint strengthening exercises.,15-06-2023,30-06-2023,7795.71
+deaa5702-3ea9-4a34-b7e1-b2645258e36f,Paul Lopez,22-10-1944,Female,Asthma,Inhalers,Advised to avoid known asthma triggers.,16-06-2023,13-07-2023,3100.48
+b987977d-de56-46b8-893e-afe65757bb7b,Gloria Kemp,05-08-1951,Female,Heart Disease,Medication,Discussed surgical options for coronary artery disease.,17-06-2023,30-06-2023,11134.49
+d98bd7fd-6b55-4572-ba87-6bf39bea620f,Theresa Crawford,10-09-1952,Female,Urinary Tract Infection,Antibiotics,Started on antibiotics to treat infection.,18-06-2023,24-06-2023,2153.6
+6b7c13b6-9eed-432b-b7cb-6d417641fbd7,Lori Shaw,21-09-1943,Male,Pneumonia,Hospitalization,Monitor for any signs of respiratory distress.,19-06-2023,19-07-2023,14987.34
+dc1e604f-d23b-43e6-aa5b-278ff3aeb782,Valerie Anderson,20-08-2001,Female,Influenza,Rest,Monitor for any worsening of symptoms.,19-06-2023,07-07-2023,933.25
+721e3ac9-ec0d-4d03-b812-c3aabf1a8f41,John Mcmahon,23-02-1990,Male,Heart Disease,Medication,Discussed surgical options for coronary artery disease.,20-06-2023,29-06-2023,25230.01
+f6ceee18-d406-460e-af45-dd5f05175be2,Erica Gibbs,14-04-1959,Male,Sprain,Compression,Monitor for any signs of worsening symptoms.,21-06-2023,14-07-2023,716.52
+d32b60d1-e60f-4ebf-9105-a3fc2c866007,Brittany Richards,24-01-1933,Female,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,22-06-2023,29-06-2023,986.68
+2290d0d4-7ce7-4958-a522-7d0b4b94103d,Michelle Thomas,24-02-1963,Female,Influenza,Hydration,Prescribed antiviral medication; start immediately.,24-06-2023,28-06-2023,722.12
+b96e6a9b-3022-401f-a099-387affe859ac,Sandra Wilson,04-11-1965,Female,Influenza,Antiviral Drugs,Advised rest and maintain hydration.,24-06-2023,20-07-2023,1171.65
+9e993de3-7708-4437-8f84-0a671de0dc8b,Christopher Davis,05-03-1973,Female,Chronic Kidney Disease,Dialysis,Prescribed medication to manage blood pressure and protect kidneys.,24-06-2023,16-07-2023,12773.31
+3a8addcb-c665-47ce-bd77-85cda775699b,Sarah Taylor,27-04-1988,Female,Urinary Tract Infection,Hydration,Monitor for any signs of worsening symptoms.,25-06-2023,09-07-2023,1593.23
+d24f67ec-5a61-4efd-b290-a445de8c5283,Christopher Obrien,25-04-1978,Female,Burns,Pain Relief,Bandaged affected area to protect from further injury.,25-06-2023,30-06-2023,2503.94
+7c2c439f-1d2f-49ea-8ee4-1316b5b86058,Christopher Byrd,23-11-1994,Male,Skin Infection,Oral Antibiotics,Started on oral antibiotics for more severe infection.,26-06-2023,22-07-2023,416.37
+d61f0a3c-10d9-4c14-8fc5-03f2be41fb15,James Gutierrez,02-05-2018,Female,Sprain,Rest,Monitor for any signs of worsening symptoms.,26-06-2023,23-07-2023,2251.52
+3be59b28-69c7-43e7-955c-862149756ad7,Karen Schmidt,06-09-1929,Male,Diabetes,Lifestyle Changes,Insulin therapy initiated; patient instructed on usage.,27-06-2023,16-07-2023,9347.69
+3b24ae17-2f54-4fc7-bcb0-b5d74f1e27e6,Bruce Reed,17-11-1927,Male,Bronchitis,Cough Medicine,Started on antibiotics for bacterial infection.,27-06-2023,18-07-2023,2382.35
+efe1232d-b7d1-44a0-84af-be1faf377d3f,Steven Haley,01-10-1930,Female,Influenza,Rest,Monitor for any worsening of symptoms.,27-06-2023,09-07-2023,1859.36
+df442937-92f2-4a36-a5ee-278f30d03258,John Nguyen,28-12-1964,Male,Allergies,Avoidance of Allergens,Prescribed antihistamines for allergy relief.,28-06-2023,12-07-2023,669.57
+81c3305a-d979-4801-a96c-80936035978b,Travis Sanchez,13-11-1989,Female,Hypertension,Lifestyle Changes,Follow-up in two weeks to monitor blood pressure.,29-06-2023,27-07-2023,1376.18
+23fd7752-4f1b-48c9-8b46-9001d12c5d4d,Darin Smith,19-03-1990,Female,Chronic Kidney Disease,Medication,Prescribed medication to manage blood pressure and protect kidneys.,01-07-2023,26-07-2023,20232.73
+0a040562-c2d3-4a62-add4-4b94c2b8f65d,Michelle Gallagher,25-07-1970,Female,Chronic Obstructive Pulmonary Disease,Medication,Referred to pulmonary rehabilitation program.,02-07-2023,09-07-2023,18201.55
+03b691a7-d290-47c3-b9e6-a44ffb61f408,Andrea Cline,13-01-1939,Female,Sinusitis,Decongestants,Advised on steam inhalation for symptom relief.,03-07-2023,21-07-2023,2890.07
+40cdf01c-4646-404d-9886-b2d30b4acce2,Crystal Lowe,05-05-1992,Female,Anxiety,Anxiolytics,Discussed stress management techniques.,04-07-2023,07-07-2023,4906.97
+6ed2077b-0fac-4b65-bf11-fe181793941c,Lauren Tucker,05-04-1966,Male,Sprain,Elevation,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",10-07-2023,31-07-2023,2805.8
+33840ef8-e22f-42cd-9d26-7681a51281e2,Stephanie Flores DDS,18-08-1989,Male,Parkinson's Disease,Medication,Discussed potential for deep brain stimulation surgery.,12-07-2023,20-07-2023,6525.32
+8890be68-1b55-4f89-b030-771f39d6e223,Kevin Carlson,24-07-1964,Male,Bronchitis,Antibiotics,Prescribed cough medicine and advised rest.,13-07-2023,25-07-2023,2221.52
+fe404ed7-633c-4a5e-8869-b8ded7d67b8f,Cynthia Perry,13-08-1982,Male,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Patient requires home oxygen therapy.,13-07-2023,24-07-2023,6976.82
+86d45a91-47d5-41a7-9ce7-c6e343b671ea,David Lyons,21-06-1987,Female,Chronic Obstructive Pulmonary Disease,Medication,Patient requires home oxygen therapy.,14-07-2023,13-08-2023,18556.51
+94e618a9-2f4f-43a6-ad36-ea69c4cefdf2,Eugene Hardy,14-10-1924,Female,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,15-07-2023,20-07-2023,4370.53
+147a8254-a98b-4044-9ca2-fb7968113e64,Kristina Ellison,28-01-1929,Male,Gastroenteritis,Medication,Symptomatic treatment for nausea and vomiting.,15-07-2023,22-07-2023,670.27
+a9e58b7c-a054-4757-aab0-a52b6ef08f4a,Angela Green,30-11-2004,Female,Parkinson's Disease,Physical Therapy,Initiated dopaminergic medication for symptom control.,16-07-2023,04-08-2023,13532.38
+65041e6b-a6b2-4168-b66d-24b0c6b40409,Andrea George,19-11-1930,Male,Burns,Topical Creams,Bandaged affected area to protect from further injury.,16-07-2023,06-08-2023,2244.85
+c27d596e-556b-42a8-b171-af7bff2de17e,Charles Shaffer,01-10-1972,Male,COVID-19,Ventilation,Oxygen therapy administered for low blood oxygen levels.,17-07-2023,23-07-2023,32996.03
+40e2d0c9-ed07-40e8-954d-d70a98fda0e5,William Wright,24-03-1950,Male,Parkinson's Disease,Physical Therapy,Discussed potential for deep brain stimulation surgery.,18-07-2023,28-07-2023,17890.11
+d279b034-7237-4fa3-959e-bc0c4161af9f,Mitchell Smith,17-12-2004,Male,Cancer,Surgery,Chemotherapy regimen started; patient informed of side effects.,19-07-2023,27-07-2023,89987.42
+72fdbeb5-f522-4388-b5eb-52870bfc4739,Vanessa Burgess,12-05-1935,Male,Gastroenteritis,Rehydration Therapy,Symptomatic treatment for nausea and vomiting.,21-07-2023,22-07-2023,1487.96
+c8d89d81-2ff9-4d6a-a28c-1b4c0c64d83c,Antonio Garza,20-02-1996,Female,Influenza,Antiviral Drugs,Advised rest and maintain hydration.,21-07-2023,28-07-2023,2110.16
+42ac1358-e579-4432-9093-dbfc68d51225,Johnny Schultz,28-04-2009,Male,Depression,Therapy,Referred to therapy for additional support.,25-07-2023,21-08-2023,4707.26
+8e829c72-a817-4b04-b7a1-fa9a0dbd26ca,James Roman,28-01-1930,Female,Gastroenteritis,Medication,Symptomatic treatment for nausea and vomiting.,27-07-2023,18-08-2023,2821.34
+66d93f7f-6678-4048-a338-0058f180881b,Natalie Perez,16-06-1964,Male,Common Cold,Over-the-counter Medication,Symptoms should improve within a week.,27-07-2023,26-08-2023,171.46
+e23b5213-8c05-4aa0-8083-5ff55f79dd74,Jennifer Jordan,31-05-2013,Female,Allergies,Antihistamines,Discussed potential for allergy testing.,28-07-2023,29-07-2023,357.73
+79ebd281-a4ea-43ca-80a0-939e33f6555e,Mark Gomez,18-12-1923,Female,Urinary Tract Infection,Antibiotics,Advised increased fluid intake.,29-07-2023,05-08-2023,1819.36
+03fbceac-b8c2-4542-a1bd-35f861e2d36d,Cynthia Johns,01-01-1932,Female,Skin Infection,Oral Antibiotics,Prescribed topical antibiotics for local infection.,31-07-2023,22-08-2023,954.37
+7df5fb64-6059-4fc7-8a5b-d18a290ffd03,Mario Ellison,13-05-1954,Female,Asthma,Medication,Advised to avoid known asthma triggers.,31-07-2023,09-08-2023,2282.2
+17459f1b-9182-40d6-a527-10e4cf7c3f8a,Madison Anderson,12-05-1964,Female,Multiple Sclerosis,Physical Therapy,Discussed strategies to manage fatigue and other symptoms.,01-08-2023,11-08-2023,16284.72
+906091a8-4349-49a3-9bfb-60639b4080df,Kevin Ortiz,04-02-1999,Female,Influenza,Antiviral Drugs,Prescribed antiviral medication; start immediately.,03-08-2023,15-08-2023,1559.68
+4a10abc0-40da-4170-bd0f-706dbee9efb7,Wanda Zimmerman,25-02-1965,Male,Common Cold,Over-the-counter Medication,Symptoms should improve within a week.,03-08-2023,23-08-2023,142.33
+d8e675b9-0419-4870-b514-29cc50249885,Jonathan Thomas,09-04-1937,Male,Parkinson's Disease,Medication,Initiated dopaminergic medication for symptom control.,04-08-2023,06-08-2023,5356.65
+7bb2d8ef-cde0-449b-b5b7-6debba767066,Christopher Harding,17-08-2017,Female,Migraine,Pain Relief Medication,Prescribed medication for immediate pain relief.,04-08-2023,16-08-2023,2248.09
+2d90f7bd-9a49-4aee-bb81-b51c626db732,Kimberly Daniels,02-09-2017,Male,COVID-19,Ventilation,Oxygen therapy administered for low blood oxygen levels.,06-08-2023,11-08-2023,5514.05
+72b07908-c62c-4d50-b84a-73c953caf917,Michael Boyer,02-07-1975,Male,Skin Infection,Oral Antibiotics,Started on oral antibiotics for more severe infection.,07-08-2023,06-09-2023,614.26
+6280078b-f482-4e34-8c13-a2171cbe41c5,Timothy Barr,30-07-1948,Male,Sinusitis,Decongestants,Prescribed decongestants to relieve sinus pressure.,09-08-2023,20-08-2023,2895.43
+b238cc65-967c-4c70-b93c-0e27d867941c,Mr. Blake Buckley,02-04-1937,Female,Allergies,Antihistamines,Advised to avoid known allergens.,10-08-2023,06-09-2023,948.39
+0a4bcb32-39b2-49c9-ae11-a7aa19e23d42,Travis Newman,11-05-1981,Male,Hypertension,Lifestyle Changes,Follow-up in two weeks to monitor blood pressure.,12-08-2023,08-09-2023,4262.2
+e92d3741-3534-4a5f-a9c3-b7c491417de3,Jason Young,10-08-2004,Female,Gastroenteritis,Rehydration Therapy,Prescribed rehydration solution and advised rest.,13-08-2023,27-08-2023,889.44
+37296fb3-f154-47d0-b53c-c474215e8526,John Ramsey,25-07-1931,Male,Common Cold,Over-the-counter Medication,Symptoms should improve within a week.,15-08-2023,02-09-2023,494.22
+b01682b8-9fb0-47c3-87cf-40d45c8539e4,Brian Walton,12-08-1935,Male,Fracture,Surgery,Referred to physical therapy for rehabilitation.,16-08-2023,04-09-2023,6550.66
+7835e1c6-1aa1-4632-95b2-da4bb0e55a0f,Nancy Cherry,04-02-1944,Male,Heart Disease,Medication,Discussed surgical options for coronary artery disease.,17-08-2023,09-09-2023,41795.15
+bf502320-6cfd-4130-814f-e9f94b305e5e,Stephanie Arellano,30-10-1971,Male,Pneumonia,Hospitalization,Started on broad-spectrum antibiotics.,17-08-2023,04-09-2023,15882.47
+82c83903-2e1f-41af-8a88-e522f0aa9700,John Ryan,09-06-1973,Male,Pneumonia,Hospitalization,Monitor for any signs of respiratory distress.,18-08-2023,28-08-2023,5943.08
+6818856a-cf11-4ca8-a7d8-b385bea45a20,Mackenzie Sanchez,16-02-1957,Male,Diabetes,Medication,Discussed dietary changes to manage blood sugar levels.,18-08-2023,30-08-2023,2293.64
+93b76011-c1e7-47dd-895f-ebd60dfc5b25,Nicholas Martinez,28-11-1923,Female,Skin Infection,Oral Antibiotics,Advised to keep affected area clean and dry.,20-08-2023,14-09-2023,928.95
+1d9e1215-b536-45d2-a00d-50898e2648bd,Tyler Edwards,12-04-1934,Male,Multiple Sclerosis,Medication,Referred to physical therapy to maintain muscle strength.,20-08-2023,15-09-2023,10948.89
+b0581529-bade-4359-af75-b83918c0012a,Natalie Smith,19-10-1988,Male,Allergies,Antihistamines,Discussed potential for allergy testing.,20-08-2023,08-09-2023,256.97
+dafdb765-d24b-4a9f-9fef-9c1fa44cd8b5,Christy Gomez,03-10-1987,Male,Hypertension,Lifestyle Changes,Advised to reduce salt intake and increase physical activity.,21-08-2023,24-08-2023,3983.04
+3cbd1209-ca6e-459f-b1b0-5587faf93e39,Madison Powell,08-06-1990,Male,Diabetes,Medication,Insulin therapy initiated; patient instructed on usage.,21-08-2023,05-09-2023,2389.81
+4abee7b8-8d85-4b41-a9e5-98c2bd98af43,Ryan Ray,17-09-1962,Female,Chronic Obstructive Pulmonary Disease,Medication,Prescribed long-term bronchodilators.,23-08-2023,22-09-2023,11959.93
+30e22762-b64d-43af-99b8-b0bfe232344b,Vanessa Conway,15-07-1929,Female,Alzheimer's Disease,Medication,Discussed with family about disease progression and care options.,24-08-2023,18-09-2023,13513.47
+b3e4ad9e-9cad-4c26-b1c2-17082f00e570,George Walker,15-10-1923,Female,Asthma,Inhalers,Advised to avoid known asthma triggers.,26-08-2023,14-09-2023,1299.07
+926da6f4-6393-467b-920a-2d25d3c6059c,Kevin Leblanc,26-07-1936,Male,Sprain,Ice,Monitor for any signs of worsening symptoms.,26-08-2023,12-09-2023,1623.21
+fb90643f-603e-438f-96a9-dfd5f13a5e86,Sara Crawford,06-11-1935,Female,Allergies,Avoidance of Allergens,Prescribed antihistamines for allergy relief.,27-08-2023,11-09-2023,556.72
+ff6f1b56-6f4c-417d-a66e-bc3c4ce968af,Albert Owens,12-10-1961,Male,Pneumonia,Antibiotics,Monitor for any signs of respiratory distress.,28-08-2023,13-09-2023,12426.2
+78f2a9eb-723c-44ac-a2b5-72f934bc6bbb,Gregory Ramos,07-12-1935,Male,Common Cold,Rest,Symptoms should improve within a week.,30-08-2023,31-08-2023,375.38
+8fa4a9b8-1829-4bbf-81e9-85d08353e8bb,Norma Key,15-10-2016,Male,Allergies,Avoidance of Allergens,Discussed potential for allergy testing.,30-08-2023,21-09-2023,672.73
+b846b535-a8df-4948-bfa2-fef065e25c2d,Jennifer Gomez,12-07-2023,Male,Influenza,Rest,Advised rest and maintain hydration.,31-08-2023,11-09-2023,2498.78
+aa5989f1-0261-4bd6-8b4d-2aecd468c0de,Dr. Marissa Nolan,04-02-1956,Male,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,31-08-2023,08-09-2023,3105.85
+effa888e-c13c-405c-9d07-ed3520e5b8f5,Natasha Martin,21-09-1933,Male,Urinary Tract Infection,Antibiotics,Started on antibiotics to treat infection.,31-08-2023,09-09-2023,789.68
+fe0186f8-3a90-4150-a680-3e68e255e746,Sandra Johnson,19-01-2011,Female,Parkinson's Disease,Medication,Discussed potential for deep brain stimulation surgery.,01-09-2023,06-09-2023,8364.84
+5d0122ba-ce5c-4e07-8bf0-da0c3f0a8c82,Kyle Kline,02-11-1962,Male,Pneumonia,Hospitalization,Monitor for any signs of respiratory distress.,05-09-2023,25-09-2023,10573.24
+bd377942-7b98-4bf3-834c-4ad673b87bff,Isaiah Thompson,17-07-1968,Female,Multiple Sclerosis,Physical Therapy,Disease-modifying therapy initiated.,06-09-2023,21-09-2023,19132.09
+d6a92bf0-b93c-48e2-95f1-50f4a9e9c2e6,Susan Koch,01-12-1929,Male,Sprain,Rest,Monitor for any signs of worsening symptoms.,06-09-2023,04-10-2023,1497.04
+399c8f9f-a88c-4f94-ae8e-261e3d244731,Elizabeth Allen,24-07-1996,Male,Hypertension,Lifestyle Changes,Advised to reduce salt intake and increase physical activity.,07-09-2023,22-09-2023,2611.62
+8da27ad5-ea01-44a0-89c9-0058ede8dbdc,Timothy White,23-11-1933,Male,Pneumonia,Oxygen Therapy,Hospitalized for closer monitoring and oxygen therapy.,07-09-2023,18-09-2023,15263.7
+bd647e2d-4d1f-4680-a567-c3ae8b162ae3,Victoria Reynolds,04-12-1987,Male,Common Cold,Over-the-counter Medication,Advised rest and increased fluid intake.,08-09-2023,03-10-2023,223.36
+623da97a-e775-41d9-b59d-2b4092194e13,Benjamin Harvey,31-08-1960,Male,Heart Disease,Medication,Prescribed beta-blockers and statins.,10-09-2023,28-09-2023,37523.1
+3cccf679-d750-4180-8290-4f9f51c880aa,Caleb Bass,29-08-1981,Male,Cancer,Radiation Therapy,Chemotherapy regimen started; patient informed of side effects.,12-09-2023,23-09-2023,34893.28
+07b46259-07fb-4c62-bbc4-683f5356a5e6,Michael Perry,24-09-2014,Male,Pneumonia,Hospitalization,Hospitalized for closer monitoring and oxygen therapy.,12-09-2023,19-09-2023,15379.4
+24772bfa-fb2c-4b57-b06e-166cd7b93523,Joseph Cross,20-10-2020,Male,Cancer,Surgery,Chemotherapy regimen started; patient informed of side effects.,13-09-2023,19-09-2023,66497.34
+8007c165-af68-419c-b7dc-79c9fcc7798f,Brenda Peterson,19-05-2005,Female,Influenza,Hydration,Monitor for any worsening of symptoms.,13-09-2023,19-09-2023,1697.66
+12bbac23-34d8-4f51-9373-345d8b306213,Lindsey Cruz,30-05-1952,Male,Influenza,Rest,Prescribed antiviral medication; start immediately.,14-09-2023,08-10-2023,2979.77
+139eeba3-992a-48da-b97e-6d2ae229957d,Heather Vargas,03-04-1988,Male,Bronchitis,Rest,Prescribed cough medicine and advised rest.,18-09-2023,23-09-2023,1787.53
+2cf88579-ddd0-42dd-9b98-93703694b1fb,Luke Simpson,17-11-1999,Male,Asthma,Medication,Patient instructed on proper inhaler technique.,19-09-2023,06-10-2023,2938.48
+d48ca678-265e-42e4-86b0-3104b49c5d6d,Anthony Harris,08-06-1997,Male,Cancer,Surgery,Discussed surgical options and potential outcomes.,20-09-2023,18-10-2023,55307.76
+ea5b1203-abbe-4647-9c45-449eb2fc87d8,Jessica Meadows,10-07-2000,Female,Chronic Obstructive Pulmonary Disease,Medication,Referred to pulmonary rehabilitation program.,20-09-2023,05-10-2023,18274.51
+3cf7cc92-ec45-4738-8d34-654a640079bb,Mr. Scott Bowen,14-07-1983,Male,Depression,Therapy,Prescribed antidepressant medication.,20-09-2023,09-10-2023,1385.07
+1cf912cc-aa49-40bf-b175-4bd9da15eae1,Daniel Moreno,04-11-1937,Male,Chronic Kidney Disease,Medication,Prescribed medication to manage blood pressure and protect kidneys.,26-09-2023,30-09-2023,29149.16
+9c5d6a72-17f2-4442-9b5d-4117347497d9,Maria Johnson,08-03-2023,Female,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Prescribed long-term bronchodilators.,26-09-2023,01-10-2023,17777.41
+d57d4fc3-8b86-42b2-9098-c40cdd802b40,Tara Mooney,17-06-1930,Female,Pneumonia,Hospitalization,Started on broad-spectrum antibiotics.,27-09-2023,24-10-2023,16708.08
+82d3f1a8-9127-4fb1-8975-31590b917e5c,Christina Moore,05-02-1976,Female,Sinusitis,Decongestants,Started on antibiotics for bacterial infection.,01-10-2023,26-10-2023,2003.18
+49728ec7-ee45-43f4-ac76-ccca264846cc,Travis Sanders,08-11-1927,Male,Sprain,Elevation,Prescribed pain relief medication.,01-10-2023,15-10-2023,520.09
+d5d010ba-0fd1-4ef8-8040-fefdc5555b41,Patricia Boone,13-01-1981,Female,Urinary Tract Infection,Antibiotics,Advised increased fluid intake.,02-10-2023,10-10-2023,2027.53
+65a19a2b-b147-42bc-b805-c9924dc43825,Michael White,20-02-1954,Male,Depression,Therapy,Follow-up to assess effectiveness of treatment.,04-10-2023,15-10-2023,4166.69
+d233b531-958b-45c6-a089-5c047817293f,Adrian Oneill,12-08-1982,Male,Depression,Antidepressants,Prescribed antidepressant medication.,05-10-2023,19-10-2023,2801.59
+8c644d04-2abf-429d-9464-327d572b84df,Bridget Smith,08-06-1955,Male,Common Cold,Over-the-counter Medication,Advised rest and increased fluid intake.,06-10-2023,12-10-2023,386.02
+6bf9dbeb-33d9-4ef6-84f2-501d443de4ce,Jose Taylor,15-10-1953,Male,Diabetes,Insulin Therapy,Patient advised to monitor blood sugar levels regularly.,06-10-2023,04-11-2023,7528.74
+d57d5de6-d9a0-4b43-b0e4-475c6524f9ba,Kelly Conner,06-12-1971,Female,Diabetes,Insulin Therapy,Insulin therapy initiated; patient instructed on usage.,07-10-2023,02-11-2023,7755.66
+96658828-7acc-4957-ae0a-9d71786846a9,Jillian Sosa,15-09-1954,Female,Bronchitis,Rest,Prescribed cough medicine and advised rest.,07-10-2023,14-10-2023,2149.85
+4e7edd8d-b666-4b41-8bb0-df367f9c7d69,Richard Johnson,20-07-1941,Male,Bronchitis,Antibiotics,Started on antibiotics for bacterial infection.,09-10-2023,07-11-2023,1885.12
+f6c2bcc2-9489-4c44-b0a5-9259076c5849,Ashley Coleman,02-10-1972,Male,Urinary Tract Infection,Antibiotics,Advised increased fluid intake.,12-10-2023,17-10-2023,1188.72
+e92e88b4-c3d6-486f-a683-68f0658bdd20,Courtney Jacobs,23-09-1973,Female,Hypertension,Lifestyle Changes,Follow-up in two weeks to monitor blood pressure.,12-10-2023,29-10-2023,4097.92
+94e391b9-f37d-4e88-902c-0ab3551949bb,Jon Bishop,01-04-1975,Male,Gastroenteritis,Medication,Symptomatic treatment for nausea and vomiting.,13-10-2023,09-11-2023,2375.66
+7e78fa36-abc1-4773-b5e1-1ab48b4a88f1,John Evans,07-04-1981,Male,Common Cold,Rest,Advised rest and increased fluid intake.,14-10-2023,15-10-2023,119.4
+f41f54ce-33a2-4946-87b5-9224084cdce1,Bernard Ramirez,12-08-2012,Male,Cancer,Surgery,Chemotherapy regimen started; patient informed of side effects.,15-10-2023,10-11-2023,36435.73
+beec3bc7-e94e-4e5b-9e07-53b3233192b1,Timothy Castaneda,21-12-1994,Male,Heart Disease,Medication,Discussed surgical options for coronary artery disease.,15-10-2023,19-10-2023,21636.35
+e8a5ead4-7807-4e49-b5ee-4d095907a50a,Jacob Howard,02-06-1962,Female,Pneumonia,Oxygen Therapy,Started on broad-spectrum antibiotics.,16-10-2023,01-11-2023,11629.59
+1358c045-661f-4c75-a4d3-b9f1e8b87f16,Jacob Smith,19-05-1994,Female,Multiple Sclerosis,Physical Therapy,Referred to physical therapy to maintain muscle strength.,20-10-2023,10-11-2023,11445.28
+c815af1f-e407-432b-bacb-59c29d538335,Wanda Daugherty,26-12-1944,Male,Depression,Antidepressants,Follow-up to assess effectiveness of treatment.,21-10-2023,03-11-2023,2352.77
+829862ba-7428-4966-9d7c-ac6c4be5d110,Rachel Johnson DDS,29-09-1936,Male,Anxiety,Cognitive Behavioral Therapy,Referred to cognitive behavioral therapy.,25-10-2023,16-11-2023,1115.04
+8a7005de-a8dd-4fea-9abb-cc581dcfbd9e,Felicia Fletcher,23-05-2005,Male,Diabetes,Insulin Therapy,Discussed dietary changes to manage blood sugar levels.,26-10-2023,07-11-2023,6729.24
+05151506-39b2-4733-acad-76e474e1511b,Drew Lucero,18-08-1969,Female,Influenza,Rest,Prescribed antiviral medication; start immediately.,28-10-2023,24-11-2023,747.1
+3431b698-63ba-4c55-b134-5eb528e10c62,Michael Sexton,25-02-2000,Male,Allergies,Antihistamines,Advised to avoid known allergens.,29-10-2023,10-11-2023,520.25
+e4d0e031-cded-4f40-8d08-d42d7736fd17,Jessica Lee,26-02-1986,Female,Depression,Therapy,Referred to therapy for additional support.,29-10-2023,26-11-2023,2666.35
+be700cbe-caa1-4037-902d-02790b26e671,Carol Rodriguez,29-04-1963,Male,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,31-10-2023,20-11-2023,14910.1
+d8b00c9d-3b60-4ea2-95f7-5ab886c4f59d,Ryan Baker,29-06-2018,Female,Influenza,Rest,Advised rest and maintain hydration.,03-11-2023,21-11-2023,721.79
+4508f173-15f3-44f6-844e-38e0c962e850,Robert Charles,22-12-1954,Female,Fracture,Physical Therapy,Fracture immobilized with casting.,04-11-2023,22-11-2023,4557.98
+287d96f8-f283-479d-905e-9d9a758a96e5,Patricia Johnson,17-09-1996,Female,Burns,Pain Relief,Bandaged affected area to protect from further injury.,05-11-2023,16-11-2023,939
+3588db0e-461b-4d8b-87b9-2f95745808ed,Cody Gay,22-08-1953,Female,Hypertension,Lifestyle Changes,Patient started on antihypertensive medication.,05-11-2023,27-11-2023,3991.94
+fe2457f7-4143-4557-8eaf-9426c54cff51,Matthew Davis,09-03-2023,Male,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,05-11-2023,13-11-2023,671.8
+72974db9-b5dd-433e-9f23-48c7755d9d39,Emily Brown,11-10-2006,Female,Sinusitis,Antibiotics,Advised on steam inhalation for symptom relief.,05-11-2023,03-12-2023,822.23
+c28c50d3-d1f1-4540-a31c-d4c4e5b26107,Sherry Jones,28-10-1975,Female,Sprain,Rest,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",06-11-2023,25-11-2023,1017.09
+ed525e42-3641-4643-9f17-5e4262fd36ac,Brittany Montgomery,28-01-1997,Male,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,07-11-2023,15-11-2023,289.64
+85078e9b-7c20-45a2-9b30-33b233b23de3,Jamie Aguilar,24-03-2014,Female,Parkinson's Disease,Physical Therapy,Discussed potential for deep brain stimulation surgery.,07-11-2023,21-11-2023,12563.63
+def0d02f-a8b0-494a-98ec-66dba71b8070,Michael Williams,09-09-1986,Male,Asthma,Inhalers,Prescribed bronchodilator for immediate relief.,08-11-2023,15-11-2023,4079.22
+34288381-9194-46aa-8897-e7f782fdcf6c,Casey Hunt,05-04-1939,Female,Bronchitis,Antibiotics,Monitor for any signs of worsening respiratory symptoms.,09-11-2023,05-12-2023,1207.8
+e3d66e27-d046-4d1a-860d-f564a590c552,Carol Liu,08-06-1969,Male,Alzheimer's Disease,Cognitive Behavioral Therapy,Started on medication to slow progression of symptoms.,09-11-2023,03-12-2023,10157.34
+6b5f59c4-d449-46bc-8be9-ac4b069a5631,Gerald Garza,28-02-2008,Female,Allergies,Avoidance of Allergens,Advised to avoid known allergens.,12-11-2023,19-11-2023,290.33
+2964818a-8ed2-4b0a-9ed8-ca9216f12372,Ashley Hernandez,02-11-1999,Male,Arthritis,Physical Therapy,Prescribed anti-inflammatory medication.,12-11-2023,05-12-2023,5837.5
+085114df-f5ed-462e-b858-e38fefa67a7e,James Alvarez,28-06-1925,Female,Depression,Antidepressants,Prescribed antidepressant medication.,16-11-2023,11-12-2023,4483.2
+06dd389c-c40a-4b94-9fa7-47abda754375,Margaret Mccullough,06-06-1991,Male,Skin Infection,Oral Antibiotics,Started on oral antibiotics for more severe infection.,16-11-2023,17-11-2023,262.12
+d577bcca-e848-4582-9b2f-d4907dd5e466,Rhonda Peters,03-04-1931,Female,Pneumonia,Hospitalization,Started on broad-spectrum antibiotics.,17-11-2023,03-12-2023,7708.36
+df0c29ed-c260-4424-8e1f-af83a79dce34,Pamela Brown,05-09-1980,Female,Anxiety,Anxiolytics,Discussed stress management techniques.,18-11-2023,30-11-2023,2552.8
+7b0f1424-1387-4e93-8447-e08d1f77fd9f,Michael Smith,17-06-1936,Male,Bronchitis,Antibiotics,Monitor for any signs of worsening respiratory symptoms.,19-11-2023,22-11-2023,1294.38
+22aa5f7d-0397-4c22-959a-6d1493d566fb,Kathleen Woods,22-07-1986,Female,Cancer,Radiation Therapy,Scheduled for radiation therapy next week.,19-11-2023,27-11-2023,55578.6
+59f72ab8-db52-4ed2-bf56-aeef7b0bf379,Jenna Salazar,20-09-1986,Male,Depression,Antidepressants,Prescribed antidepressant medication.,20-11-2023,09-12-2023,2838.86
+8b61de24-e83f-48fc-9096-79a51913f26e,Joshua Bray,30-04-1936,Female,Burns,Bandaging,Prescribed pain relief medication.,21-11-2023,17-12-2023,2134.81
+46193c74-4c99-480a-bcd3-f5df59fb6fbd,Hannah Maynard,26-04-2016,Female,Epilepsy,Surgery,Discussed surgical options for refractory epilepsy.,21-11-2023,29-11-2023,3911.74
+125b327b-a770-472d-96a1-07e61fe7c01f,Amber Aguirre,18-08-1999,Female,Migraine,Pain Relief Medication,Advised on lifestyle changes to reduce migraine triggers.,22-11-2023,27-11-2023,1442.24
+572e70db-bd90-4088-b132-39b461cbcba1,Brooke Cardenas,01-12-1999,Female,Skin Infection,Oral Antibiotics,Prescribed topical antibiotics for local infection.,25-11-2023,20-12-2023,711.19
+98b75bd7-1a3a-4a8d-8527-1db1f78c2128,Jennifer Leonard,25-11-1941,Male,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,25-11-2023,04-12-2023,13428.39
+16c3b1ba-c18a-48bf-b307-8160434f24e0,Emily Cole,27-08-1990,Male,Burns,Topical Creams,Bandaged affected area to protect from further injury.,25-11-2023,23-12-2023,677.16
+dee009b8-2628-4956-9156-3807da02030a,Angela Mills,21-12-1973,Male,Sprain,Ice,Monitor for any signs of worsening symptoms.,26-11-2023,02-12-2023,2516.68
+5df78f7e-7609-4932-b7b5-5fc6fbc3f63d,Terry Woods,17-10-1962,Male,Skin Infection,Topical Antibiotics,Prescribed topical antibiotics for local infection.,26-11-2023,25-12-2023,251.47
+848ca2d3-9cdd-4a06-86ec-7c9790169084,Alyssa Cross,17-05-2019,Female,Influenza,Antiviral Drugs,Prescribed antiviral medication; start immediately.,29-11-2023,16-12-2023,1549.45
+e84383f4-ff3f-460e-825a-140447b916f3,Mallory Sims,15-03-2013,Female,Hypertension,Medication,Follow-up in two weeks to monitor blood pressure.,30-11-2023,17-12-2023,2694.09
+a59a0ff3-2b84-4b6e-89fc-51c376dba430,Frank Guerra,19-12-1959,Female,Cancer,Radiation Therapy,Chemotherapy regimen started; patient informed of side effects.,01-12-2023,03-12-2023,60642.52
+468ae5f1-83b6-4ef5-8fc2-8b46a514cf17,William Jones,30-04-1982,Female,Stroke,Physical Therapy,Speech therapy initiated to address language difficulties.,01-12-2023,20-12-2023,11449.51
+05eb8418-c80d-4578-b7ff-6c2326355772,Noah Cunningham,22-07-2013,Female,Parkinson's Disease,Physical Therapy,Referred to physical therapy to improve mobility and balance.,01-12-2023,05-12-2023,7549.56
+06cc725d-e3ff-4c6b-84e7-90480fec8867,Alicia Schaefer,09-07-1973,Female,Multiple Sclerosis,Medication,Referred to physical therapy to maintain muscle strength.,02-12-2023,14-12-2023,12651.69
+fc56928a-c9ab-49ba-850c-368f08dde733,Charles Oliver,18-06-1986,Female,Pneumonia,Hospitalization,Monitor for any signs of respiratory distress.,03-12-2023,10-12-2023,5428.3
+2bd14982-84ba-459e-a2da-364805237e4c,Shelley Meyer,16-11-2002,Female,Cancer,Radiation Therapy,Chemotherapy regimen started; patient informed of side effects.,04-12-2023,03-01-2024,69668.87
+898f148b-2bf5-4797-b492-f7a12d25606a,Marcia Ruiz,12-09-1926,Male,Alzheimer's Disease,Cognitive Behavioral Therapy,Referred to cognitive behavioral therapy to improve memory and thinking skills.,05-12-2023,29-12-2023,19484.45
+42a1698e-a047-499e-874b-3dcb9d5dcfa2,David Whitehead,10-04-1927,Female,Sinusitis,Decongestants,Started on antibiotics for bacterial infection.,05-12-2023,27-12-2023,1965.37
+b9d7d346-5446-4a7a-8518-092fec1136e1,Ana Hayes,18-05-1937,Male,Urinary Tract Infection,Hydration,Advised increased fluid intake.,06-12-2023,08-12-2023,2488.22
+6f738a40-4d75-4054-8137-040f31c3d161,John Miller,15-01-1976,Male,Sinusitis,Antibiotics,Prescribed decongestants to relieve sinus pressure.,06-12-2023,09-12-2023,1160.05
+ad24a2a2-1e30-476a-9a06-dd670cf6add8,Marissa White,23-03-2012,Male,COVID-19,Ventilation,Monitor for any signs of respiratory failure.,06-12-2023,03-01-2024,23007.82
+1476734d-1b07-4f8b-a48d-9c9ca8a26dd3,Catherine Arellano,23-06-1933,Female,Multiple Sclerosis,Medication,Discussed strategies to manage fatigue and other symptoms.,09-12-2023,19-12-2023,15932.97
+c0394d74-81c7-426e-8627-edcf96c61e59,William Manning,07-06-2012,Female,Migraine,Pain Relief Medication,Advised on lifestyle changes to reduce migraine triggers.,09-12-2023,04-01-2024,1626.8
+128f4021-6e67-494a-9170-4674b452a7c2,Raymond Mcintosh,19-01-1993,Female,Chronic Kidney Disease,Dialysis,Patient started on dialysis; discussed procedure and schedule.,09-12-2023,08-01-2024,14012.47
+bcc43bd4-5ece-4ce3-bce1-e2357510b655,Deanna Carlson,17-07-1965,Male,Depression,Antidepressants,Follow-up to assess effectiveness of treatment.,10-12-2023,24-12-2023,4365.59
+10aa00cb-d137-4311-9647-55e6d629e1b4,Carlos Bell,17-09-1971,Female,Depression,Antidepressants,Referred to therapy for additional support.,10-12-2023,13-12-2023,4674.19
+8e2304d5-71c1-42db-9a57-d28c100346ba,Tiffany Williamson,28-07-1982,Male,Common Cold,Rest,Symptoms should improve within a week.,10-12-2023,11-12-2023,385.33
+b88a75a7-4338-440e-a156-28dbd53d41b6,Gwendolyn Faulkner,27-02-1933,Female,COVID-19,Oxygen Therapy,Monitor for any signs of respiratory failure.,11-12-2023,29-12-2023,20798.71
+7b6a962b-090e-4db2-aaa4-68089733732e,Rebecca Kane,24-04-2004,Male,Depression,Antidepressants,Prescribed antidepressant medication.,11-12-2023,30-12-2023,1442.51
+7a1f6e05-838b-483e-8b68-407a8fae4e32,Tyler Hughes,14-03-2011,Male,Migraine,Pain Relief Medication,Advised on lifestyle changes to reduce migraine triggers.,15-12-2023,04-01-2024,2192.88
+2534da89-ee4a-41dc-8455-dfbef1533885,Michael Brown,28-03-1985,Female,Pneumonia,Oxygen Therapy,Started on broad-spectrum antibiotics.,16-12-2023,26-12-2023,12661.69
+3f7e62c8-fa87-4ec9-a5d0-4c973e1252b7,Michael Baker,20-09-1968,Female,Influenza,Hydration,Advised rest and maintain hydration.,17-12-2023,18-12-2023,2581.78
+5a2589dd-e769-4709-95e6-2b6e2c24afb8,Elizabeth Harding,12-10-1973,Male,Fracture,Surgery,Discussed surgical options for complex fracture.,17-12-2023,25-12-2023,6814.73
+677a842e-af96-4148-887a-28f841ec65e5,Ellen Burgess,26-08-1963,Female,Parkinson's Disease,Medication,Referred to physical therapy to improve mobility and balance.,19-12-2023,05-01-2024,12911.13
+1d2c8d74-a366-4d71-8b46-4cdedf9b3dc8,Judith Stone,23-05-1961,Male,Gastroenteritis,Rehydration Therapy,Monitor for any signs of dehydration.,22-12-2023,31-12-2023,553.15
+73d9cc8b-00c8-403c-8ec0-739647035a29,Donald Bullock,21-02-1987,Male,Common Cold,Rest,Advised rest and increased fluid intake.,23-12-2023,01-01-2024,327.33
+005bbfcb-495a-4b73-8313-cafc7fb3ef0f,Jimmy Martin,04-03-1986,Male,Migraine,Lifestyle Changes,Prescribed medication for immediate pain relief.,23-12-2023,07-01-2024,603.32
+03f9e350-3a81-48a8-a678-cbdf722b3e55,William Cohen,24-10-1994,Female,Skin Infection,Oral Antibiotics,Advised to keep affected area clean and dry.,24-12-2023,14-01-2024,512.49
+42af7e0c-b553-4fe0-9b05-bcf90eec17fc,Andrea Jones,27-09-1997,Male,Multiple Sclerosis,Physical Therapy,Disease-modifying therapy initiated.,25-12-2023,26-12-2023,12544.43
+c270f384-4500-44c0-b97a-beb8c4d01bca,Sheila Kerr,27-07-1955,Female,Depression,Antidepressants,Follow-up to assess effectiveness of treatment.,26-12-2023,14-01-2024,4759.12
+d2de225e-e1f1-459e-90ee-3f6f9b3c50e0,Kelly Perez,21-09-1984,Female,Sprain,Ice,Monitor for any signs of worsening symptoms.,28-12-2023,26-01-2024,2377.43
+6a6b81a5-d17f-4989-84cc-292fbc16a146,William Travis,20-12-2000,Female,Chronic Obstructive Pulmonary Disease,Medication,Patient requires home oxygen therapy.,29-12-2023,27-01-2024,18771.4
+70fc93e3-88f6-4273-a85f-487f609b6398,Teresa House,27-05-1978,Female,Arthritis,Medication,Advised on lifestyle modifications to reduce joint pain.,30-12-2023,14-01-2024,2861.71
+73c5444f-389d-487d-a88b-d73905e1c0d3,Matthew Rodriguez,13-09-1985,Male,Epilepsy,Medication,Antiepileptic medication prescribed; monitor for side effects.,30-12-2023,12-01-2024,3693.85
+eeb1d067-15cf-4ab1-9daf-bda53479e303,Dawn Wilson,12-04-1968,Male,Fracture,Casting,Discussed surgical options for complex fracture.,30-12-2023,28-01-2024,9319.48
+48f08358-9a20-4077-9430-bd32b34e7a6d,Anita Harvey,09-01-2002,Male,Pneumonia,Antibiotics,Started on broad-spectrum antibiotics.,02-01-2024,06-01-2024,8873.02
+cc3450f4-8fe7-4728-9ea1-c291ea879fe5,Sabrina Schwartz,13-09-1943,Female,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,04-01-2024,03-02-2024,15273.44
+e45e896e-7bcd-42e1-83c9-198d8ac66930,Deborah Garcia,17-10-1933,Male,Sinusitis,Decongestants,Prescribed decongestants to relieve sinus pressure.,05-01-2024,20-01-2024,1191.77
+f780ffbc-af4f-4e3a-8afa-67753f6f6990,Robert Shields,24-03-1990,Male,Epilepsy,Surgery,Discussed surgical options for refractory epilepsy.,08-01-2024,05-02-2024,8946.19
+728dbf3a-de8b-4bfe-a6b7-a529d7a54357,Daniel Jackson,15-03-1971,Female,Epilepsy,Medication,Discussed surgical options for refractory epilepsy.,08-01-2024,14-01-2024,12693.82
+14455bf6-b69d-4fc4-bd28-e923ee0d67d0,Eric Bailey,10-12-1982,Female,Hypertension,Lifestyle Changes,Follow-up in two weeks to monitor blood pressure.,09-01-2024,07-02-2024,4719.42
+9f0b5820-6e2d-42ee-b467-c14dfe3361aa,Daniel Freeman,31-10-2016,Male,Sinusitis,Antibiotics,Started on antibiotics for bacterial infection.,09-01-2024,19-01-2024,2428.21
+de62e840-df98-43cb-a538-1a7a99cad227,Elizabeth Sellers,10-04-1980,Female,Allergies,Avoidance of Allergens,Advised to avoid known allergens.,10-01-2024,23-01-2024,264.87
+7d3d15db-fd0e-42f5-811b-60c5fceb8249,Shelly Burnett,25-04-1924,Female,Urinary Tract Infection,Hydration,Started on antibiotics to treat infection.,11-01-2024,12-01-2024,1659.98
+32342b20-51b0-4fd7-acd0-ea7a268f971a,Carlos Young,07-07-1972,Female,Pneumonia,Hospitalization,Monitor for any signs of respiratory distress.,11-01-2024,29-01-2024,5425.04
+e018187a-b1e3-4a70-882d-d72475f9f5b2,Andrew Evans,19-04-1972,Male,Migraine,Pain Relief Medication,Advised on lifestyle changes to reduce migraine triggers.,13-01-2024,09-02-2024,1256.63
+0205ebb6-b81b-4759-a61b-899291e5f878,Bridget Williams,14-04-2005,Male,Gastroenteritis,Rehydration Therapy,Prescribed rehydration solution and advised rest.,15-01-2024,13-02-2024,963.91
+a5e75ecc-1ced-495f-9be7-107392617369,Teresa Williams,27-10-1930,Male,Skin Infection,Oral Antibiotics,Prescribed topical antibiotics for local infection.,16-01-2024,18-01-2024,690.77
+10ad44e8-d709-444f-81dc-487af1eec5bb,Lisa Moreno,18-08-1960,Female,Epilepsy,Medication,Antiepileptic medication prescribed; monitor for side effects.,18-01-2024,04-02-2024,7915.1
+98dd0d9d-b3fc-4fca-a086-d17f58aaddd6,Amanda Rodriguez,24-02-1964,Male,Depression,Antidepressants,Referred to therapy for additional support.,22-01-2024,16-02-2024,2260.26
+272cc1ec-7a8d-4d7a-8aba-a3e7f09e102e,Jennifer Chung,01-11-1967,Female,Epilepsy,Surgery,Antiepileptic medication prescribed; monitor for side effects.,22-01-2024,26-01-2024,10431.38
+84747c4a-19e5-4844-bcf7-60f79cf12ab9,Kimberly Johnson,08-08-2023,Male,Arthritis,Physical Therapy,Referred to physical therapy for joint strengthening exercises.,22-01-2024,12-02-2024,2260.28
+617868cf-210c-4d3c-9312-3fcfd73420e7,Patricia Marquez,15-09-1963,Female,Heart Disease,Medication,Prescribed beta-blockers and statins.,23-01-2024,10-02-2024,26531.87
+3c2c167f-d640-4c1d-99d5-0c922198f022,Scott Morrison,15-02-1964,Male,Gastroenteritis,Medication,Symptomatic treatment for nausea and vomiting.,24-01-2024,11-02-2024,1680.06
+ba1dc0de-5b40-411b-ad3b-9b94ecb8ab3c,Jennifer Thomas MD,19-10-1964,Female,Chronic Obstructive Pulmonary Disease,Medication,Patient requires home oxygen therapy.,24-01-2024,20-02-2024,6171.86
+3bbfd674-f8c6-49f1-8e24-ea56404c0082,Wesley Mayo,05-12-2018,Female,Influenza,Rest,Monitor for any worsening of symptoms.,25-01-2024,15-02-2024,1383.73
+f80465f4-0b53-4283-bc81-8b269a7388a7,Jeremy Freeman,02-08-1928,Male,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Prescribed long-term bronchodilators.,26-01-2024,11-02-2024,11058.58
+0261d7a4-2815-4bb4-92c2-76149966664c,Brian Kaufman,24-03-2018,Female,Cancer,Chemotherapy,Chemotherapy regimen started; patient informed of side effects.,27-01-2024,30-01-2024,41311.87
+d921c7ba-d915-48bc-a5bc-9a517d79f5d8,Matthew Dawson,11-11-1959,Female,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,28-01-2024,14-02-2024,14717.69
+f942053c-a613-451f-baa7-7a9f4cca2952,Marc Allen,11-11-1968,Male,Bronchitis,Rest,Prescribed cough medicine and advised rest.,30-01-2024,05-02-2024,1335.47
+2e55c526-6a1b-40ce-ac50-05802e6798df,Steven Sharp,26-02-2022,Male,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Prescribed long-term bronchodilators.,31-01-2024,10-02-2024,17446.7
+c02f02e5-186e-4a69-8aff-045465572057,Michael Robles,29-06-1978,Female,Common Cold,Over-the-counter Medication,Symptoms should improve within a week.,01-02-2024,02-02-2024,168.97
+42c53d65-b15c-48f6-be13-176c4ac9b9fe,Daniel Taylor,29-10-1942,Male,Gastroenteritis,Medication,Monitor for any signs of dehydration.,02-02-2024,29-02-2024,686.96
+38aebdcb-0964-4c0e-a99f-46340d464583,Michelle Lopez,02-10-1948,Female,Influenza,Rest,Monitor for any worsening of symptoms.,03-02-2024,22-02-2024,1044.56
+46dcbc9b-e4fb-451c-a252-b13b7d7524ca,James Sosa,06-12-1966,Female,Depression,Therapy,Referred to therapy for additional support.,03-02-2024,22-02-2024,2886.37
+9860f798-9ded-4332-b176-c515b32e5562,Jennifer Petty,25-10-1927,Male,Migraine,Pain Relief Medication,Prescribed medication for immediate pain relief.,04-02-2024,05-03-2024,635.23
+81423dd0-58ba-4b4a-a73d-761e8c9f1539,Nicholas Newman,23-12-1966,Female,Influenza,Rest,Monitor for any worsening of symptoms.,04-02-2024,05-03-2024,1412.36
+12b06dee-a270-4b9f-8974-459fd60ba4ef,Katelyn Johnston,23-02-1948,Male,Stroke,Speech Therapy,Referred to physical therapy for mobility improvement.,04-02-2024,29-02-2024,15785.89
+e94b8ad3-5edc-498e-b170-51ae8fd1c7a9,James Schwartz,12-12-1928,Male,Sprain,Rest,Prescribed pain relief medication.,06-02-2024,12-02-2024,607.32
+ab73588a-a9e5-4c29-8595-ddd71dbafc71,Jennifer Rios,25-04-2000,Male,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Referred to pulmonary rehabilitation program.,06-02-2024,15-02-2024,16464.66
+36afc640-ce2e-4da2-90ed-f4903777c9c2,Mrs. Debbie Gardner DVM,01-02-2005,Female,Hypertension,Medication,Patient started on antihypertensive medication.,09-02-2024,27-02-2024,4212.94
+cc192172-6ed7-4dfa-8066-8ec9715abbd8,Cheyenne Hanson,24-10-2010,Female,Urinary Tract Infection,Hydration,Advised increased fluid intake.,09-02-2024,04-03-2024,2555.34
+fad60d02-a56a-43bf-b346-fb0c5df2b57b,Karla Copeland,02-09-1970,Male,Pneumonia,Oxygen Therapy,Monitor for any signs of respiratory distress.,11-02-2024,07-03-2024,10381.83
+4053e5bb-9cb3-49ce-8174-f49b04b5a990,Sarah Vincent,25-12-1986,Male,Sprain,Rest,Monitor for any signs of worsening symptoms.,12-02-2024,27-02-2024,2703.13
+533abcc0-c869-4726-bcc9-ac40809b1927,Terri Dunn,08-03-1934,Female,Heart Disease,Surgery,Discussed surgical options for coronary artery disease.,12-02-2024,29-02-2024,25848.39
+3f1e55ad-ccf7-4bd1-a957-222db2c2d9f9,Marcus Jensen,13-12-1964,Female,Hypertension,Lifestyle Changes,Advised to reduce salt intake and increase physical activity.,12-02-2024,22-02-2024,4994.52
+3f7154a7-2442-4564-a606-39b8c7d39dab,Mr. Paul Pearson MD,26-09-1973,Male,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,13-02-2024,18-02-2024,591.62
+d682f5ac-bac7-4f40-95ef-f75e70fccc48,Bridget Garcia,27-03-1939,Male,Heart Disease,Surgery,Discussed surgical options for coronary artery disease.,14-02-2024,09-03-2024,19095.03
+5c9eda55-555f-4282-86c1-957f86470d1b,Michelle Patel,21-08-1948,Female,Pneumonia,Oxygen Therapy,Started on broad-spectrum antibiotics.,15-02-2024,09-03-2024,17432.99
+8d615f40-9e89-48e3-98a9-d00487f1af19,Stephanie Brown,27-01-1988,Female,Influenza,Antiviral Drugs,Advised rest and maintain hydration.,16-02-2024,26-02-2024,2775.55
+10c3bcac-4d76-41e7-8587-da1ce7550ac1,Travis Davis,12-02-1925,Female,Epilepsy,Surgery,Advised to maintain a seizure diary.,17-02-2024,29-02-2024,3150.23
+b39ea9cf-ea0c-42df-938e-a94014ed40c7,Joshua Kidd,25-06-1954,Male,Migraine,Pain Relief Medication,Prescribed medication for immediate pain relief.,18-02-2024,02-03-2024,1921.61
+b86d25be-d118-4e34-a7fb-52e3d44d7e56,Mitchell Ellis,25-08-2019,Female,Sinusitis,Antibiotics,Prescribed decongestants to relieve sinus pressure.,19-02-2024,09-03-2024,2680.41
+6357a2ce-218c-4bf7-9bdf-5f7f66917488,Catherine Haney,23-10-1964,Female,Hypertension,Medication,Advised to reduce salt intake and increase physical activity.,22-02-2024,23-03-2024,2118.12
+15261af4-db23-4acd-af61-995d280ee4c5,Traci Fuller,28-05-1973,Male,COVID-19,Antiviral Drugs,Patient tested positive for COVID-19; started on antiviral drugs.,28-02-2024,23-03-2024,16855.08
+c241b0aa-48a1-463f-99ba-a8be270afff8,Kristi Ramirez,06-11-1979,Female,Fracture,Casting,Discussed surgical options for complex fracture.,01-03-2024,02-03-2024,9792.53
+5b680171-99fd-45ba-9115-440f96487a8a,Dillon Pierce,03-07-1965,Female,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,02-03-2024,17-03-2024,18993.9
+6b470e6b-96b9-44d6-b210-e11f7835a828,Craig Neal,05-10-1933,Female,Fracture,Surgery,Fracture immobilized with casting.,03-03-2024,23-03-2024,8082.6
+1322b035-a304-4c85-a843-9991fb0d3a96,Gregory Kirk,01-05-1957,Female,Anxiety,Anxiolytics,Referred to cognitive behavioral therapy.,03-03-2024,27-03-2024,4297.34
+4ece07ba-b1e8-43f3-ae36-b2b6635440f3,Justin Morales,25-03-1982,Male,Allergies,Avoidance of Allergens,Discussed potential for allergy testing.,03-03-2024,11-03-2024,399.88
+c699a543-f050-426a-b13b-16417363197c,Ellen Walker,16-12-1970,Male,Sprain,Elevation,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",04-03-2024,28-03-2024,1926.77
+caca9386-f07d-4202-a6ea-227259881bf9,Carlos Mills,19-01-1993,Female,Cancer,Chemotherapy,Chemotherapy regimen started; patient informed of side effects.,05-03-2024,25-03-2024,36285.18
+c7c7c8fd-e890-4839-9256-a03c58ef8ac9,Charles Clarke,27-01-2023,Female,Hypertension,Medication,Follow-up in two weeks to monitor blood pressure.,06-03-2024,10-03-2024,1941.64
+3830bc25-48ba-4fed-afb4-43e77159ff09,Lee Schultz,06-12-1941,Female,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Patient requires home oxygen therapy.,06-03-2024,29-03-2024,7935.32
+acd535df-6cd7-4782-a628-5fa271bc595e,Christopher Olson,29-05-1954,Male,Fracture,Casting,Referred to physical therapy for rehabilitation.,06-03-2024,11-03-2024,2962.99
+ac203f00-f4f9-4f5b-bf27-4ba8657e578e,Thomas Wade,29-04-2009,Male,Depression,Antidepressants,Follow-up to assess effectiveness of treatment.,07-03-2024,13-03-2024,2890.43
+1bdd3673-4986-49cd-85ca-55d1af316c6f,Keith Morris,22-06-1969,Male,Stroke,Physical Therapy,Referred to physical therapy for mobility improvement.,08-03-2024,01-04-2024,21806.37
+0ef5b241-0b9a-4dd9-9ba3-bbcea9450d1c,Jo Palmer,04-12-1991,Female,Chronic Obstructive Pulmonary Disease,Medication,Patient requires home oxygen therapy.,09-03-2024,29-03-2024,19235.02
+21ddf72a-c856-4bd4-8641-473eee260ec4,Melissa Thompson,17-06-1994,Female,Alzheimer's Disease,Medication,Discussed with family about disease progression and care options.,10-03-2024,22-03-2024,19285.29
+ae6b13ac-3354-440e-8d27-b4b979ecd4a9,Laura Green,24-08-1957,Male,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,11-03-2024,18-03-2024,21359.17
+68a3584b-670d-482d-9058-9510dab111fc,Thomas Simpson,03-02-2000,Male,Pneumonia,Antibiotics,Monitor for any signs of respiratory distress.,13-03-2024,19-03-2024,18884.98
+9b7afe33-9bb0-40e9-bef1-fc0e31d468da,Charles Weber,21-10-1981,Female,Alzheimer's Disease,Medication,Referred to cognitive behavioral therapy to improve memory and thinking skills.,13-03-2024,19-03-2024,9777.85
+034fbbcf-61f7-4bfd-8c76-208fc27d2ba9,Jonathan Rodriguez,20-09-1969,Male,Bronchitis,Antibiotics,Monitor for any signs of worsening respiratory symptoms.,13-03-2024,05-04-2024,2928.45
+ee48d196-e1fb-49ce-a2a8-5bdef4e5bbdb,Stephanie Mitchell,19-12-2007,Male,Hypertension,Lifestyle Changes,Patient started on antihypertensive medication.,14-03-2024,11-04-2024,1055.42
+9145197d-674a-4c1a-85af-04f6e5ef24d0,Douglas Carter,10-05-1956,Female,Diabetes,Insulin Therapy,Insulin therapy initiated; patient instructed on usage.,16-03-2024,30-03-2024,2385.88
+55447725-5cfc-4f8d-b224-878ccb7db19f,Luis Blair,04-04-1972,Male,Bronchitis,Rest,Monitor for any signs of worsening respiratory symptoms.,17-03-2024,03-04-2024,737.09
+c48a671a-b9f9-49d9-b015-65554ec7467f,David Hill,23-12-2023,Male,Pneumonia,Hospitalization,Hospitalized for closer monitoring and oxygen therapy.,19-03-2024,05-04-2024,11699.14
+69e5cab7-0543-40f3-91db-24f32fa34d33,Daniel Jackson,16-04-1976,Male,Asthma,Inhalers,Advised to avoid known asthma triggers.,20-03-2024,01-04-2024,1887.36
+118eb36c-2873-47fc-b062-730265232835,William Smith,09-12-1940,Male,Alzheimer's Disease,Medication,Referred to cognitive behavioral therapy to improve memory and thinking skills.,20-03-2024,14-04-2024,12684.61
+4f55ed91-0725-4498-b6ce-7e089a77e2b5,Ryan Evans,28-10-1923,Female,Stroke,Speech Therapy,Referred to physical therapy for mobility improvement.,21-03-2024,26-03-2024,13880.93
+5a7aae88-0fc9-4842-a496-e8d5b13536e2,Mary Williams,22-09-1931,Female,Alzheimer's Disease,Medication,Referred to cognitive behavioral therapy to improve memory and thinking skills.,22-03-2024,26-03-2024,19716.12
+16f688fc-748a-4cb8-97d3-7a4855dbc493,Kendra Cruz,18-04-1969,Female,Allergies,Antihistamines,Discussed potential for allergy testing.,22-03-2024,07-04-2024,360.68
+0e32cdae-887c-4888-93af-39cdf86507ed,Allen Kennedy,15-01-2002,Male,Sinusitis,Decongestants,Started on antibiotics for bacterial infection.,24-03-2024,26-03-2024,1742.78
+b12418a5-4102-47ce-b9c7-92d68304258a,Lance Monroe,13-08-1980,Female,Skin Infection,Topical Antibiotics,Advised to keep affected area clean and dry.,26-03-2024,18-04-2024,989.71
+fd42bedd-6b2b-4dd2-b657-0cf95ae5c315,Michael Wilson,23-05-1935,Male,COVID-19,Antiviral Drugs,Patient tested positive for COVID-19; started on antiviral drugs.,29-03-2024,30-03-2024,44409.57
+8099ec65-a885-4acb-b3f7-9b864bb52aed,James Nelson,29-08-1970,Male,Asthma,Medication,Prescribed bronchodilator for immediate relief.,29-03-2024,02-04-2024,3114.85
+6199150c-26ef-42b1-8d9b-41f09e5879f7,Ashlee Bush,02-09-2021,Female,Bronchitis,Antibiotics,Monitor for any signs of worsening respiratory symptoms.,30-03-2024,14-04-2024,2584.81
+5d4f4dbb-3eeb-4e5c-b7cf-b229e1022156,Renee Little,19-06-1961,Male,Urinary Tract Infection,Hydration,Started on antibiotics to treat infection.,31-03-2024,25-04-2024,1296.31
+ff7a4e29-7661-4c03-8514-c80d8d624ae7,Elizabeth Kim,05-01-2001,Male,Multiple Sclerosis,Medication,Discussed strategies to manage fatigue and other symptoms.,03-04-2024,14-04-2024,8742.04
+f0b4a467-1d39-4ffa-8d19-f7b98109bdf1,Alicia Jones,21-08-2001,Male,Sprain,Compression,Prescribed pain relief medication.,05-04-2024,10-04-2024,2517.13
+b558a6d0-a6b4-4c3f-9078-c15fb5e2d70a,Morgan Jennings,18-09-1928,Female,Influenza,Rest,Monitor for any worsening of symptoms.,05-04-2024,28-04-2024,913.97
+16c65ac7-853c-43d6-952f-3afdf3ffb498,Kayla Lamb,22-10-1971,Female,Chronic Kidney Disease,Dialysis,Advised on dietary restrictions to support kidney function.,05-04-2024,28-04-2024,19409.7
+39049ac1-0f94-47ff-9ba1-5a1ecd7a4a89,Randall Miller,29-06-1954,Female,Migraine,Lifestyle Changes,Follow-up to assess effectiveness of treatment.,06-04-2024,11-04-2024,2731.56
+4366aced-07bf-48e2-beeb-279a7d10d451,Lisa Rice,24-04-1937,Female,Allergies,Avoidance of Allergens,Discussed potential for allergy testing.,09-04-2024,21-04-2024,730.41
+80c11ef1-294d-4ac8-9a68-b2a62827df3e,Elaine Jones,17-12-1955,Female,Asthma,Inhalers,Advised to avoid known asthma triggers.,10-04-2024,12-04-2024,3686.05
+8d00fed0-b25c-4f9e-96ac-d14a402a18d2,Dylan Johnson,31-07-2021,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Discussed with family about disease progression and care options.,10-04-2024,11-04-2024,13666.77
+a9aa5d30-0aa0-413a-9a3b-bfa099ea18ae,Adam Coleman,02-07-2017,Female,Parkinson's Disease,Medication,Discussed potential for deep brain stimulation surgery.,12-04-2024,22-04-2024,18953.7
+3c60a379-7c7c-43fa-9e1b-7f6f48d4cb61,Kenneth Sampson,25-04-1930,Male,Anxiety,Cognitive Behavioral Therapy,Discussed stress management techniques.,12-04-2024,22-04-2024,3374.54
+ab3ce33a-bea6-408d-9b4a-b315cca973f7,Johnathan Richard,11-07-1983,Male,Asthma,Inhalers,Advised to avoid known asthma triggers.,14-04-2024,26-04-2024,4107.13
+6376060d-c844-47b8-9c4c-64bff7cb1ea1,Andrew Smith,21-11-1947,Female,Fracture,Casting,Discussed surgical options for complex fracture.,16-04-2024,29-04-2024,8168.12
+5636c672-cd10-4398-8f26-c5e1407689d3,Kari Warren,12-12-1945,Female,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,17-04-2024,28-04-2024,12321.99
+0e4406c5-fcfb-43f6-b536-a2985704ba65,Felicia Morales,01-08-1978,Female,Depression,Antidepressants,Follow-up to assess effectiveness of treatment.,18-04-2024,24-04-2024,2425.05
+b7f3f670-b755-456a-be8e-9c1c3aa79a1d,Brianna Ray,12-12-2001,Male,Allergies,Antihistamines,Advised to avoid known allergens.,18-04-2024,06-05-2024,547.52
+5a613c6c-c054-402d-8322-6cfca8b2f248,Courtney Perkins,30-10-1977,Male,Migraine,Lifestyle Changes,Advised on lifestyle changes to reduce migraine triggers.,19-04-2024,06-05-2024,521.58
+c3580160-e2d6-446c-9e8c-73660a2cf683,Amber Hancock,29-01-1939,Male,Anxiety,Anxiolytics,Referred to cognitive behavioral therapy.,19-04-2024,06-05-2024,2538.97
+de15d75c-c1d2-4c61-af29-7cc15269e1fa,Kevin Flores,13-09-1965,Female,Arthritis,Physical Therapy,Advised on lifestyle modifications to reduce joint pain.,21-04-2024,05-05-2024,8686.44
+15fc414c-dbb4-40db-9b37-8dcd8b35b964,Teresa Williams,03-11-1923,Female,Parkinson's Disease,Medication,Initiated dopaminergic medication for symptom control.,21-04-2024,08-05-2024,16901.59
+47f64168-652d-4887-acd6-3dd291964f06,Carl Saunders,05-11-1970,Male,Urinary Tract Infection,Hydration,Advised increased fluid intake.,21-04-2024,13-05-2024,2711.92
+5d78142a-05c0-4dcf-8953-f4ae29fd9b4b,Benjamin Collins,26-11-1941,Male,Alzheimer's Disease,Medication,Started on medication to slow progression of symptoms.,22-04-2024,28-04-2024,8311.62
+9bc0b927-5f68-4449-b8ad-60fce0dfdf40,Christina Poole,03-05-2004,Male,Multiple Sclerosis,Physical Therapy,Discussed strategies to manage fatigue and other symptoms.,23-04-2024,09-05-2024,11033.94
+19bf3708-291c-44e7-8cba-7559553b9023,Glenda Reyes,11-04-1959,Female,Parkinson's Disease,Physical Therapy,Referred to physical therapy to improve mobility and balance.,24-04-2024,17-05-2024,6890.14
+af00ac9c-04aa-40f4-abde-94b151dca614,Neil Coleman,19-02-1996,Female,Fracture,Casting,Discussed surgical options for complex fracture.,29-04-2024,08-05-2024,5656.22
+0d355a77-5656-4222-a2c3-a8f41ced977f,Richard Hawkins,11-12-2005,Male,Epilepsy,Surgery,Antiepileptic medication prescribed; monitor for side effects.,30-04-2024,14-05-2024,7630.11
+aa54f7d9-8fa5-43f4-8e03-c2b97a3fabf6,Hector Brown,25-03-1992,Male,Heart Disease,Medication,Patient referred for cardiac catheterization.,02-05-2024,13-05-2024,31097.55
+600a33e0-956a-4d0a-8639-a732cab36d9a,Randall Davis,20-03-1989,Male,Parkinson's Disease,Physical Therapy,Discussed potential for deep brain stimulation surgery.,02-05-2024,21-05-2024,7151.35
+e21b714d-b96f-47ca-868f-847dbbebaeab,James Brown,20-09-1972,Male,Cancer,Radiation Therapy,Scheduled for radiation therapy next week.,03-05-2024,07-05-2024,25362.31
+1b9bd056-2495-4436-85d3-dfc5563535a7,Kimberly Freeman,26-11-1990,Female,Bronchitis,Antibiotics,Monitor for any signs of worsening respiratory symptoms.,03-05-2024,16-05-2024,1072.33
+18a63bc1-28da-44e9-9c68-d5a039765e67,David Chang,05-12-2009,Male,Heart Disease,Medication,Discussed surgical options for coronary artery disease.,03-05-2024,11-05-2024,48269.72
+40fac969-94d3-494c-927c-eb57b5f4fdd9,Courtney Ramos MD,04-10-1988,Male,Stroke,Speech Therapy,Monitored for signs of stroke recurrence.,04-05-2024,07-05-2024,14652.14
+720fdd0c-897d-4b95-8278-9898f9436484,Jill Duncan,13-08-2010,Male,Burns,Topical Creams,Applied topical creams to prevent infection.,04-05-2024,02-06-2024,2128.3
+53c9c6e7-eae4-42d9-9f31-70e336feefd9,Matthew Herrera,05-05-1990,Male,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,05-05-2024,17-05-2024,648.09
+612b3ae5-4204-4cdf-acac-766dc271a51d,Alexis Greene,10-02-1964,Male,Fracture,Casting,Fracture immobilized with casting.,06-05-2024,03-06-2024,6508.91
+85069869-eaa9-44c5-9265-aae4f7aa7f67,Caitlyn Fuentes,09-06-1931,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Referred to cognitive behavioral therapy to improve memory and thinking skills.,06-05-2024,19-05-2024,13399.84
+5413ab4f-6e8d-4c12-a3fc-ac28071cedbc,Katherine Martin,10-12-1966,Female,Fracture,Physical Therapy,Discussed surgical options for complex fracture.,06-05-2024,08-05-2024,3202.45
+b276f328-1794-4769-a9c1-0a3f7ff4f1fa,Christopher Barker,14-10-2000,Female,Allergies,Antihistamines,Advised to avoid known allergens.,10-05-2024,02-06-2024,996.39
+a14aaab7-0712-4089-b468-a16dc4ded9b8,Jason Daniels,08-06-2009,Female,Sinusitis,Decongestants,Advised on steam inhalation for symptom relief.,12-05-2024,08-06-2024,2559.72
+8677e930-edd9-40fe-b957-252ea095b7ec,Derek Dawson,18-04-1973,Male,Hypertension,Medication,Patient started on antihypertensive medication.,12-05-2024,01-06-2024,2788.8
+fc3faef7-c285-46b8-8a94-0d9a5e61d82b,Suzanne Taylor,12-04-1956,Female,Multiple Sclerosis,Medication,Referred to physical therapy to maintain muscle strength.,12-05-2024,29-05-2024,11520.63
+5855a0be-6400-4dd4-8d48-6459ab9e5f4d,Jacob Evans,18-03-1983,Female,Asthma,Medication,Prescribed bronchodilator for immediate relief.,14-05-2024,08-06-2024,4730.26
+720c5845-0d95-444f-b979-5b41de947706,Abigail Gonzalez,08-09-1957,Female,COVID-19,Antiviral Drugs,Oxygen therapy administered for low blood oxygen levels.,15-05-2024,22-05-2024,24247.81
+66a43bfe-3f29-4f19-892e-46b2964ba7e1,Bryan Hill,24-07-1971,Female,Depression,Therapy,Follow-up to assess effectiveness of treatment.,16-05-2024,28-05-2024,4333.53
+e3a94046-ecf3-4626-b538-e281d7e55f32,Andrew King,07-06-1965,Female,Fracture,Surgery,Referred to physical therapy for rehabilitation.,17-05-2024,31-05-2024,6565.75
+df4f8ee0-a9e2-47c2-b7da-cedb87a53664,Charles Gross,08-09-1988,Female,Gastroenteritis,Rehydration Therapy,Prescribed rehydration solution and advised rest.,17-05-2024,10-06-2024,2222.89
+a85b2a5e-a6b4-41f9-9505-fbbb9cf9b577,Jennifer Norris,14-03-1931,Male,Skin Infection,Oral Antibiotics,Prescribed topical antibiotics for local infection.,18-05-2024,12-06-2024,808.25
+de57772b-75c3-4325-ab3b-32d059d82e8e,Lawrence Morris,05-07-1925,Female,Sprain,Ice,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",19-05-2024,04-06-2024,1285.14
+93c49865-f3ab-4368-ab61-6beb35a8cc21,William Fowler,24-09-1985,Female,Burns,Pain Relief,Prescribed pain relief medication.,19-05-2024,28-05-2024,1072.38
+20ca5dbd-624e-49c4-9b31-c221e4c66eac,Randall Harrison,08-06-1968,Male,Bronchitis,Rest,Monitor for any signs of worsening respiratory symptoms.,21-05-2024,23-05-2024,1079.22
+3170ebc4-ffb9-4902-86c4-75d50f543343,Richard Le,06-09-1933,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Referred to cognitive behavioral therapy to improve memory and thinking skills.,24-05-2024,12-06-2024,17072.33
+46e6c6f8-56c5-4c4a-a399-808c8ab3a450,Jacob Welch,15-02-1931,Female,Skin Infection,Topical Antibiotics,Started on oral antibiotics for more severe infection.,26-05-2024,02-06-2024,691.75
+1a72ed36-cc93-4f6f-b858-c4fbcc7081fb,Melissa Jackson,14-01-1949,Male,Chronic Kidney Disease,Dialysis,Prescribed medication to manage blood pressure and protect kidneys.,28-05-2024,18-06-2024,10300.05
+83da638a-99fe-48ef-bab3-9c3d2560caaa,Melanie Bradshaw,04-04-1989,Male,Asthma,Medication,Patient instructed on proper inhaler technique.,29-05-2024,30-05-2024,1694.78
+ebd79a05-d602-4c53-848e-3e5de055de34,Anthony Brown,09-04-1952,Male,Alzheimer's Disease,Medication,Referred to cognitive behavioral therapy to improve memory and thinking skills.,30-05-2024,03-06-2024,16340.43
+c51eddcf-120c-4136-ac8a-c6b58483ca2b,Jo Burch,21-03-1953,Female,Anxiety,Cognitive Behavioral Therapy,Prescribed anxiolytic medication for symptom control.,30-05-2024,08-06-2024,4714.69
+796acce5-7f02-4623-8845-c8dd71477206,Diane Shelton,18-10-1928,Male,Chronic Obstructive Pulmonary Disease,Oxygen Therapy,Referred to pulmonary rehabilitation program.,31-05-2024,30-06-2024,7997.64
+31be8874-804f-4336-9574-67c4af86f3cc,Jessica Walter,10-07-1929,Female,Stroke,Physical Therapy,Monitored for signs of stroke recurrence.,02-06-2024,16-06-2024,19789.55
+6c34f90f-ae0d-44c0-b5b9-acfa1e78b46d,Kenneth Horn,17-09-1968,Male,Hypertension,Medication,Follow-up in two weeks to monitor blood pressure.,03-06-2024,11-06-2024,1936.38
+03540ba8-2e0b-42df-a7eb-cfef4ace60b7,Angel Roman,15-09-1971,Female,Asthma,Inhalers,Prescribed bronchodilator for immediate relief.,03-06-2024,25-06-2024,1353.49
+7699f1f1-a348-4366-8b59-ca7278876f33,Todd Mercado,12-05-1981,Male,Parkinson's Disease,Physical Therapy,Referred to physical therapy to improve mobility and balance.,06-06-2024,10-06-2024,10302.26
+e6f6de37-cc6f-41f5-9e43-601b69a5f6d1,April Clark,31-03-1969,Male,Chronic Kidney Disease,Medication,Advised on dietary restrictions to support kidney function.,08-06-2024,11-06-2024,16456.7
+dcd74605-703c-4a87-9fe1-376447a0d8c4,Jennifer Shannon,27-09-1987,Female,Cancer,Surgery,Chemotherapy regimen started; patient informed of side effects.,08-06-2024,28-06-2024,67424.22
+3ab3cf9f-7455-4250-bb2f-61394901bf9d,Jennifer Vega,22-09-1989,Male,Fracture,Physical Therapy,Referred to physical therapy for rehabilitation.,11-06-2024,07-07-2024,4649.9
+6ec0dd32-8906-4882-83c5-a4c023cacb2d,Michael Parrish,23-12-1986,Female,Sinusitis,Decongestants,Started on antibiotics for bacterial infection.,12-06-2024,29-06-2024,1253.78
+b0e48be1-5af1-4abe-a648-91517ad5198c,Tiffany Davis,10-12-2001,Male,Chronic Kidney Disease,Medication,Prescribed medication to manage blood pressure and protect kidneys.,13-06-2024,22-06-2024,45674.34
+22601535-1947-4a42-b99e-df48278fe65e,Sara Gould,22-12-2020,Male,Bronchitis,Rest,Monitor for any signs of worsening respiratory symptoms.,13-06-2024,06-07-2024,539.84
+493b0227-b5b2-4ddb-8063-572ea811d398,Kathleen Rodriguez,15-11-2012,Male,Bronchitis,Rest,Prescribed cough medicine and advised rest.,15-06-2024,16-06-2024,513.84
+77016a3e-21f9-4660-b806-b1db2ba11e5b,Jeffrey Watson,13-01-1930,Female,Skin Infection,Oral Antibiotics,Advised to keep affected area clean and dry.,16-06-2024,16-07-2024,435.53
+72c39ae3-6566-4514-a55f-7dc87e69aea4,Joseph Johnson,25-01-1953,Male,Chronic Kidney Disease,Dialysis,Patient started on dialysis; discussed procedure and schedule.,18-06-2024,06-07-2024,21550.7
+9cca1e5f-b052-4240-a065-351389b68f19,Meghan Thompson,16-05-1996,Female,Multiple Sclerosis,Physical Therapy,Referred to physical therapy to maintain muscle strength.,19-06-2024,09-07-2024,9214.65
+417775e4-e3e1-4dc8-82f4-d54843b13616,Abigail Rios,12-05-1963,Male,Bronchitis,Rest,Prescribed cough medicine and advised rest.,20-06-2024,01-07-2024,1172.72
+08ca00f5-7e53-4424-8be3-958db401cc39,Suzanne Gross,22-06-1990,Male,Anxiety,Anxiolytics,Prescribed anxiolytic medication for symptom control.,23-06-2024,19-07-2024,4855.51
+2d81b5e6-5af6-4552-9a4d-8f369434f864,Jack Johnson,23-08-1929,Male,Anxiety,Cognitive Behavioral Therapy,Discussed stress management techniques.,24-06-2024,28-06-2024,3618.68
+23a6d5eb-fff6-406e-b960-64103e7038f0,Patricia Fox,04-04-1993,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Discussed with family about disease progression and care options.,25-06-2024,10-07-2024,14298.62
+3507c0ea-dff5-42b8-8525-486148ade440,Kelly Guerra,13-01-2007,Female,Depression,Antidepressants,Referred to therapy for additional support.,25-06-2024,02-07-2024,4025.97
+3045d288-63a1-4fb5-b981-1a894198b9c1,Rachel Serrano,18-05-1943,Male,Fracture,Physical Therapy,Fracture immobilized with casting.,30-06-2024,21-07-2024,7315.9
+0b421877-1add-4d3e-a967-ec4c849708e9,Maria Hickman,03-08-1946,Female,Fracture,Physical Therapy,Referred to physical therapy for rehabilitation.,01-07-2024,15-07-2024,9715.33
+1572ddfe-5431-4123-9ef5-deeac4c0e0fb,Charles Gonzalez,26-06-1995,Male,Fracture,Casting,Fracture immobilized with casting.,02-07-2024,22-07-2024,8588.94
+90bd151e-48a4-4069-9ab4-87905e646bce,Aaron Lang,03-05-1996,Male,COVID-19,Oxygen Therapy,Patient tested positive for COVID-19; started on antiviral drugs.,03-07-2024,16-07-2024,11302.16
+40691ada-e5ac-4173-a0b2-6213a35df1fe,Jerry Nunez,02-04-1997,Male,Sprain,Compression,Monitor for any signs of worsening symptoms.,04-07-2024,10-07-2024,2957.6
+88af29ae-d7dc-4b8f-bf08-5e2853f538d3,Megan Davis,20-08-2020,Female,Alzheimer's Disease,Medication,Referred to cognitive behavioral therapy to improve memory and thinking skills.,04-07-2024,30-07-2024,9377.07
+baadc7b3-7058-46a3-a6f0-2aec382ab480,Lisa Mills,18-07-1924,Female,Parkinson's Disease,Physical Therapy,Initiated dopaminergic medication for symptom control.,05-07-2024,29-07-2024,15288.56
+c76d80ad-6927-4f63-8881-b297491840dd,Alexander Kennedy,04-12-1990,Female,Sprain,Compression,"Advised RICE (Rest, Ice, Compression, Elevation) protocol.",08-07-2024,03-08-2024,806.04
+c0d40d89-c7ef-488b-82be-734537a1b559,Jonathan Parker,13-05-1976,Female,Alzheimer's Disease,Cognitive Behavioral Therapy,Discussed with family about disease progression and care options.,11-07-2024,14-07-2024,13202.03
