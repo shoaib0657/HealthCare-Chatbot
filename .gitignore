@@ -5,6 +5,7 @@ __pycache__/
 *$py.class
 prompts
 project_structure.text
+project_structure
 
 # C extensions
 *.so

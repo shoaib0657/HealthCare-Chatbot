@@ -26,6 +26,9 @@ class Config():
     PINECONE_API_KEY: str = os.getenv("PINECONE_API_KEY")
     PINECONE_INDEX_NAME: str = os.getenv("PINECONE_INDEX_NAME", "medical-chatbot")
 
+    # Database settings
+    DATABASE_URL: str = os.getenv("DATABASE_URL")
+
     # Authentication settings
     JWT_SECRET_KEY: str = os.getenv("JWT_SECRET_KEY")
     JWT_ALGORITHM: str = os.getenv("JWT_ALGORITHM", "HS256")
