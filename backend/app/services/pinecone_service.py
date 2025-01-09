@@ -68,7 +68,7 @@ class PineconeService:
             # Upsert to Pinecone
             self.insert_vector(patient_id, vector_id, embedding, metadata)
             
-            self.logger.info(f"Successfully indexed not for patient {patient_id}")
+            self.logger.info(f"Successfully indexed note for patient {patient_id}")
             return vector_id
         except Exception as e:
             self.logger.error(f"Error indexing patient data: {str(e)}")

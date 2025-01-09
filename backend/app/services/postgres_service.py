@@ -12,7 +12,7 @@ class PostgresService:
     def _initialize_db(self) -> None:
         """Initialize Postgres connection"""
         try:
-            self.conn = psycopg2.connect(config.DATABASE_URL)
+            self.conn = psycopg2.connect(config.DATABASE_URI)
             self.logger.info("Postgres connection initialized successfully")
         except Exception as e:
             self.logger.error(f"Failed to initialize Postgres connection: {str(e)}")
@@ -21,9 +21,6 @@ class PostgresService:
     def create_tables(self):
         """Create tables in the database"""
         with self.conn.cursor() as cur:
-
-            # Enable UUID extension
-            cur.execute("CREATE EXTENSION IF NOT EXISTS pgcrypto")
 
             # Create patients table
             cur.execute("""

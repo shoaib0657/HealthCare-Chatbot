@@ -1,6 +1,6 @@
 from app.services.postgres_service import PostgresService
 from app.services.pinecone_service import PineconeService
-from psycopg2.extras import RealDictCursor
+from psycopg2.extras import RealDictCursor, register_uuid
 import uuid
 
 class PatientService:
@@ -8,7 +8,7 @@ class PatientService:
         """Initialize Patient service"""
         self.pg = PostgresService()
         self.pine = PineconeService()
-        print("HII")
+        register_uuid()
 
     def create_patient(self, name, date_of_birth, gender):
         """Create a new patient"""
@@ -52,7 +52,7 @@ class PatientService:
             cur.execute("""
                 INSERT INTO medical_records (patient_id, note, vector_id, created_by)
                 VALUES (%s, %s, %s, %s)
-                RETURNING record_id, patient_id, note, vector_id, created_at
+                RETURNING record_id, patient_id, note, vector_id, created_at, created_by
             """, (patient_id, note, vector_id, provider_id))
             record = cur.fetchone()
             conn.commit()
@@ -93,7 +93,7 @@ class PatientService:
         conn = self.pg.get_connection()
         with conn.cursor(cursor_factory=RealDictCursor) as cur:
             cur.execute("""
-                SELECT record_id, note, vector_id, created_at, created_by
+                SELECT record_id, patient_id, note, vector_id, created_at, created_by
                 FROM medical_records
                 WHERE patient_id = %s AND NOT is_deleted
                 ORDER BY created_at DESC
