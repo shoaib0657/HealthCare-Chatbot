@@ -5,7 +5,7 @@ from pinecone import ServerlessSpec
 from sentence_transformers import SentenceTransformer
 import uuid
 import logging
-from app.config import config
+from config import config
 
 class PineconeService:
     def __init__(self):

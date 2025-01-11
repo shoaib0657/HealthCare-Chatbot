@@ -1,5 +1,5 @@
 import psycopg2
-from app.config import config
+from config import config
 import logging
 
 class PostgresService:

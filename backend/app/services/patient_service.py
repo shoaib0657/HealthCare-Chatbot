@@ -1,5 +1,5 @@
-from app.services.postgres_service import PostgresService
-from app.services.pinecone_service import PineconeService
+from services.postgres_service import PostgresService
+from services.pinecone_service import PineconeService
 from psycopg2.extras import RealDictCursor, register_uuid
 import uuid
 
@@ -100,3 +100,15 @@ class PatientService:
             """, (patient_id,))
             records = cur.fetchall()
         return records
+    
+    def format_get_patient_history(self, history: list):
+        records = []
+        for x in history:
+            text = (
+                f"Note: {x['note']}\n"
+                f"Created by Doctor ID: {x['created_by']}\n"
+                f"Timestamp: {x['created_at']}\n"
+            )
+            records.append(text)
+        record_str = "\n---\n".join(records)
+        return record_str
