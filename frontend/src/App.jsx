@@ -110,7 +110,7 @@ const App = () => {
   };
 
   return (
-    <div className="flex flex-col h-screen max-w-4xl mx-auto p-4">
+    <div className="flex flex-col h-[100vh] w-[100vw] mx-auto p-4">
       <Card className="mb-4">
         <CardHeader>
           <CardTitle>Healthcare Assistant</CardTitle>
@@ -156,19 +156,17 @@ const App = () => {
               {messages.map((message, index) => (
                 <div
                   key={index}
-                  className={`flex items-start gap-2 ${
-                    message.sender === 'user' ? 'justify-end' : 'justify-start'
-                  }`}
+                  className={`flex items-start gap-2 ${message.sender === 'user' ? 'justify-end' : 'justify-start'
+                    }`}
                 >
                   {message.sender === 'assistant' && (
                     <Bot className="w-6 h-6 mt-1 text-blue-500" />
                   )}
                   <div
-                    className={`rounded-lg p-3 max-w-[80%] ${
-                      message.sender === 'user'
-                        ? 'bg-blue-500 text-white'
-                        : 'bg-gray-100'
-                    }`}
+                    className={`rounded-lg p-3 max-w-[80%] ${message.sender === 'user'
+                      ? 'bg-blue-500 text-white'
+                      : 'bg-gray-100'
+                      }`}
                   >
                     <p>{message.content}</p>
                     <div className="flex items-center gap-1 mt-1 text-xs opacity-70">
