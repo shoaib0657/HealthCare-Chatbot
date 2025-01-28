@@ -8,7 +8,6 @@ import { useState } from "react";
 import { Progress } from "../ui/progress";
 import { updateDatabaseApi } from "@/api";
 
-
 const Pinecone = () => {
     const [isUploading, setIsUploading] = useState(false);
     const [indexname, setIndexName] = useState("");

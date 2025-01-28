@@ -6,6 +6,8 @@ from sentence_transformers import SentenceTransformer
 import uuid
 import logging
 from config import config
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
+import os
 
 class PineconeService:
     def __init__(self):
@@ -116,3 +118,25 @@ class PineconeService:
         except Exception as e:
             self.logger.error(f"Error querying vectors: {str(e)}")
             raise
+
+    def load_files(self, data):
+        """Load files from data directory"""
+
+        if os.path.isdir(data):
+
+            print("Loading files...")
+
+            loader = DirectoryLoader(
+                data,
+                glob="*.txt",
+                loader_cls=TextLoader
+            )
+
+            documents = loader.load()
+
+            for doc in documents:
+                print(doc)
+
+            return documents
+        else:
+            raise ValueError("Invalid data directory")
