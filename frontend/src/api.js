@@ -109,3 +109,23 @@ export const chatApi = {
     return response.json();
   },
 };
+
+// updata database api
+export const updateDatabaseApi = {
+  updateDatabase: async (indexname, namespace) => {
+    const response = await fetch(`${API_BASE_URL}/updatedatabase`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ indexname, namespace }),
+    });
+
+    if (!response.ok) {
+      const error = await response.json();
+      throw new Error(error.detail);
+    }
+
+    return response.json();
+  },
+};
