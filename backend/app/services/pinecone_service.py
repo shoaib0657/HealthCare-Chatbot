@@ -6,7 +6,10 @@ from sentence_transformers import SentenceTransformer
 import uuid
 import logging
 from config import config
-from langchain_community.document_loaders import DirectoryLoader, TextLoader
+from langchain_community.document_loaders import DirectoryLoader, TextLoader, PyPDFLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_pinecone import PineconeVectorStore
+from langchain_community.embeddings import HuggingFaceEmbeddings
 import os
 
 class PineconeService:
@@ -119,6 +122,13 @@ class PineconeService:
             self.logger.error(f"Error querying vectors: {str(e)}")
             raise
 
+    def text_split(self, extracted_data):
+        
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=20)
+        text_chunks = text_splitter.split_documents(extracted_data)
+
+        return text_chunks
+    
     def load_files(self, data):
         """Load files from data directory"""
 
@@ -128,15 +138,69 @@ class PineconeService:
 
             loader = DirectoryLoader(
                 data,
-                glob="*.txt",
-                loader_cls=TextLoader
+                glob="*.pdf",
+                loader_cls=PyPDFLoader
             )
 
             documents = loader.load()
 
-            for doc in documents:
-                print(doc)
-
             return documents
         else:
             raise ValueError("Invalid data directory")
+        
+    def download_embedding_model(self):
+
+        model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        return model
+
+        
+    def upload_documents(self, data):
+        """Upload documents to Pinecone"""
+
+        index_name = "medical-books"
+
+        print("Uploading documents...")
+
+        model = self.download_embedding_model()
+
+        print("Model loaded...")
+
+        try:
+            if not self.pc.has_index(index_name):
+
+                print("Creating index...")
+
+                self.pc.create_index(
+                    name=index_name,
+                    dimension=384,
+                    metric="cosine",
+                    spec=ServerlessSpec(
+                        cloud='aws', 
+                        region='us-east-1'
+                    ) 
+                )
+
+                # Wait for index to be ready
+                while not self.pc.describe_index(index_name).status.ready:
+                    time.sleep(1)
+
+            index = self.pc.Index(index_name)
+
+            # Load files
+            extracted_data = self.load_files(data)
+
+            # Split text into chunks
+            text_chunks = self.text_split(extracted_data)
+
+            # Upload documents
+            docsearch = PineconeVectorStore.from_documents(
+                documents=text_chunks,
+                index_name=index_name,
+                embedding=model,
+                namespace="ns1"
+            )
+
+            self.logger.info("Documents uploaded successfully")
+        except Exception as e:
+            self.logger.error(f"Failed to upload documents: {str(e)}")
+            raise
