@@ -1,30 +1,20 @@
 import { useState, useEffect, useRef } from 'react';
-import { Send, User, Bot, Clock, FileText } from 'lucide-react';
+import { Send, User, Bot, Clock, FileText, PlusCircle } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
+import { toast, ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 import { chatApi } from '@/api.js';
 
 const History = () => {
   const [messages, setMessages] = useState([]);
   const [inputMessage, setInputMessage] = useState('');
-  const [selectedPatient, setSelectedPatient] = useState(null);
+  const [selectedPatient, setSelectedPatient] = useState('');
   const [currentThreadId, setCurrentThreadId] = useState(null);
   const [patientHistory, setPatientHistory] = useState('');
+  const [doctorNote, setDoctorNote] = useState('');
   const [loading, setLoading] = useState(false);
   const messagesEndRef = useRef(null);
-
-  // Mock patient data - replace with actual API calls
-  const patients = [
-    { id: 1, name: "John Doe" },
-    { id: 2, name: "Jane Smith" },
-    { id: 3, name: "Bob Johnson" }
-  ];
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -34,13 +24,40 @@ const History = () => {
     scrollToBottom();
   }, [messages]);
 
-  const handlePatientSelect = async (patientId) => {
-    setSelectedPatient(patientId);
-    const history = await chatApi.getPatientHistory(patientId);
-    setPatientHistory(history);
-    // setPatientHistory("Patient history will be displayed here");
-    setMessages([]);
+  const handlePatientInput = async (e) => {
+    setSelectedPatient(e.target.value);
   };
+
+  const fetchPatientHistory = async () => {
+    if (!selectedPatient.trim()) return;
+    setPatientHistory('');
+    try {
+      const history = await chatApi.getPatientHistory(selectedPatient);
+      setPatientHistory(history);
+      setMessages([]);
+    } catch (error) {
+      console.error('Error fetching patient history:', error);
+      toast.error('Failed to load patient history. Please check the patient ID and try again.');
+    }
+  };
+
+  const handleAddNote = async () => {
+    if (!doctorNote.trim() || !selectedPatient) return;
+
+    try {
+      await chatApi.addMedicalRecord({
+        patient_id: parseInt(selectedPatient),
+        note: doctorNote,
+        provider_id: 1,
+      })
+      await fetchPatientHistory();
+      setDoctorNote('');
+      toast.success('Note added successfully.');
+    } catch (error) {
+      console.error('Error adding doctor note:', error);
+      toast.error('Failed to add note. Please try again later.');
+    }
+  }
 
   const handleSendMessage = async () => {
     if (!inputMessage.trim() || !selectedPatient) return;
@@ -62,11 +79,13 @@ const History = () => {
         sender: 'assistant',
         timestamp: new Date().toISOString(),
       };
+
       setMessages(prev => [...prev, userMessage, assistantMessage]);
       setCurrentThreadId(response.thread_id);
       setInputMessage('');
     } catch (error) {
       console.error('Error sending message:', error);
+      toast.error('Error sending message. Please try again later.');
     } finally {
       setLoading(false);
     }
@@ -79,18 +98,27 @@ const History = () => {
           <CardTitle>Healthcare Assistant</CardTitle>
         </CardHeader>
         <CardContent>
-          <Select onValueChange={handlePatientSelect}>
-            <SelectTrigger>
-              <SelectValue placeholder="Select a patient" />
-            </SelectTrigger>
-            <SelectContent>
-              {patients.map(patient => (
-                <SelectItem key={patient.id} value={patient.id}>
-                  {patient.name}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
+        <div className="flex gap-2">
+            <input
+              type="text"
+              value={selectedPatient}
+              onChange={handlePatientInput}
+              onKeyUp={(e) => {
+                if (e.key === 'Enter' && selectedPatient.trim()) {
+                  fetchPatientHistory();
+                } 
+              }}
+              placeholder="Enter patient ID"
+              className="p-2 border rounded-lg flex-grow"
+            />
+            <button
+              onClick={fetchPatientHistory}
+              disabled={!selectedPatient.trim()}
+              className="p-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              Load History
+            </button>
+          </div>
         </CardContent>
       </Card>
 
@@ -105,6 +133,33 @@ const History = () => {
           </CardHeader>
           <CardContent>
             <p className="text-sm">{patientHistory}</p>
+
+            {/* Add Doctor's Note */}
+            <div className="mt-4 space-y-2">
+              {/* <input
+                type="text"
+                value={providerId}
+                onChange={(e) => setProviderId(e.target.value)}
+                placeholder="Your Provider ID"
+                className="w-full p-2 border rounded"
+              /> */}
+              <textarea
+                value={doctorNote}
+                onChange={(e) => setDoctorNote(e.target.value)}
+                placeholder="Enter new medical note..."
+                className="w-full p-2 border rounded"
+                rows="4"
+              />
+              <button
+                onClick={handleAddNote}
+                disabled={!selectedPatient || !doctorNote.trim()}
+                className="w-full p-2 bg-green-500 text-white rounded hover:bg-green-600 disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                <PlusCircle className="w-5 h-5 inline-block mr-1" /> 
+                Add Note
+              </button>
+            </div>
+
           </CardContent>
         </Card>
 
@@ -173,6 +228,19 @@ const History = () => {
           </CardContent>
         </Card>
       </div>
+
+      <ToastContainer
+        position="bottom-right"
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="light"
+      />
     </div>
   );
 };

@@ -63,6 +63,10 @@ class ChatResponse(BaseModel):
     message: str
     thread_id: str
 
+class UpdateDatabase(BaseModel):
+    indexname: str
+    namespace: str
+
 # Dependency to verify patient exists
 async def verify_patient(patient_id: int) -> PatientResponse:
     try:
@@ -107,6 +111,9 @@ async def add_medical_record(record: MedicalRecordCreate):
             note=record.note,
             provider_id=record.provider_id
         )
+
+        print(new_record)
+
         return new_record
     except ValueError as e:
         raise HTTPException(status_code=404, detail=str(e))
@@ -184,6 +191,18 @@ async def get_chat_history(thread_id: str):
         raise HTTPException(status_code=404, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+@app.post("/api/updatedatabase")
+async def update_database(update: UpdateDatabase):
+    """
+    Update the database index.
+    """
+
+    indexname = update.indexname
+    namespace = update.namespace
+
+        
+
 
 # Health check endpoint
 @app.get("/api/health")
