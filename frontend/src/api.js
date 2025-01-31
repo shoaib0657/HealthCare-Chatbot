@@ -33,6 +33,9 @@ export const chatApi = {
 
   // Medical records management
   addMedicalRecord: async (recordData) => {
+
+    console.log(recordData);
+
     const response = await fetch(`${API_BASE_URL}/medical-records`, {
       method: 'POST',
       headers: {
@@ -108,6 +111,17 @@ export const chatApi = {
     
     return response.json();
   },
+
+  getPatientHistorySummary: async (patientId) => {
+    const response = await fetch(`${API_BASE_URL}/patients/${patientId}/summary`);
+    
+    if (!response.ok) {
+      const error = await response.json();
+      throw new Error(error.detail);
+    }
+    
+    return response.json();
+  }
 };
 
 // updata database api
@@ -129,3 +143,22 @@ export const updateDatabaseApi = {
     return response.json();
   },
 };
+
+export const symptomCheckerApi = {
+  checkSymptoms: async (formData) => {
+    const response = await fetch(`${API_BASE_URL}/symptomChecker`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(formData),
+    });
+
+    if (!response.ok) {
+      const error = await response.json();
+      throw new Error(error.detail);
+    }
+
+    return response.json();
+  },
+}; 

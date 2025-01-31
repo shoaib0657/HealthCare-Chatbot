@@ -123,8 +123,10 @@ class PineconeService:
             raise
 
     def text_split(self, extracted_data):
+
+        print("Splitting text...")
         
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=20)
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=4000, chunk_overlap=200)
         text_chunks = text_splitter.split_documents(extracted_data)
 
         return text_chunks
@@ -152,7 +154,6 @@ class PineconeService:
 
         model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
         return model
-
         
     def upload_documents(self, data):
         """Upload documents to Pinecone"""
@@ -184,13 +185,15 @@ class PineconeService:
                 while not self.pc.describe_index(index_name).status.ready:
                     time.sleep(1)
 
-            index = self.pc.Index(index_name)
+            # index = self.pc.Index(index_name)
 
             # Load files
             extracted_data = self.load_files(data)
 
             # Split text into chunks
             text_chunks = self.text_split(extracted_data)
+
+            print(len(text_chunks))
 
             # Upload documents
             docsearch = PineconeVectorStore.from_documents(

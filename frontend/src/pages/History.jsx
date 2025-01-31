@@ -32,7 +32,7 @@ const History = () => {
     if (!selectedPatient.trim()) return;
     setPatientHistory('');
     try {
-      const history = await chatApi.getPatientHistory(selectedPatient);
+      const history = await chatApi.getPatientHistorySummary(selectedPatient);
       setPatientHistory(history);
       setMessages([]);
     } catch (error) {
@@ -42,7 +42,10 @@ const History = () => {
   };
 
   const handleAddNote = async () => {
-    if (!doctorNote.trim() || !selectedPatient) return;
+    if (!doctorNote.trim() || !selectedPatient){
+      toast.error('Please enter a note and select a patient.');
+      return;
+    }
 
     try {
       await chatApi.addMedicalRecord({

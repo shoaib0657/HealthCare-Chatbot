@@ -24,10 +24,11 @@ class HealthCareAgent:
 
     def call_model(self, state: State):
         """Call the model with the given state."""
+
         prompt_template = ChatPromptTemplate.from_messages([
             ("system", """
             You are a healthcare assistant. Please answer all questions professionally 
-            and accurately. Always maintain patient confidentiality.
+            and accurately.
             
             Current Patient ID: {patient_id}
             Patient History: {patient_history}
@@ -114,3 +115,24 @@ class HealthCareAgent:
             raise ValueError("Invalid thread ID.")
         
         return self.conversation_states.get(thread_id, {}).get("messages", [])
+
+
+    def get_patient_history_summary(self, patient_id: int):
+        """Get the patient history summary."""
+
+        history = self.patient_service.get_patient_history(patient_id)
+        patient_history = self.patient_service.format_get_patient_history(history)
+
+        prompt_template = ChatPromptTemplate.from_messages([
+            ("system", """
+            Here is the patient history for patient ID {patient_id}:
+            {patient_history}
+            Summarize the patient's history with the most important details.
+            """),
+        ])
+
+        prompt = prompt_template.invoke({"patient_id": patient_id, "patient_history": patient_history})
+
+        response = self.llm.invoke(prompt)
+
+        return response.content

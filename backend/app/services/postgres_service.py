@@ -40,7 +40,6 @@ class PostgresService:
                     record_id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
                     patient_id INT REFERENCES patients(patient_id),
                     note TEXT NOT NULL,
-                    vector_id UUID NOT NULL,
                     created_by INT,
                     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,

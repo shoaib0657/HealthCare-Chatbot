@@ -7,7 +7,7 @@ class PatientService:
     def __init__(self):
         """Initialize Patient service"""
         self.pg = PostgresService()
-        self.pine = PineconeService()
+        # self.pine = PineconeService()
         register_uuid()
 
     def create_patient(self, name, date_of_birth, gender):
@@ -42,20 +42,24 @@ class PatientService:
         # Verify patient exists first
         if not self.get_patient(patient_id):
             raise ValueError(f"Patient {patient_id} not found")
+        
+        print(f"Adding medical record for patient {patient_id}")
 
         # Store in Pinecone
-        vector_id = self.pine.index_patient_data(patient_id, note)
+        # vector_id = self.pine.index_patient_data(patient_id, note)
 
         # Store in Postgres
         conn = self.pg.get_connection()
         with conn.cursor(cursor_factory=RealDictCursor) as cur:
             cur.execute("""
-                INSERT INTO medical_records (patient_id, note, vector_id, created_by)
-                VALUES (%s, %s, %s, %s)
-                RETURNING record_id, patient_id, note, vector_id, created_at, created_by
-            """, (patient_id, note, vector_id, provider_id))
+                INSERT INTO medical_records (patient_id, note, created_by)
+                VALUES (%s, %s, %s)
+                RETURNING record_id, patient_id, note, created_at, created_by
+            """, (patient_id, note, provider_id))
             record = cur.fetchone()
             conn.commit()
+
+        print(record)
 
         return record
 
@@ -71,10 +75,9 @@ class PatientService:
             """, (record_id,))
             record = cur.fetchone()
 
-            # Delete from Pinecone
             if record:
                 # Delete from Pinecone
-                self.pine.delete_vector(record['patient_id'], record['vector_id'])
+                # self.pine.delete_vector(record['patient_id'], record['vector_id'])
 
                 # Soft delete from Postgres
                 cur.execute("""
@@ -93,7 +96,7 @@ class PatientService:
         conn = self.pg.get_connection()
         with conn.cursor(cursor_factory=RealDictCursor) as cur:
             cur.execute("""
-                SELECT record_id, patient_id, note, vector_id, created_at, created_by
+                SELECT record_id, patient_id, note, created_at, created_by
                 FROM medical_records
                 WHERE patient_id = %s AND NOT is_deleted
                 ORDER BY created_at DESC

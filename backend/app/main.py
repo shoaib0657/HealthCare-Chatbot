@@ -2,12 +2,13 @@
 from datetime import datetime, date
 from typing import List, Optional
 import uuid
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import UUID4, BaseModel
 from routes import chatbot, auth
 from services.chat_service import HealthCareAgent
 from services.patient_service import PatientService
+from utils.symptomChecker import run
 
 app = FastAPI(title="Medical AI Chatbot API")
 
@@ -50,7 +51,6 @@ class MedicalRecordResponse(BaseModel):
     record_id: UUID4
     patient_id: int
     note: str
-    vector_id: str
     created_at: datetime
     created_by: int
 
@@ -152,6 +152,25 @@ async def get_patient_history(patient_id: int):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
+# Get patient history summary
+@app.get("/api/patients/{patient_id}/summary")
+async def get_patient_summary(patient_id: int):
+    """
+    Get patient history summary by ID.
+    """
+    try:
+        # Verify patient exists
+        await verify_patient(patient_id)
+
+        # Get history summary
+        summary = health_agent.get_patient_history_summary(patient_id)
+        print(summary)
+        return summary
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
 @app.post("/api/chat", response_model=ChatResponse)
 async def chat(chat_message: ChatMessage):
     """
@@ -192,16 +211,17 @@ async def get_chat_history(thread_id: str):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
-@app.post("/api/updatedatabase")
-async def update_database(update: UpdateDatabase):
+@app.post("/api/symptomChecker")
+async def symptom_checker(request: Request):
     """
-    Update the database index.
+    Run the symptom checker model.
     """
-
-    indexname = update.indexname
-    namespace = update.namespace
-
-        
+    try:
+        data = await request.json()
+        response = run(data)
+        return {"message": "Success", "result": response}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 # Health check endpoint
