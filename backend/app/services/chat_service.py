@@ -18,7 +18,7 @@ class HealthCareAgent:
 
         # Initialize conversation states (replacing checkpointer)
         self.conversation_states = {}
-        
+
         # Build graph
         self.graph = self._build_graph()
 
@@ -26,18 +26,28 @@ class HealthCareAgent:
         """Call the model with the given state."""
 
         prompt_template = ChatPromptTemplate.from_messages([
-            ("system", """
-            You are a healthcare assistant. Please answer all questions professionally 
-            and accurately.
+            ("system", """You are an advanced healthcare assistant focused on providing accurate, 
+            empathetic, and professional medical guidance. Your responses should be:
+
+            1. Evidence-based and clinically appropriate
+            2. Clear and accessible to patients while maintaining medical accuracy
+            3. Compliant with all healthcare regulations and HIPAA requirements
+
+            Context:
+            - Patient ID: {patient_id}
+            - Medical History Summary: {patient_history}
+
+            Key Requirements:
+            - Always maintain patient confidentiality
+            - Use appropriate medical terminology with clear explanations
+            - Provide relevant preventive care recommendations
+            - Flag urgent symptoms requiring immediate medical attention
+            - Recommend specialist consultations when appropriate
+            - Document all medical advice provided
             
-            Current Patient ID: {patient_id}
-            Patient History: {patient_history}
-            
-            Guidelines:
-            - Maintain HIPAA compliance
-            - Use medical terminology appropriately
-            - Refer to specialists when necessary
-            """),
+            Important: If you encounter any critical or emergency symptoms, immediately 
+            advise the patient to seek emergency care and provide clear guidance on 
+            next steps."""),
             MessagesPlaceholder(variable_name="messages"),
         ])
 
@@ -124,11 +134,20 @@ class HealthCareAgent:
         patient_history = self.patient_service.format_get_patient_history(history)
 
         prompt_template = ChatPromptTemplate.from_messages([
-            ("system", """
-            Here is the patient history for patient ID {patient_id}:
+            ("system", """Analyze and summarize the following patient history for patient ID {patient_id}:
+
             {patient_history}
-            Summarize the patient's history with the most important details.
-            """),
+
+            Please provide a comprehensive summary that includes:
+            1. Key medical conditions and their current status
+            2. Significant past procedures or hospitalizations
+            3. Current medications and known allergies
+            4. Important family history
+            5. Recent significant changes in health status
+            6. Outstanding follow-up items or pending tests
+            
+            Format the summary in a clear, professional manner that highlights clinically 
+            significant information while maintaining patient confidentiality.""")
         ])
 
         prompt = prompt_template.invoke({"patient_id": patient_id, "patient_history": patient_history})

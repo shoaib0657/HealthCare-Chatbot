@@ -11,8 +11,8 @@ export default function SymptomChecker() {
   const [formData, setFormData] = useState({
     age: '',
     gender: 'male',
-    occupation: '',
-    nationality: '',
+    // occupation: '',
+    // nationality: '',
     weight: '',
     chronic_diseases: '',
     allergies: '',
@@ -56,6 +56,36 @@ export default function SymptomChecker() {
     }
   };
 
+  const formatResultText = (text) => {
+    return text
+      .split('\n')
+      .filter(line => line.trim() !== '')
+      .map((line, index) => {
+        let bullet = false;
+        let content = line;
+        
+        if (line.startsWith('* ')) {
+          bullet = true;
+          content = line.substring(2).trim();
+        }
+
+        const parts = content.split('**');
+        const formattedContent = parts.map((part, i) => {
+          if (i % 2 === 1) {
+            return <strong key={i}>{part}</strong>;
+          }
+          return part;
+        });
+
+        return (
+          <div key={index} className={bullet ? "mt-2" : ""}>
+            {bullet && <span>• </span>}
+            {formattedContent}
+          </div>
+        );
+      });
+  };
+
   return (
     <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
       <Card className="max-w-3xl mx-auto">
@@ -97,7 +127,7 @@ export default function SymptomChecker() {
                 </Select>
               </div>
 
-              <div>
+              {/* <div>
                 <Label htmlFor="occupation">Occupation</Label>
                 <Input
                   id="occupation"
@@ -117,7 +147,7 @@ export default function SymptomChecker() {
                   onChange={handleChange}
                   required
                 />
-              </div>
+              </div> */}
 
               <div>
                 <Label htmlFor="weight">Weight (kg)</Label>
@@ -130,6 +160,27 @@ export default function SymptomChecker() {
                   required
                 />
               </div>
+              
+              <div>
+                <Label htmlFor="smoking_status">Smoking Status</Label>
+                <Input
+                  id="smoking_status"
+                  name="smoking_status"
+                  value={formData.smoking_status}
+                  onChange={handleChange}
+                />
+              </div>
+
+              <div>
+                <Label htmlFor="alcohol_intake">Alcohol Intake</Label>
+                <Input
+                  id="alcohol_intake"
+                  name="alcohol_intake"
+                  value={formData.alcohol_intake}
+                  onChange={handleChange}
+                />
+              </div>
+
             </div>
 
             {/* Medical History */}
@@ -175,26 +226,6 @@ export default function SymptomChecker() {
               </div>
 
               <div>
-                <Label htmlFor="smoking_status">Smoking Status</Label>
-                <Input
-                  id="smoking_status"
-                  name="smoking_status"
-                  value={formData.smoking_status}
-                  onChange={handleChange}
-                />
-              </div>
-
-              <div>
-                <Label htmlFor="alcohol_intake">Alcohol Intake</Label>
-                <Input
-                  id="alcohol_intake"
-                  name="alcohol_intake"
-                  value={formData.alcohol_intake}
-                  onChange={handleChange}
-                />
-              </div>
-
-              <div>
                 <Label htmlFor="occasional_drug_use">Occasional Drug Use</Label>
                 <Input
                   id="occasional_drug_use"
@@ -227,7 +258,13 @@ export default function SymptomChecker() {
             {(result || error) && (
               <Alert variant={error ? "destructive" : "default"} className="w-full">
                 <AlertDescription>
-                  {error || result}
+                  {error ? (
+                    error
+                  ) : (
+                    <div className='space-y-2'>
+                      {formatResultText(result)}
+                    </div>
+                  )}
                 </AlertDescription>
               </Alert>
             )}
