@@ -98,7 +98,7 @@ const History = () => {
     <div className="flex flex-col h-[100vh] w-[100vw] mx-auto p-4">
       <Card className="mb-4">
         <CardHeader>
-          <CardTitle>Healthcare Assistant</CardTitle>
+          <CardTitle className="text-2xl font-bold text-gray-900 self-center">Healthcare Assistant</CardTitle>
         </CardHeader>
         <CardContent>
         <div className="flex gap-2">
