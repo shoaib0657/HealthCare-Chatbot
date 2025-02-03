@@ -27,13 +27,13 @@ export async function queryPineconeVectorStore(
     includeValues: false,
   });
 
-  console.log(queryResponse);
+  console.log(queryResponse.matches[0].metadata);
 
   if (queryResponse.matches.length > 0) {
     const concatenatedRetrievals = queryResponse.matches
       .map(
         (match, index) =>
-          `\nClinical Finding ${index + 1}: \n ${match.metadata?.chunk}`
+          `\nClinical Finding ${index + 1}: \n ${match.metadata?.text}`
       )
       .join(". \n\n");
     return concatenatedRetrievals;
