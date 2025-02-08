@@ -94,6 +94,60 @@ const History = () => {
     }
   };
 
+  const formatPatientHistory = (text) => {
+    return text.split('\n').filter(line => line.trim() !== '').map((line, index) => {
+      let bullet = false;
+      let content = line;
+
+      if (line.startsWith('* ')) {
+        bullet = true;
+        content = line.substring(2).trim();
+      }
+
+      const parts = content.split('**');
+        const formattedContent = parts.map((part, i) => {
+          if (i % 2 === 1) {
+            return <strong key={i}>{part}</strong>;
+          }
+          return part;
+        });
+
+        return (
+          <div key={index} className={bullet ? "mt-2" : ""}>
+            {bullet && <span>• </span>}
+            {formattedContent}
+          </div>
+        );
+    });
+  };
+
+  const formatAIMessage = (text) => {
+    return text.split('\n').filter(line => line.trim() !== '').map((line, index) => {
+      let bullet = false;
+      let content = line;
+
+      if (line.startsWith('* ')) {
+        bullet = true;
+        content = line.substring(2).trim();
+      }
+
+      const parts = content.split('**');
+        const formattedContent = parts.map((part, i) => {
+          if (i % 2 === 1) {
+            return <strong key={i}>{part}</strong>;
+          }
+          return part;
+        });
+
+        return (
+          <div key={index} className={bullet ? "mt-2" : ""}>
+            {bullet && <span>• </span>}
+            {formattedContent}
+          </div>
+        );
+    });
+  }
+
   return (
     <div className="flex flex-col h-[100vh] w-[100vw] mx-auto p-4">
       <Card className="mb-4">
@@ -135,7 +189,11 @@ const History = () => {
             </CardTitle>
           </CardHeader>
           <CardContent>
-            <p className="text-sm">{patientHistory}</p>
+            {/* <p className="text-sm">{patientHistory}</p> */}
+
+            <div className='text-sm space-y-4'>
+              {formatPatientHistory(patientHistory)}
+            </div>
 
             {/* Add Doctor's Note */}
             <div className="mt-4 space-y-2">
@@ -189,7 +247,7 @@ const History = () => {
                       : 'bg-gray-100'
                       }`}
                   >
-                    <p>{message.content}</p>
+                    <p>{formatAIMessage(message.content)}</p>
                     <div className="flex items-center gap-1 mt-1 text-xs opacity-70">
                       <Clock className="w-3 h-3" />
                       {new Date(message.timestamp).toLocaleTimeString()}

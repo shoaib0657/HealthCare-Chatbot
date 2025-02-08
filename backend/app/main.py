@@ -179,16 +179,16 @@ async def chat(chat_message: ChatMessage):
     try:
         # Verify patient exists
         await verify_patient(chat_message.patient_id)
+
+        # If no thread_id was provided, get it from the agent's state
+        thread_id = chat_message.thread_id or str(uuid.uuid4())
         
         response = health_agent.process_message(
             input_text=chat_message.message,
             patient_id=chat_message.patient_id,
-            thread_id=chat_message.thread_id if chat_message.thread_id else None
+            thread_id=thread_id
         )
-        
-        # If no thread_id was provided, get it from the agent's state
-        thread_id = chat_message.thread_id or str(uuid.uuid4())
-        
+         
         return ChatResponse(
             message=response,
             thread_id=thread_id
