@@ -42,25 +42,25 @@ export async function POST(req: Request, res: Response) {
     query
   );
 
-  const finalPrompt = `Here is a summary of a patient's clinical report, and a user query. Some generic clinical findings are also provided that may or may not be relevant for the report.
-  Go through the clinical report and answer the user query.
-  Ensure the response is factually accurate, and demonstrates a thorough understanding of the query topic and the clinical report.
-  Before answering you may enrich your knowledge by going through the provided clinical findings. 
-  The clinical findings are generic insights and not part of the patient's medical report. Do not include any clinical finding if it is not relevant for the patient's case.
+  const finalPrompt = `As a medical expert, analyze this patient's clinical report and user query. Integrate ONLY RELEVANT information from the provided clinical findings. Structure your response with:
 
-  \n\n**Patient's Clinical report summary:** \n${reportData}. 
-  \n**end of patient's clinical report** 
+**1. Key Findings** (2-3 bullet points of critical report insights)
+**2. Recommendations** (Actionable steps if applicable)
 
-  \n\n**User Query:**\n${userQuestion}?
-  \n**end of user query** 
+Formatting rules:
+- Use clear headings with **bold**
+- 1-2 sentence bullets
+- Omit obvious/normal findings
+- Flag critical values with ❗
+- Never include irrelevant clinical findings
 
-  \n\n**Generic Clinical findings:**
-  \n\n${retrievals}. 
-  \n\n**end of generic clinical findings** 
+Patient Report: ${reportData}
 
-  \n\nProvide thorough justification for your answer.
-  \n\n**Answer:**
-  `;
+User Query: ${userQuestion}
+
+Clinical Findings: ${retrievals}
+
+Response:`;
 
   const data = new StreamData();
   data.append({
