@@ -1,15 +1,18 @@
 from typing import Optional
 import uuid
+from typing_extensions import Annotated, TypedDict
 from langchain_groq import ChatGroq
-from langgraph.graph import MessagesState, StateGraph, START
+from langgraph.graph import StateGraph, START
+from langgraph.graph.message import add_messages
 from langchain_core.messages import HumanMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from services.patient_service import PatientService
 
-class State(MessagesState):
+class State(TypedDict):
     patient_id: Optional[int] = None
     patient_history: Optional[str] = None
     thread_id: Optional[str] = None
+    messages: Annotated[list, add_messages]
 
 class HealthCareAgent:
     def __init__(self):
@@ -26,28 +29,23 @@ class HealthCareAgent:
         """Call the model with the given state."""
 
         prompt_template = ChatPromptTemplate.from_messages([
-            ("system", """You are an advanced healthcare assistant focused on providing accurate, 
-            empathetic, and professional medical guidance. Your responses should be:
-
-            1. Evidence-based and clinically appropriate
-            2. Clear and accessible to patients while maintaining medical accuracy
-            3. Compliant with all healthcare regulations and HIPAA requirements
+            ("system", """You are a clinical decision support assistant providing concise, evidence-based medical insights. Your responses should be:
+            1. Brief and clinically focused
+            2. Prioritizing key diagnostic and treatment considerations
 
             Context:
             - Patient ID: {patient_id}
-            - Medical History Summary: {patient_history}
+            - Medical History: {patient_history}
 
-            Key Requirements:
-            - Always maintain patient confidentiality
-            - Use appropriate medical terminology with clear explanations
-            - Provide relevant preventive care recommendations
-            - Flag urgent symptoms requiring immediate medical attention
-            - Recommend specialist consultations when appropriate
-            - Document all medical advice provided
-            
-            Important: If you encounter any critical or emergency symptoms, immediately 
-            advise the patient to seek emergency care and provide clear guidance on 
-            next steps."""),
+            Response Format:
+            - Use standard medical terminology without explanations
+            - Prioritize differential diagnoses and treatment options
+            - Lead with critical findings or concerns
+            - Include relevant clinical guidelines and criteria
+            - Document recommendations in SOAP format when applicable
+
+            Critical Findings Protocol:
+            Flag life-threatening conditions with "CRITICAL ALERT" prefix and list immediate action items."""),
             MessagesPlaceholder(variable_name="messages"),
         ])
 
@@ -59,7 +57,7 @@ class HealthCareAgent:
 
         response = self.llm.invoke(prompt)
 
-        return {"messages": response}
+        return {"messages": [response]}
 
     def _build_graph(self):
         workflow = StateGraph(state_schema=State)
@@ -84,26 +82,33 @@ class HealthCareAgent:
         # Create or use thread ID
         thread_id = thread_id or str(uuid.uuid4())
 
-        history = self.patient_service.get_patient_history(patient_id)
-        patient_history = self.patient_service.format_get_patient_history(history)
+        # If a conversation state already exists for this thread, retrieve it.
+        # Otherwise, initialize a new state.
+        if thread_id in self.conversation_states:
+            state = self.conversation_states[thread_id]
+        else:    
+            history = self.patient_service.get_patient_history(patient_id)
+            patient_history = self.patient_service.format_get_patient_history(history)
 
-        # Initialize state
-        initial_state = State(
-            thread_id=thread_id,
-            patient_id=patient_id,
-            patient_history=patient_history,
-            messages=[]
-        )
+            # Initialize state
+            state = State(
+                thread_id=thread_id,
+                patient_id=patient_id,
+                patient_history=patient_history,
+                messages=[]
+            )
 
         # Add input message as HumanMessage object
         input_message = HumanMessage(content=input_text)
-        initial_state["messages"].append(input_message)
-
-        # Store state in conversation states
-        self.conversation_states[thread_id] = initial_state
+        state["messages"].append(input_message)
 
         # Process through graph
-        result = self.graph.invoke(initial_state)
+        result = self.graph.invoke(state)
+
+        # Store state in conversation states
+        self.conversation_states[thread_id] = result
+
+        # print("result\n", result)
 
         return self._format_response(result)
     
@@ -115,7 +120,7 @@ class HealthCareAgent:
         # Get the last message
         response = result["messages"][-1].content if result["messages"] else ""
 
-        print("response\n", response)
+        # print("response\n", response)
 
         return response
     
@@ -134,21 +139,24 @@ class HealthCareAgent:
         patient_history = self.patient_service.format_get_patient_history(history)
 
         prompt_template = ChatPromptTemplate.from_messages([
-            ("system", """Analyze and summarize the following patient history for patient ID {patient_id}:
+            ("system", """You are an AI assistant summarizing patient histories for doctors. 
 
+            Given the patient history for patient ID {patient_id}, generate a **brief and clinically relevant** summary that highlights only the **most essential** details. 
+
+            Patient History:
             {patient_history}
 
-            Please provide a comprehensive summary that includes:
-            1. Key medical conditions and their current status
-            2. Significant past procedures or hospitalizations
-            3. Current medications and known allergies
-            4. Important family history
-            5. Recent significant changes in health status
-            6. Outstanding follow-up items or pending tests
-            
-            Format the summary in a clear, professional manner that highlights clinically 
-            significant information while maintaining patient confidentiality.""")
+            **Summary Format (Keep it Short & Focused):**  
+            - **Key Conditions:** (Only major chronic illnesses or acute conditions)  
+            - **Critical Past Procedures:** (Only if highly relevant)  
+            - **Current Medications & Allergies:** (Mention if significant)  
+            - **Recent Major Health Changes:** (New symptoms, worsening conditions)  
+            - **Urgent Follow-ups or Tests:** (If any)  
+
+            ⚠️ Keep the summary under **5-6 lines** while ensuring clarity and clinical relevance.
+            """)
         ])
+
 
         prompt = prompt_template.invoke({"patient_id": patient_id, "patient_history": patient_history})
 
