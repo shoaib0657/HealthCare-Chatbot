@@ -19,7 +19,7 @@ const google = createGoogleGenerativeAI({
 
 // gemini-1.5-pro-latest
 // gemini-1.5-pro-exp-0801
-const model = google("models/gemini-1.5-pro-latest", {
+const model = google("models/gemini-2.0-pro-exp-02-05", {
   safetySettings: [
     { category: "HARM_CATEGORY_DANGEROUS_CONTENT", threshold: "BLOCK_NONE" },
   ],
@@ -70,6 +70,8 @@ Response:`;
   const result = await streamText({
     model: model,
     prompt: finalPrompt,
+    temperature: 0.7,
+    maxTokens: 300,
     onFinish() {
       data.close();
     },
